@@ -1,0 +1,4 @@
+year,origin_code_state,origin_code_county,origin_state,origin_county,dest_code_state,dest_code_county,dest_state,dest_county,num_movers
+2011,13,63,GA,Clayton,96,0,GA,Clayton Tot Mig-US & For,27637
+2011,13,63,GA,Clayton,97,0,GA,Clayton Tot Mig-US,27525
+2011,13,63,GA,Clayton,97,1,GA,Clayton Tot Mig-Same St,21147
