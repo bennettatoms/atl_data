@@ -13,7 +13,7 @@ gem 'awesome_print', :group => :development
 gem 'pg'
 gem 'httparty'
 
-# gem 'jbuilder'
+gem 'jbuilder'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
