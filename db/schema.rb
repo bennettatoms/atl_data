@@ -11,24 +11,18 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150325210740) do
+ActiveRecord::Schema.define(version: 20150327194955) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
   create_table "movers", force: :cascade do |t|
-    t.integer  "year"
-    t.integer  "origin_code_state"
-    t.integer  "origin_code_county"
-    t.string   "origin_state"
-    t.string   "origin_county"
-    t.integer  "dest_code_state"
-    t.integer  "dest_code_county"
-    t.string   "dest_state"
-    t.string   "dest_county"
-    t.integer  "num_movers"
-    t.datetime "created_at",         null: false
-    t.datetime "updated_at",         null: false
+    t.integer "year"
+    t.string  "origin_state"
+    t.string  "origin_county"
+    t.string  "dest_state"
+    t.string  "dest_county"
+    t.integer "num_movers"
   end
 
 end
