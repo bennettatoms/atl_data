@@ -31,6 +31,10 @@ angular
         templateUrl: 'views/movers.html',
         controller: 'MoversCtrl'
       })
+      .when('/chord', {
+        templateUrl: 'views/chord.html',
+        controller: 'ChordCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });
