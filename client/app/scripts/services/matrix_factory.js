@@ -1,3 +1,5 @@
+'use strict';
+
 angular.module('clientApp')
 .factory('matrixFactory', [function () {
 
