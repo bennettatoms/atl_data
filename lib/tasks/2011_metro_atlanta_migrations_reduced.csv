@@ -1,2163 +1,2056 @@
-year,origin_code_state,origin_code_county,origin_state,origin_county,dest_code_state,dest_code_county,dest_state,dest_county,num_movers
-2011,13,63,GA,Clayton,96,0,GA,Clayton Tot Mig-US & For,27637
-2011,13,63,GA,Clayton,97,0,GA,Clayton Tot Mig-US,27525
-2011,13,63,GA,Clayton,97,1,GA,Clayton Tot Mig-Same St,21147
-2011,13,63,GA,Clayton,97,3,GA,Clayton Tot Mig-Diff St,6378
-2011,13,63,GA,Clayton,98,0,GA,Clayton Tot Mig-Foreign,112
-2011,13,63,GA,Clayton,12,86,FL,Miami Dade,169
-2011,13,63,GA,Clayton,12,11,FL,Broward,118
-2011,13,63,GA,Clayton,12,57,FL,Hillsborough,98
-2011,13,63,GA,Clayton,6,37,CA,Los Angeles,121
-2011,13,63,GA,Clayton,36,47,NY,Kings,110
-2011,13,63,GA,Clayton,48,201,TX,Harris,109
-2011,13,63,GA,Clayton,17,31,IL,Cook,113
-2011,13,63,GA,Clayton,57,5,FR,Foreign - APO/FPO ZIPs,85
-2011,13,63,GA,Clayton,12,95,FL,Orange,73
-2011,13,63,GA,Clayton,37,119,NC,Mecklenburg,71
-2011,13,63,GA,Clayton,26,163,MI,Wayne,61
-2011,13,63,GA,Clayton,47,157,TN,Shelby,89
-2011,13,63,GA,Clayton,48,113,TX,Dallas,81
-2011,13,63,GA,Clayton,12,99,FL,Palm Beach,68
-2011,13,63,GA,Clayton,22,71,LA,Orleans Parish,62
-2011,13,63,GA,Clayton,1,73,AL,Jefferson,62
-2011,13,63,GA,Clayton,4,13,AZ,Maricopa,52
-2011,13,63,GA,Clayton,12,31,FL,Duval,52
-2011,13,63,GA,Clayton,1,101,AL,Montgomery,60
-2011,13,63,GA,Clayton,24,33,MD,Prince George's,52
-2011,13,63,GA,Clayton,22,51,LA,Jefferson Parish,45
-2011,13,63,GA,Clayton,36,5,NY,Bronx,43
-2011,13,63,GA,Clayton,1,97,AL,Mobile,49
-2011,13,63,GA,Clayton,37,183,NC,Wake,46
-2011,13,63,GA,Clayton,45,79,SC,Richland,48
-2011,13,63,GA,Clayton,6,73,CA,San Diego,40
-2011,13,63,GA,Clayton,36,81,NY,Queens,43
-2011,13,63,GA,Clayton,28,49,MS,Hinds,38
-2011,13,63,GA,Clayton,39,35,OH,Cuyahoga,42
-2011,13,63,GA,Clayton,42,101,PA,Philadelphia,35
-2011,13,63,GA,Clayton,12,33,FL,Escambia,39
-2011,13,63,GA,Clayton,37,51,NC,Cumberland,28
-2011,13,63,GA,Clayton,1,89,AL,Madison,33
-2011,13,63,GA,Clayton,24,31,MD,Montgomery,31
-2011,13,63,GA,Clayton,47,37,TN,Davidson,36
-2011,13,63,GA,Clayton,12,73,FL,Leon,25
-2011,13,63,GA,Clayton,12,103,FL,Pinellas,23
-2011,13,63,GA,Clayton,27,53,MN,Hennepin,31
-2011,13,63,GA,Clayton,6,1,CA,Alameda,20
-2011,13,63,GA,Clayton,12,127,FL,Volusia,25
-2011,13,63,GA,Clayton,18,97,IN,Marion,39
-2011,13,63,GA,Clayton,45,45,SC,Greenville,38
-2011,13,63,GA,Clayton,48,439,TX,Tarrant,45
-2011,13,63,GA,Clayton,26,125,MI,Oakland,20
-2011,13,63,GA,Clayton,32,3,NV,Clark,22
-2011,13,63,GA,Clayton,36,61,NY,New York,20
-2011,13,63,GA,Clayton,42,3,PA,Allegheny,29
-2011,13,63,GA,Clayton,48,29,TX,Bexar,30
-2011,13,63,GA,Clayton,48,141,TX,El Paso,42
-2011,13,63,GA,Clayton,1,81,AL,Lee,25
-2011,13,63,GA,Clayton,25,25,MA,Suffolk,22
-2011,13,63,GA,Clayton,36,55,NY,Monroe,25
-2011,13,63,GA,Clayton,48,27,TX,Bell,26
-2011,13,63,GA,Clayton,51,710,VA,Norfolk city,22
-2011,13,63,GA,Clayton,6,71,CA,San Bernardino,29
-2011,13,63,GA,Clayton,12,9,FL,Brevard,31
-2011,13,63,GA,Clayton,24,5,MD,Baltimore,30
-2011,13,63,GA,Clayton,34,13,NJ,Essex,23
-2011,13,63,GA,Clayton,34,39,NJ,Union,25
-2011,13,63,GA,Clayton,37,81,NC,Guilford,33
-2011,13,63,GA,Clayton,51,700,VA,Newport News city,18
-2011,13,63,GA,Clayton,55,79,WI,Milwaukee,30
-2011,13,63,GA,Clayton,1,113,AL,Russell,18
-2011,13,63,GA,Clayton,22,33,LA,East Baton Rouge Parish,25
-2011,13,63,GA,Clayton,36,59,NY,Nassau,28
-2011,13,63,GA,Clayton,39,61,OH,Hamilton,32
-2011,13,63,GA,Clayton,45,83,SC,Spartanburg,34
-2011,13,63,GA,Clayton,15,3,HI,Honolulu,22
-2011,13,63,GA,Clayton,39,49,OH,Franklin,24
-2011,13,63,GA,Clayton,45,13,SC,Beaufort,12
-2011,13,63,GA,Clayton,47,65,TN,Hamilton,27
-2011,13,63,GA,Clayton,48,121,TX,Denton,19
-2011,13,63,GA,Clayton,51,59,VA,Fairfax,17
-2011,13,63,GA,Clayton,58,0,SS,Other Flows - Same State,500
-2011,13,63,GA,Clayton,59,0,DS,Other Flows - Diff State,3155
-2011,13,63,GA,Clayton,59,1,DS,Other Flows - Northeast,369
-2011,13,63,GA,Clayton,59,3,DS,Other Flows - Midwest,511
-2011,13,63,GA,Clayton,59,5,DS,Other Flows - South,1901
-2011,13,63,GA,Clayton,59,7,DS,Other Flows - West,374
-2011,13,63,GA,Clayton,57,9,FR,Foreign - Other flows,27
-2011,13,67,GA,Cobb,96,0,GA,Cobb Tot Mig-US & For,46008
-2011,13,67,GA,Cobb,97,0,GA,Cobb Tot Mig-US,45569
-2011,13,67,GA,Cobb,97,1,GA,Cobb Tot Mig-Same St,27581
-2011,13,67,GA,Cobb,97,3,GA,Cobb Tot Mig-Diff St,17988
-2011,13,67,GA,Cobb,98,0,GA,Cobb Tot Mig-Foreign,439
-2011,13,67,GA,Cobb,12,86,FL,Miami Dade,363
-2011,13,67,GA,Cobb,6,37,CA,Los Angeles,314
-2011,13,67,GA,Cobb,12,11,FL,Broward,293
-2011,13,67,GA,Cobb,48,201,TX,Harris,344
-2011,13,67,GA,Cobb,12,57,FL,Hillsborough,249
-2011,13,67,GA,Cobb,17,31,IL,Cook,286
-2011,13,67,GA,Cobb,37,119,NC,Mecklenburg,275
-2011,13,67,GA,Cobb,48,113,TX,Dallas,275
-2011,13,67,GA,Cobb,12,95,FL,Orange,229
-2011,13,67,GA,Cobb,12,31,FL,Duval,197
-2011,13,67,GA,Cobb,1,73,AL,Jefferson,211
-2011,13,67,GA,Cobb,36,47,NY,Kings,153
-2011,13,67,GA,Cobb,36,61,NY,New York,122
-2011,13,67,GA,Cobb,4,13,AZ,Maricopa,165
-2011,13,67,GA,Cobb,48,439,TX,Tarrant,163
-2011,13,67,GA,Cobb,12,99,FL,Palm Beach,162
-2011,13,67,GA,Cobb,57,5,FR,Foreign - APO/FPO ZIPs,148
-2011,13,67,GA,Cobb,37,183,NC,Wake,177
-2011,13,67,GA,Cobb,47,65,TN,Hamilton,132
-2011,13,67,GA,Cobb,47,157,TN,Shelby,162
-2011,13,67,GA,Cobb,45,45,SC,Greenville,157
-2011,13,67,GA,Cobb,12,103,FL,Pinellas,117
-2011,13,67,GA,Cobb,47,37,TN,Davidson,89
-2011,13,67,GA,Cobb,53,33,WA,King,114
-2011,13,67,GA,Cobb,6,73,CA,San Diego,130
-2011,13,67,GA,Cobb,48,453,TX,Travis,120
-2011,13,67,GA,Cobb,22,71,LA,Orleans Parish,119
-2011,13,67,GA,Cobb,27,53,MN,Hennepin,115
-2011,13,67,GA,Cobb,45,19,SC,Charleston,111
-2011,13,67,GA,Cobb,51,59,VA,Fairfax,111
-2011,13,67,GA,Cobb,24,33,MD,Prince George's,95
-2011,13,67,GA,Cobb,48,29,TX,Bexar,114
-2011,13,67,GA,Cobb,26,163,MI,Wayne,95
-2011,13,67,GA,Cobb,39,49,OH,Franklin,94
-2011,13,67,GA,Cobb,11,1,DC,District of Columbia,62
-2011,13,67,GA,Cobb,1,89,AL,Madison,87
-2011,13,67,GA,Cobb,6,59,CA,Orange,97
-2011,13,67,GA,Cobb,25,17,MA,Middlesex,80
-2011,13,67,GA,Cobb,48,85,TX,Collin,113
-2011,13,67,GA,Cobb,32,3,NV,Clark,83
-2011,13,67,GA,Cobb,24,31,MD,Montgomery,84
-2011,13,67,GA,Cobb,39,61,OH,Hamilton,71
-2011,13,67,GA,Cobb,21,111,KY,Jefferson,84
-2011,13,67,GA,Cobb,29,189,MO,St Louis,92
-2011,13,67,GA,Cobb,1,97,AL,Mobile,74
-2011,13,67,GA,Cobb,12,9,FL,Brevard,81
-2011,13,67,GA,Cobb,12,127,FL,Volusia,66
-2011,13,67,GA,Cobb,51,13,VA,Arlington,54
-2011,13,67,GA,Cobb,6,85,CA,Santa Clara,80
-2011,13,67,GA,Cobb,12,73,FL,Leon,55
-2011,13,67,GA,Cobb,12,117,FL,Seminole,71
-2011,13,67,GA,Cobb,22,33,LA,East Baton Rouge Parish,87
-2011,13,67,GA,Cobb,45,79,SC,Richland,67
-2011,13,67,GA,Cobb,26,125,MI,Oakland,91
-2011,13,67,GA,Cobb,55,79,WI,Milwaukee,64
-2011,13,67,GA,Cobb,1,101,AL,Montgomery,63
-2011,13,67,GA,Cobb,39,35,OH,Cuyahoga,74
-2011,13,67,GA,Cobb,8,31,CO,Denver,63
-2011,13,67,GA,Cobb,12,33,FL,Escambia,53
-2011,13,67,GA,Cobb,12,71,FL,Lee,59
-2011,13,67,GA,Cobb,12,105,FL,Polk,59
-2011,13,67,GA,Cobb,36,81,NY,Queens,73
-2011,13,67,GA,Cobb,42,3,PA,Allegheny,62
-2011,13,67,GA,Cobb,24,5,MD,Baltimore,62
-2011,13,67,GA,Cobb,47,93,TN,Knox,70
-2011,13,67,GA,Cobb,1,117,AL,Shelby,81
-2011,13,67,GA,Cobb,28,49,MS,Hinds,56
-2011,13,67,GA,Cobb,37,133,NC,Onslow,67
-2011,13,67,GA,Cobb,36,5,NY,Bronx,60
-2011,13,67,GA,Cobb,12,5,FL,Bay,55
-2011,13,67,GA,Cobb,12,115,FL,Sarasota,59
-2011,13,67,GA,Cobb,48,121,TX,Denton,67
-2011,13,67,GA,Cobb,9,3,CT,Hartford,65
-2011,13,67,GA,Cobb,25,25,MA,Suffolk,43
-2011,13,67,GA,Cobb,34,17,NJ,Hudson,41
-2011,13,67,GA,Cobb,6,71,CA,San Bernardino,67
-2011,13,67,GA,Cobb,12,91,FL,Okaloosa,53
-2011,13,67,GA,Cobb,18,97,IN,Marion,60
-2011,13,67,GA,Cobb,37,81,NC,Guilford,42
-2011,13,67,GA,Cobb,42,101,PA,Philadelphia,53
-2011,13,67,GA,Cobb,51,153,VA,Prince William,65
-2011,13,67,GA,Cobb,6,1,CA,Alameda,48
-2011,13,67,GA,Cobb,9,1,CT,Fairfield,52
-2011,13,67,GA,Cobb,24,3,MD,Anne Arundel,49
-2011,13,67,GA,Cobb,37,51,NC,Cumberland,48
-2011,13,67,GA,Cobb,8,35,CO,Douglas,61
-2011,13,67,GA,Cobb,15,3,HI,Honolulu,44
-2011,13,67,GA,Cobb,34,23,NJ,Middlesex,58
-2011,13,67,GA,Cobb,1,81,AL,Lee,50
-2011,13,67,GA,Cobb,9,9,CT,New Haven,43
-2011,13,67,GA,Cobb,18,3,IN,Allen,49
-2011,13,67,GA,Cobb,20,91,KS,Johnson,65
-2011,13,67,GA,Cobb,34,13,NJ,Essex,47
-2011,13,67,GA,Cobb,48,27,TX,Bell,56
-2011,13,67,GA,Cobb,51,810,VA,Virginia Beach city,54
-2011,13,67,GA,Cobb,1,125,AL,Tuscaloosa,32
-2011,13,67,GA,Cobb,8,5,CO,Arapahoe,53
-2011,13,67,GA,Cobb,8,41,CO,El Paso,36
-2011,13,67,GA,Cobb,17,43,IL,Dupage,66
-2011,13,67,GA,Cobb,22,51,LA,Jefferson Parish,50
-2011,13,67,GA,Cobb,36,55,NY,Monroe,46
-2011,13,67,GA,Cobb,36,103,NY,Suffolk,50
-2011,13,67,GA,Cobb,45,13,SC,Beaufort,44
-2011,13,67,GA,Cobb,51,107,VA,Loudoun,46
-2011,13,67,GA,Cobb,1,15,AL,Calhoun,38
-2011,13,67,GA,Cobb,10,3,DE,New Castle,50
-2011,13,67,GA,Cobb,12,109,FL,St Johns,60
-2011,13,67,GA,Cobb,17,97,IL,Lake,54
-2011,13,67,GA,Cobb,40,143,OK,Tulsa,49
-2011,13,67,GA,Cobb,47,187,TN,Williamson,59
-2011,13,67,GA,Cobb,12,21,FL,Collier,42
-2011,13,67,GA,Cobb,24,27,MD,Howard,49
-2011,13,67,GA,Cobb,29,95,MO,Jackson,43
-2011,13,67,GA,Cobb,40,109,OK,Oklahoma,59
-2011,13,67,GA,Cobb,48,157,TX,Fort Bend,70
-2011,13,67,GA,Cobb,6,67,CA,Sacramento,38
-2011,13,67,GA,Cobb,21,67,KY,Fayette,36
-2011,13,67,GA,Cobb,25,21,MA,Norfolk,41
-2011,13,67,GA,Cobb,51,510,VA,Alexandria city,23
-2011,13,67,GA,Cobb,6,75,CA,San Francisco,19
-2011,13,67,GA,Cobb,12,1,FL,Alachua,38
-2011,13,67,GA,Cobb,22,103,LA,St Tammany Parish,37
-2011,13,67,GA,Cobb,28,47,MS,Harrison,38
-2011,13,67,GA,Cobb,37,21,NC,Buncombe,30
-2011,13,67,GA,Cobb,47,149,TN,Rutherford,38
-2011,13,67,GA,Cobb,51,700,VA,Newport News city,40
-2011,13,67,GA,Cobb,1,3,AL,Baldwin,40
-2011,13,67,GA,Cobb,4,19,AZ,Pima,45
-2011,13,67,GA,Cobb,6,65,CA,Riverside,39
-2011,13,67,GA,Cobb,12,111,FL,St Lucie,35
-2011,13,67,GA,Cobb,24,510,MD,Baltimore city,24
-2011,13,67,GA,Cobb,35,1,NM,Bernalillo,27
-2011,13,67,GA,Cobb,37,63,NC,Durham,39
-2011,13,67,GA,Cobb,45,63,SC,Lexington,41
-2011,13,67,GA,Cobb,49,35,UT,Salt Lake,39
-2011,13,67,GA,Cobb,51,87,VA,Henrico,48
-2011,13,67,GA,Cobb,53,53,WA,Pierce,40
-2011,13,67,GA,Cobb,12,101,FL,Pasco,32
-2011,13,67,GA,Cobb,36,119,NY,Westchester,45
-2011,13,67,GA,Cobb,37,67,NC,Forsyth,30
-2011,13,67,GA,Cobb,41,51,OR,Multnomah,23
-2011,13,67,GA,Cobb,42,29,PA,Chester,41
-2011,13,67,GA,Cobb,42,91,PA,Montgomery,43
-2011,13,67,GA,Cobb,45,51,SC,Horry,26
-2011,13,67,GA,Cobb,45,83,SC,Spartanburg,37
-2011,13,67,GA,Cobb,5,7,AR,Benton,39
-2011,13,67,GA,Cobb,6,13,CA,Contra Costa,40
-2011,13,67,GA,Cobb,12,97,FL,Osceola,30
-2011,13,67,GA,Cobb,12,113,FL,Santa Rosa,36
-2011,13,67,GA,Cobb,12,131,FL,Walton,28
-2011,13,67,GA,Cobb,31,55,NE,Douglas,28
-2011,13,67,GA,Cobb,34,39,NJ,Union,27
-2011,13,67,GA,Cobb,2,20,AK,Anchorage Municipality,23
-2011,13,67,GA,Cobb,8,13,CO,Boulder,26
-2011,13,67,GA,Cobb,12,81,FL,Manatee,27
-2011,13,67,GA,Cobb,12,83,FL,Marion,31
-2011,13,67,GA,Cobb,20,173,KS,Sedgwick,29
-2011,13,67,GA,Cobb,25,27,MA,Worcester,31
-2011,13,67,GA,Cobb,34,5,NJ,Burlington,41
-2011,13,67,GA,Cobb,36,59,NY,Nassau,28
-2011,13,67,GA,Cobb,48,141,TX,El Paso,32
-2011,13,67,GA,Cobb,57,3,FR,Foreign - Puerto Rico,34
-2011,13,67,GA,Cobb,6,81,CA,San Mateo,28
-2011,13,67,GA,Cobb,12,69,FL,Lake,25
-2011,13,67,GA,Cobb,12,89,FL,Nassau,29
-2011,13,67,GA,Cobb,25,9,MA,Essex,23
-2011,13,67,GA,Cobb,26,99,MI,Macomb,30
-2011,13,67,GA,Cobb,29,510,MO,St Louis city,30
-2011,13,67,GA,Cobb,36,29,NY,Erie,25
-2011,13,67,GA,Cobb,45,15,SC,Berkeley,23
-2011,13,67,GA,Cobb,1,31,AL,Coffee,26
-2011,13,67,GA,Cobb,5,119,AR,Pulaski,22
-2011,13,67,GA,Cobb,18,57,IN,Hamilton,35
-2011,13,67,GA,Cobb,26,161,MI,Washtenaw,19
-2011,13,67,GA,Cobb,34,7,NJ,Camden,19
-2011,13,67,GA,Cobb,34,27,NJ,Morris,24
-2011,13,67,GA,Cobb,39,113,OH,Montgomery,26
-2011,13,67,GA,Cobb,44,7,RI,Providence,23
-2011,13,67,GA,Cobb,45,91,SC,York,30
-2011,13,67,GA,Cobb,1,69,AL,Houston,21
-2011,13,67,GA,Cobb,8,69,CO,Larimer,21
-2011,13,67,GA,Cobb,12,19,FL,Clay,26
-2011,13,67,GA,Cobb,12,85,FL,Martin,16
-2011,13,67,GA,Cobb,36,71,NY,Orange,24
-2011,13,67,GA,Cobb,45,7,SC,Anderson,19
-2011,13,67,GA,Cobb,48,339,TX,Montgomery,26
-2011,13,67,GA,Cobb,51,41,VA,Chesterfield,39
-2011,13,67,GA,Cobb,1,111,AL,Randolph,28
-2011,13,67,GA,Cobb,6,111,CA,Ventura,14
-2011,13,67,GA,Cobb,17,197,IL,Will,22
-2011,13,67,GA,Cobb,18,89,IN,Lake,23
-2011,13,67,GA,Cobb,19,163,IA,Scott,19
-2011,13,67,GA,Cobb,22,17,LA,Caddo Parish,22
-2011,13,67,GA,Cobb,24,17,MD,Charles,14
-2011,13,67,GA,Cobb,25,13,MA,Hampden,28
-2011,13,67,GA,Cobb,42,45,PA,Delaware,15
-2011,13,67,GA,Cobb,45,3,SC,Aiken,24
-2011,13,67,GA,Cobb,47,11,TN,Bradley,16
-2011,13,67,GA,Cobb,48,491,TX,Williamson,16
-2011,13,67,GA,Cobb,51,710,VA,Norfolk city,12
-2011,13,67,GA,Cobb,51,760,VA,Richmond city,17
-2011,13,67,GA,Cobb,1,113,AL,Russell,20
-2011,13,67,GA,Cobb,8,59,CO,Jefferson,15
-2011,13,67,GA,Cobb,12,15,FL,Charlotte,19
-2011,13,67,GA,Cobb,17,89,IL,Kane,26
-2011,13,67,GA,Cobb,22,73,LA,Ouachita Parish,20
-2011,13,67,GA,Cobb,25,23,MA,Plymouth,22
-2011,13,67,GA,Cobb,27,37,MN,Dakota,21
-2011,13,67,GA,Cobb,29,183,MO,St Charles,25
-2011,13,67,GA,Cobb,34,3,NJ,Bergen,19
-2011,13,67,GA,Cobb,34,25,NJ,Monmouth,19
-2011,13,67,GA,Cobb,34,29,NJ,Ocean,15
-2011,13,67,GA,Cobb,36,67,NY,Onondaga,21
-2011,13,67,GA,Cobb,37,49,NC,Craven,22
-2011,13,67,GA,Cobb,39,95,OH,Lucas,22
-2011,13,67,GA,Cobb,42,17,PA,Bucks,20
-2011,13,67,GA,Cobb,47,125,TN,Montgomery,25
-2011,13,67,GA,Cobb,47,189,TN,Wilson,20
-2011,13,67,GA,Cobb,48,61,TX,Cameron,27
-2011,13,67,GA,Cobb,51,550,VA,Chesapeake city,18
-2011,13,67,GA,Cobb,53,61,WA,Snohomish,22
-2011,13,67,GA,Cobb,58,0,SS,Other Flows - Same State,531
-2011,13,67,GA,Cobb,59,0,DS,Other Flows - Diff State,4315
-2011,13,67,GA,Cobb,59,1,DS,Other Flows - Northeast,530
-2011,13,67,GA,Cobb,59,3,DS,Other Flows - Midwest,934
-2011,13,67,GA,Cobb,59,5,DS,Other Flows - South,2308
-2011,13,67,GA,Cobb,59,7,DS,Other Flows - West,543
-2011,13,67,GA,Cobb,57,9,FR,Foreign - Other flows,257
-2011,13,89,GA,Dekalb,96,0,GA,Dekalb Tot Mig-US & For,59226
-2011,13,89,GA,Dekalb,97,0,GA,Dekalb Tot Mig-US,58851
-2011,13,89,GA,Dekalb,97,1,GA,Dekalb Tot Mig-Same St,41777
-2011,13,89,GA,Dekalb,97,3,GA,Dekalb Tot Mig-Diff St,17074
-2011,13,89,GA,Dekalb,98,0,GA,Dekalb Tot Mig-Foreign,375
-2011,13,89,GA,Dekalb,12,86,FL,Miami Dade,378
-2011,13,89,GA,Dekalb,6,37,CA,Los Angeles,412
-2011,13,89,GA,Dekalb,17,31,IL,Cook,349
-2011,13,89,GA,Dekalb,12,11,FL,Broward,331
-2011,13,89,GA,Dekalb,37,119,NC,Mecklenburg,322
-2011,13,89,GA,Dekalb,48,113,TX,Dallas,286
-2011,13,89,GA,Dekalb,12,57,FL,Hillsborough,221
-2011,13,89,GA,Dekalb,36,47,NY,Kings,261
-2011,13,89,GA,Dekalb,36,61,NY,New York,197
-2011,13,89,GA,Dekalb,48,201,TX,Harris,240
-2011,13,89,GA,Dekalb,57,1,FR,Foreign - Overseas,235
-2011,13,89,GA,Dekalb,26,163,MI,Wayne,208
-2011,13,89,GA,Dekalb,12,31,FL,Duval,213
-2011,13,89,GA,Dekalb,11,1,DC,District of Columbia,160
-2011,13,89,GA,Dekalb,47,37,TN,Davidson,189
-2011,13,89,GA,Dekalb,53,33,WA,King,172
-2011,13,89,GA,Dekalb,1,73,AL,Jefferson,200
-2011,13,89,GA,Dekalb,22,71,LA,Orleans Parish,171
-2011,13,89,GA,Dekalb,47,157,TN,Shelby,177
-2011,13,89,GA,Dekalb,36,81,NY,Queens,156
-2011,13,89,GA,Dekalb,12,95,FL,Orange,144
-2011,13,89,GA,Dekalb,4,13,AZ,Maricopa,129
-2011,13,89,GA,Dekalb,24,31,MD,Montgomery,127
-2011,13,89,GA,Dekalb,12,103,FL,Pinellas,136
-2011,13,89,GA,Dekalb,12,99,FL,Palm Beach,133
-2011,13,89,GA,Dekalb,42,101,PA,Philadelphia,121
-2011,13,89,GA,Dekalb,37,183,NC,Wake,113
-2011,13,89,GA,Dekalb,48,453,TX,Travis,107
-2011,13,89,GA,Dekalb,6,73,CA,San Diego,104
-2011,13,89,GA,Dekalb,24,33,MD,Prince George's,115
-2011,13,89,GA,Dekalb,57,5,FR,Foreign - APO/FPO ZIPs,111
-2011,13,89,GA,Dekalb,45,19,SC,Charleston,114
-2011,13,89,GA,Dekalb,6,1,CA,Alameda,105
-2011,13,89,GA,Dekalb,51,59,VA,Fairfax,114
-2011,13,89,GA,Dekalb,24,510,MD,Baltimore city,83
-2011,13,89,GA,Dekalb,25,17,MA,Middlesex,104
-2011,13,89,GA,Dekalb,39,49,OH,Franklin,104
-2011,13,89,GA,Dekalb,42,3,PA,Allegheny,121
-2011,13,89,GA,Dekalb,36,5,NY,Bronx,110
-2011,13,89,GA,Dekalb,45,45,SC,Greenville,100
-2011,13,89,GA,Dekalb,48,439,TX,Tarrant,95
-2011,13,89,GA,Dekalb,45,79,SC,Richland,94
-2011,13,89,GA,Dekalb,25,25,MA,Suffolk,69
-2011,13,89,GA,Dekalb,1,101,AL,Montgomery,81
-2011,13,89,GA,Dekalb,6,85,CA,Santa Clara,99
-2011,13,89,GA,Dekalb,27,53,MN,Hennepin,80
-2011,13,89,GA,Dekalb,32,3,NV,Clark,85
-2011,13,89,GA,Dekalb,39,61,OH,Hamilton,77
-2011,13,89,GA,Dekalb,51,13,VA,Arlington,68
-2011,13,89,GA,Dekalb,48,85,TX,Collin,87
-2011,13,89,GA,Dekalb,6,75,CA,San Francisco,62
-2011,13,89,GA,Dekalb,8,31,CO,Denver,61
-2011,13,89,GA,Dekalb,21,111,KY,Jefferson,80
-2011,13,89,GA,Dekalb,28,49,MS,Hinds,56
-2011,13,89,GA,Dekalb,39,35,OH,Cuyahoga,83
-2011,13,89,GA,Dekalb,1,89,AL,Madison,76
-2011,13,89,GA,Dekalb,1,97,AL,Mobile,69
-2011,13,89,GA,Dekalb,12,73,FL,Leon,60
-2011,13,89,GA,Dekalb,22,51,LA,Jefferson Parish,78
-2011,13,89,GA,Dekalb,37,51,NC,Cumberland,76
-2011,13,89,GA,Dekalb,12,9,FL,Brevard,66
-2011,13,89,GA,Dekalb,18,97,IN,Marion,79
-2011,13,89,GA,Dekalb,34,17,NJ,Hudson,57
-2011,13,89,GA,Dekalb,47,65,TN,Hamilton,63
-2011,13,89,GA,Dekalb,6,59,CA,Orange,69
-2011,13,89,GA,Dekalb,37,63,NC,Durham,63
-2011,13,89,GA,Dekalb,12,33,FL,Escambia,66
-2011,13,89,GA,Dekalb,37,81,NC,Guilford,56
-2011,13,89,GA,Dekalb,47,93,TN,Knox,63
-2011,13,89,GA,Dekalb,12,105,FL,Polk,61
-2011,13,89,GA,Dekalb,29,189,MO,St Louis,79
-2011,13,89,GA,Dekalb,24,5,MD,Baltimore,58
-2011,13,89,GA,Dekalb,41,51,OR,Multnomah,50
-2011,13,89,GA,Dekalb,34,13,NJ,Essex,56
-2011,13,89,GA,Dekalb,48,121,TX,Denton,59
-2011,13,89,GA,Dekalb,10,3,DE,New Castle,58
-2011,13,89,GA,Dekalb,12,1,FL,Alachua,46
-2011,13,89,GA,Dekalb,12,127,FL,Volusia,51
-2011,13,89,GA,Dekalb,22,33,LA,East Baton Rouge Parish,52
-2011,13,89,GA,Dekalb,37,67,NC,Forsyth,50
-2011,13,89,GA,Dekalb,51,710,VA,Norfolk city,52
-2011,13,89,GA,Dekalb,1,81,AL,Lee,53
-2011,13,89,GA,Dekalb,1,117,AL,Shelby,55
-2011,13,89,GA,Dekalb,36,59,NY,Nassau,44
-2011,13,89,GA,Dekalb,51,87,VA,Henrico,45
-2011,13,89,GA,Dekalb,9,3,CT,Hartford,47
-2011,13,89,GA,Dekalb,12,81,FL,Manatee,44
-2011,13,89,GA,Dekalb,26,125,MI,Oakland,44
-2011,13,89,GA,Dekalb,26,161,MI,Washtenaw,53
-2011,13,89,GA,Dekalb,36,29,NY,Erie,40
-2011,13,89,GA,Dekalb,51,510,VA,Alexandria city,49
-2011,13,89,GA,Dekalb,6,67,CA,Sacramento,46
-2011,13,89,GA,Dekalb,6,71,CA,San Bernardino,44
-2011,13,89,GA,Dekalb,34,23,NJ,Middlesex,46
-2011,13,89,GA,Dekalb,34,39,NJ,Union,37
-2011,13,89,GA,Dekalb,37,21,NC,Buncombe,50
-2011,13,89,GA,Dekalb,48,29,TX,Bexar,46
-2011,13,89,GA,Dekalb,55,79,WI,Milwaukee,45
-2011,13,89,GA,Dekalb,6,13,CA,Contra Costa,42
-2011,13,89,GA,Dekalb,9,1,CT,Fairfield,39
-2011,13,89,GA,Dekalb,39,113,OH,Montgomery,51
-2011,13,89,GA,Dekalb,49,35,UT,Salt Lake,45
-2011,13,89,GA,Dekalb,6,65,CA,Riverside,39
-2011,13,89,GA,Dekalb,9,9,CT,New Haven,35
-2011,13,89,GA,Dekalb,12,117,FL,Seminole,33
-2011,13,89,GA,Dekalb,36,55,NY,Monroe,40
-2011,13,89,GA,Dekalb,44,7,RI,Providence,41
-2011,13,89,GA,Dekalb,15,3,HI,Honolulu,31
-2011,13,89,GA,Dekalb,21,67,KY,Fayette,26
-2011,13,89,GA,Dekalb,24,3,MD,Anne Arundel,42
-2011,13,89,GA,Dekalb,29,510,MO,St Louis city,36
-2011,13,89,GA,Dekalb,12,5,FL,Bay,31
-2011,13,89,GA,Dekalb,12,109,FL,St Johns,29
-2011,13,89,GA,Dekalb,25,21,MA,Norfolk,44
-2011,13,89,GA,Dekalb,42,91,PA,Montgomery,34
-2011,13,89,GA,Dekalb,45,13,SC,Beaufort,38
-2011,13,89,GA,Dekalb,51,107,VA,Loudoun,37
-2011,13,89,GA,Dekalb,51,810,VA,Virginia Beach city,31
-2011,13,89,GA,Dekalb,8,41,CO,El Paso,38
-2011,13,89,GA,Dekalb,19,153,IA,Polk,31
-2011,13,89,GA,Dekalb,22,17,LA,Caddo Parish,44
-2011,13,89,GA,Dekalb,26,49,MI,Genesee,30
-2011,13,89,GA,Dekalb,27,123,MN,Ramsey,37
-2011,13,89,GA,Dekalb,34,3,NJ,Bergen,31
-2011,13,89,GA,Dekalb,36,119,NY,Westchester,33
-2011,13,89,GA,Dekalb,48,27,TX,Bell,36
-2011,13,89,GA,Dekalb,51,700,VA,Newport News city,35
-2011,13,89,GA,Dekalb,8,5,CO,Arapahoe,26
-2011,13,89,GA,Dekalb,8,59,CO,Jefferson,24
-2011,13,89,GA,Dekalb,40,109,OK,Oklahoma,50
-2011,13,89,GA,Dekalb,51,153,VA,Prince William,28
-2011,13,89,GA,Dekalb,5,119,AR,Pulaski,30
-2011,13,89,GA,Dekalb,20,91,KS,Johnson,32
-2011,13,89,GA,Dekalb,36,1,NY,Albany,31
-2011,13,89,GA,Dekalb,47,187,TN,Williamson,34
-2011,13,89,GA,Dekalb,1,125,AL,Tuscaloosa,25
-2011,13,89,GA,Dekalb,4,19,AZ,Pima,32
-2011,13,89,GA,Dekalb,51,41,VA,Chesterfield,40
-2011,13,89,GA,Dekalb,17,43,IL,Dupage,34
-2011,13,89,GA,Dekalb,17,97,IL,Lake,35
-2011,13,89,GA,Dekalb,24,27,MD,Howard,31
-2011,13,89,GA,Dekalb,25,9,MA,Essex,27
-2011,13,89,GA,Dekalb,26,81,MI,Kent,37
-2011,13,89,GA,Dekalb,29,95,MO,Jackson,22
-2011,13,89,GA,Dekalb,35,1,NM,Bernalillo,29
-2011,13,89,GA,Dekalb,36,103,NY,Suffolk,27
-2011,13,89,GA,Dekalb,37,135,NC,Orange,30
-2011,13,89,GA,Dekalb,39,153,OH,Summit,26
-2011,13,89,GA,Dekalb,12,71,FL,Lee,26
-2011,13,89,GA,Dekalb,12,83,FL,Marion,28
-2011,13,89,GA,Dekalb,34,5,NJ,Burlington,23
-2011,13,89,GA,Dekalb,36,67,NY,Onondaga,30
-2011,13,89,GA,Dekalb,40,143,OK,Tulsa,33
-2011,13,89,GA,Dekalb,45,3,SC,Aiken,24
-2011,13,89,GA,Dekalb,45,15,SC,Berkeley,40
-2011,13,89,GA,Dekalb,45,83,SC,Spartanburg,24
-2011,13,89,GA,Dekalb,55,25,WI,Dane,26
-2011,13,89,GA,Dekalb,1,3,AL,Baldwin,21
-2011,13,89,GA,Dekalb,8,13,CO,Boulder,19
-2011,13,89,GA,Dekalb,12,91,FL,Okaloosa,33
-2011,13,89,GA,Dekalb,12,115,FL,Sarasota,14
-2011,13,89,GA,Dekalb,39,17,OH,Butler,31
-2011,13,89,GA,Dekalb,45,7,SC,Anderson,20
-2011,13,89,GA,Dekalb,45,91,SC,York,22
-2011,13,89,GA,Dekalb,48,157,TX,Fort Bend,31
-2011,13,89,GA,Dekalb,53,53,WA,Pierce,19
-2011,13,89,GA,Dekalb,1,87,AL,Macon,23
-2011,13,89,GA,Dekalb,12,69,FL,Lake,17
-2011,13,89,GA,Dekalb,18,3,IN,Allen,19
-2011,13,89,GA,Dekalb,20,209,KS,Wyandotte,19
-2011,13,89,GA,Dekalb,23,5,ME,Cumberland,21
-2011,13,89,GA,Dekalb,26,99,MI,Macomb,23
-2011,13,89,GA,Dekalb,31,55,NE,Douglas,22
-2011,13,89,GA,Dekalb,37,133,NC,Onslow,20
-2011,13,89,GA,Dekalb,45,63,SC,Lexington,21
-2011,13,89,GA,Dekalb,47,125,TN,Montgomery,22
-2011,13,89,GA,Dekalb,53,61,WA,Snohomish,23
-2011,13,89,GA,Dekalb,1,69,AL,Houston,16
-2011,13,89,GA,Dekalb,1,113,AL,Russell,19
-2011,13,89,GA,Dekalb,2,20,AK,Anchorage Municipality,22
-2011,13,89,GA,Dekalb,12,21,FL,Collier,23
-2011,13,89,GA,Dekalb,12,97,FL,Osceola,21
-2011,13,89,GA,Dekalb,12,101,FL,Pasco,16
-2011,13,89,GA,Dekalb,12,111,FL,St Lucie,20
-2011,13,89,GA,Dekalb,25,27,MA,Worcester,15
-2011,13,89,GA,Dekalb,28,47,MS,Harrison,22
-2011,13,89,GA,Dekalb,31,109,NE,Lancaster,21
-2011,13,89,GA,Dekalb,34,25,NJ,Monmouth,16
-2011,13,89,GA,Dekalb,34,35,NJ,Somerset,24
-2011,13,89,GA,Dekalb,48,141,TX,El Paso,21
-2011,13,89,GA,Dekalb,48,491,TX,Williamson,18
-2011,13,89,GA,Dekalb,51,650,VA,Hampton city,17
-2011,13,89,GA,Dekalb,51,760,VA,Richmond city,21
-2011,13,89,GA,Dekalb,1,15,AL,Calhoun,19
-2011,13,89,GA,Dekalb,1,47,AL,Dallas,22
-2011,13,89,GA,Dekalb,10,5,DE,Sussex,16
-2011,13,89,GA,Dekalb,12,89,FL,Nassau,14
-2011,13,89,GA,Dekalb,18,157,IN,Tippecanoe,11
-2011,13,89,GA,Dekalb,22,103,LA,St Tammany Parish,25
-2011,13,89,GA,Dekalb,23,1,ME,Androscoggin,19
-2011,13,89,GA,Dekalb,27,37,MN,Dakota,29
-2011,13,89,GA,Dekalb,34,7,NJ,Camden,17
-2011,13,89,GA,Dekalb,34,21,NJ,Mercer,19
-2011,13,89,GA,Dekalb,37,97,NC,Iredell,17
-2011,13,89,GA,Dekalb,37,129,NC,New Hanover,20
-2011,13,89,GA,Dekalb,39,95,OH,Lucas,14
-2011,13,89,GA,Dekalb,58,0,SS,Other Flows - Same State,594
-2011,13,89,GA,Dekalb,59,0,DS,Other Flows - Diff State,3712
-2011,13,89,GA,Dekalb,59,1,DS,Other Flows - Northeast,520
-2011,13,89,GA,Dekalb,59,3,DS,Other Flows - Midwest,742
-2011,13,89,GA,Dekalb,59,5,DS,Other Flows - South,1954
-2011,13,89,GA,Dekalb,59,7,DS,Other Flows - West,496
-2011,13,89,GA,Dekalb,57,9,FR,Foreign - Other flows,29
-2011,13,121,GA,Fulton,96,0,GA,Fulton Tot Mig-US & For,76847
-2011,13,121,GA,Fulton,97,0,GA,Fulton Tot Mig-US,76144
-2011,13,121,GA,Fulton,97,1,GA,Fulton Tot Mig-Same St,50213
-2011,13,121,GA,Fulton,97,3,GA,Fulton Tot Mig-Diff St,25931
-2011,13,121,GA,Fulton,98,0,GA,Fulton Tot Mig-Foreign,703
-2011,13,121,GA,Fulton,12,86,FL,Miami Dade,587
-2011,13,121,GA,Fulton,6,37,CA,Los Angeles,596
-2011,13,121,GA,Fulton,36,61,NY,New York,480
-2011,13,121,GA,Fulton,17,31,IL,Cook,563
-2011,13,121,GA,Fulton,12,11,FL,Broward,488
-2011,13,121,GA,Fulton,57,1,FR,Foreign - Overseas,526
-2011,13,121,GA,Fulton,37,119,NC,Mecklenburg,402
-2011,13,121,GA,Fulton,12,57,FL,Hillsborough,395
-2011,13,121,GA,Fulton,48,113,TX,Dallas,389
-2011,13,121,GA,Fulton,48,201,TX,Harris,378
-2011,13,121,GA,Fulton,36,47,NY,Kings,307
-2011,13,121,GA,Fulton,11,1,DC,District of Columbia,223
-2011,13,121,GA,Fulton,12,95,FL,Orange,284
-2011,13,121,GA,Fulton,12,31,FL,Duval,282
-2011,13,121,GA,Fulton,26,163,MI,Wayne,278
-2011,13,121,GA,Fulton,1,73,AL,Jefferson,250
-2011,13,121,GA,Fulton,47,37,TN,Davidson,222
-2011,13,121,GA,Fulton,6,85,CA,Santa Clara,259
-2011,13,121,GA,Fulton,47,157,TN,Shelby,241
-2011,13,121,GA,Fulton,12,99,FL,Palm Beach,211
-2011,13,121,GA,Fulton,4,13,AZ,Maricopa,248
-2011,13,121,GA,Fulton,24,31,MD,Montgomery,253
-2011,13,121,GA,Fulton,37,183,NC,Wake,244
-2011,13,121,GA,Fulton,25,17,MA,Middlesex,199
-2011,13,121,GA,Fulton,53,33,WA,King,202
-2011,13,121,GA,Fulton,6,73,CA,San Diego,197
-2011,13,121,GA,Fulton,36,81,NY,Queens,181
-2011,13,121,GA,Fulton,51,59,VA,Fairfax,207
-2011,13,121,GA,Fulton,22,71,LA,Orleans Parish,205
-2011,13,121,GA,Fulton,45,19,SC,Charleston,162
-2011,13,121,GA,Fulton,12,103,FL,Pinellas,173
-2011,13,121,GA,Fulton,48,453,TX,Travis,130
-2011,13,121,GA,Fulton,6,75,CA,San Francisco,119
-2011,13,121,GA,Fulton,42,101,PA,Philadelphia,144
-2011,13,121,GA,Fulton,6,1,CA,Alameda,157
-2011,13,121,GA,Fulton,39,49,OH,Franklin,169
-2011,13,121,GA,Fulton,8,31,CO,Denver,128
-2011,13,121,GA,Fulton,57,5,FR,Foreign - APO/FPO ZIPs,153
-2011,13,121,GA,Fulton,24,33,MD,Prince George's,115
-2011,13,121,GA,Fulton,45,79,SC,Richland,141
-2011,13,121,GA,Fulton,34,17,NJ,Hudson,133
-2011,13,121,GA,Fulton,48,439,TX,Tarrant,154
-2011,13,121,GA,Fulton,47,65,TN,Hamilton,138
-2011,13,121,GA,Fulton,32,3,NV,Clark,126
-2011,13,121,GA,Fulton,25,25,MA,Suffolk,92
-2011,13,121,GA,Fulton,36,5,NY,Bronx,162
-2011,13,121,GA,Fulton,36,55,NY,Monroe,124
-2011,13,121,GA,Fulton,42,3,PA,Allegheny,123
-2011,13,121,GA,Fulton,45,45,SC,Greenville,123
-2011,13,121,GA,Fulton,39,35,OH,Cuyahoga,117
-2011,13,121,GA,Fulton,51,13,VA,Arlington,85
-2011,13,121,GA,Fulton,24,510,MD,Baltimore city,91
-2011,13,121,GA,Fulton,1,101,AL,Montgomery,124
-2011,13,121,GA,Fulton,48,29,TX,Bexar,116
-2011,13,121,GA,Fulton,48,85,TX,Collin,151
-2011,13,121,GA,Fulton,6,59,CA,Orange,131
-2011,13,121,GA,Fulton,9,1,CT,Fairfield,152
-2011,13,121,GA,Fulton,27,53,MN,Hennepin,102
-2011,13,121,GA,Fulton,39,61,OH,Hamilton,108
-2011,13,121,GA,Fulton,12,33,FL,Escambia,106
-2011,13,121,GA,Fulton,1,89,AL,Madison,99
-2011,13,121,GA,Fulton,18,97,IN,Marion,91
-2011,13,121,GA,Fulton,12,73,FL,Leon,83
-2011,13,121,GA,Fulton,26,125,MI,Oakland,82
-2011,13,121,GA,Fulton,28,49,MS,Hinds,90
-2011,13,121,GA,Fulton,12,9,FL,Brevard,95
-2011,13,121,GA,Fulton,37,63,NC,Durham,80
-2011,13,121,GA,Fulton,47,93,TN,Knox,82
-2011,13,121,GA,Fulton,45,13,SC,Beaufort,119
-2011,13,121,GA,Fulton,22,33,LA,East Baton Rouge Parish,83
-2011,13,121,GA,Fulton,36,119,NY,Westchester,99
-2011,13,121,GA,Fulton,41,51,OR,Multnomah,77
-2011,13,121,GA,Fulton,1,97,AL,Mobile,73
-2011,13,121,GA,Fulton,12,117,FL,Seminole,82
-2011,13,121,GA,Fulton,24,5,MD,Baltimore,72
-2011,13,121,GA,Fulton,34,23,NJ,Middlesex,92
-2011,13,121,GA,Fulton,37,81,NC,Guilford,89
-2011,13,121,GA,Fulton,37,51,NC,Cumberland,91
-2011,13,121,GA,Fulton,51,510,VA,Alexandria city,66
-2011,13,121,GA,Fulton,21,111,KY,Jefferson,74
-2011,13,121,GA,Fulton,29,189,MO,St Louis,80
-2011,13,121,GA,Fulton,34,13,NJ,Essex,82
-2011,13,121,GA,Fulton,51,810,VA,Virginia Beach city,86
-2011,13,121,GA,Fulton,34,3,NJ,Bergen,93
-2011,13,121,GA,Fulton,22,51,LA,Jefferson Parish,91
-2011,13,121,GA,Fulton,51,87,VA,Henrico,97
-2011,13,121,GA,Fulton,6,65,CA,Riverside,82
-2011,13,121,GA,Fulton,12,71,FL,Lee,82
-2011,13,121,GA,Fulton,12,105,FL,Polk,71
-2011,13,121,GA,Fulton,6,67,CA,Sacramento,74
-2011,13,121,GA,Fulton,15,3,HI,Honolulu,69
-2011,13,121,GA,Fulton,1,81,AL,Lee,66
-2011,13,121,GA,Fulton,24,3,MD,Anne Arundel,82
-2011,13,121,GA,Fulton,6,13,CA,Contra Costa,76
-2011,13,121,GA,Fulton,12,109,FL,St Johns,83
-2011,13,121,GA,Fulton,36,59,NY,Nassau,66
-2011,13,121,GA,Fulton,8,13,CO,Boulder,55
-2011,13,121,GA,Fulton,9,9,CT,New Haven,63
-2011,13,121,GA,Fulton,37,21,NC,Buncombe,48
-2011,13,121,GA,Fulton,48,121,TX,Denton,105
-2011,13,121,GA,Fulton,55,79,WI,Milwaukee,62
-2011,13,121,GA,Fulton,6,71,CA,San Bernardino,58
-2011,13,121,GA,Fulton,8,5,CO,Arapahoe,55
-2011,13,121,GA,Fulton,12,1,FL,Alachua,68
-2011,13,121,GA,Fulton,48,491,TX,Williamson,72
-2011,13,121,GA,Fulton,12,127,FL,Volusia,56
-2011,13,121,GA,Fulton,17,43,IL,Dupage,67
-2011,13,121,GA,Fulton,25,21,MA,Norfolk,65
-2011,13,121,GA,Fulton,6,81,CA,San Mateo,52
-2011,13,121,GA,Fulton,9,3,CT,Hartford,50
-2011,13,121,GA,Fulton,10,3,DE,New Castle,40
-2011,13,121,GA,Fulton,42,91,PA,Montgomery,77
-2011,13,121,GA,Fulton,1,125,AL,Tuscaloosa,42
-2011,13,121,GA,Fulton,48,157,TX,Fort Bend,69
-2011,13,121,GA,Fulton,34,31,NJ,Passaic,87
-2011,13,121,GA,Fulton,37,67,NC,Forsyth,46
-2011,13,121,GA,Fulton,51,760,VA,Richmond city,47
-2011,13,121,GA,Fulton,36,29,NY,Erie,51
-2011,13,121,GA,Fulton,39,113,OH,Montgomery,69
-2011,13,121,GA,Fulton,41,67,OR,Washington,51
-2011,13,121,GA,Fulton,47,187,TN,Williamson,64
-2011,13,121,GA,Fulton,51,107,VA,Loudoun,65
-2011,13,121,GA,Fulton,12,21,FL,Collier,47
-2011,13,121,GA,Fulton,12,97,FL,Osceola,51
-2011,13,121,GA,Fulton,12,91,FL,Okaloosa,45
-2011,13,121,GA,Fulton,29,510,MO,St Louis city,39
-2011,13,121,GA,Fulton,36,103,NY,Suffolk,53
-2011,13,121,GA,Fulton,40,109,OK,Oklahoma,54
-2011,13,121,GA,Fulton,1,3,AL,Baldwin,43
-2011,13,121,GA,Fulton,8,41,CO,El Paso,46
-2011,13,121,GA,Fulton,12,83,FL,Marion,32
-2011,13,121,GA,Fulton,12,115,FL,Sarasota,57
-2011,13,121,GA,Fulton,55,25,WI,Dane,48
-2011,13,121,GA,Fulton,1,113,AL,Russell,38
-2011,13,121,GA,Fulton,5,119,AR,Pulaski,49
-2011,13,121,GA,Fulton,12,5,FL,Bay,45
-2011,13,121,GA,Fulton,39,153,OH,Summit,38
-2011,13,121,GA,Fulton,1,117,AL,Shelby,39
-2011,13,121,GA,Fulton,12,111,FL,St Lucie,47
-2011,13,121,GA,Fulton,29,95,MO,Jackson,38
-2011,13,121,GA,Fulton,45,63,SC,Lexington,40
-2011,13,121,GA,Fulton,31,55,NE,Douglas,58
-2011,13,121,GA,Fulton,48,141,TX,El Paso,51
-2011,13,121,GA,Fulton,12,81,FL,Manatee,41
-2011,13,121,GA,Fulton,24,27,MD,Howard,46
-2011,13,121,GA,Fulton,45,15,SC,Berkeley,42
-2011,13,121,GA,Fulton,51,153,VA,Prince William,37
-2011,13,121,GA,Fulton,17,97,IL,Lake,47
-2011,13,121,GA,Fulton,17,197,IL,Will,65
-2011,13,121,GA,Fulton,26,161,MI,Washtenaw,33
-2011,13,121,GA,Fulton,34,7,NJ,Camden,26
-2011,13,121,GA,Fulton,34,27,NJ,Morris,47
-2011,13,121,GA,Fulton,34,35,NJ,Somerset,47
-2011,13,121,GA,Fulton,39,95,OH,Lucas,30
-2011,13,121,GA,Fulton,45,7,SC,Anderson,30
-2011,13,121,GA,Fulton,53,53,WA,Pierce,36
-2011,13,121,GA,Fulton,12,101,FL,Pasco,29
-2011,13,121,GA,Fulton,28,47,MS,Harrison,46
-2011,13,121,GA,Fulton,37,129,NC,New Hanover,39
-2011,13,121,GA,Fulton,42,17,PA,Bucks,43
-2011,13,121,GA,Fulton,45,3,SC,Aiken,35
-2011,13,121,GA,Fulton,21,67,KY,Fayette,33
-2011,13,121,GA,Fulton,25,27,MA,Worcester,39
-2011,13,121,GA,Fulton,35,1,NM,Bernalillo,33
-2011,13,121,GA,Fulton,45,51,SC,Horry,28
-2011,13,121,GA,Fulton,48,167,TX,Galveston,34
-2011,13,121,GA,Fulton,18,57,IN,Hamilton,42
-2011,13,121,GA,Fulton,44,7,RI,Providence,28
-2011,13,121,GA,Fulton,48,27,TX,Bell,40
-2011,13,121,GA,Fulton,49,35,UT,Salt Lake,37
-2011,13,121,GA,Fulton,8,59,CO,Jefferson,39
-2011,13,121,GA,Fulton,12,131,FL,Walton,36
-2011,13,121,GA,Fulton,20,91,KS,Johnson,29
-2011,13,121,GA,Fulton,25,9,MA,Essex,36
-2011,13,121,GA,Fulton,26,99,MI,Macomb,35
-2011,13,121,GA,Fulton,34,25,NJ,Monmouth,33
-2011,13,121,GA,Fulton,34,39,NJ,Union,29
-2011,13,121,GA,Fulton,37,135,NC,Orange,30
-2011,13,121,GA,Fulton,47,149,TN,Rutherford,27
-2011,13,121,GA,Fulton,51,650,VA,Hampton city,28
-2011,13,121,GA,Fulton,4,19,AZ,Pima,36
-2011,13,121,GA,Fulton,8,35,CO,Douglas,34
-2011,13,121,GA,Fulton,12,113,FL,Santa Rosa,36
-2011,13,121,GA,Fulton,25,13,MA,Hampden,31
-2011,13,121,GA,Fulton,42,29,PA,Chester,36
-2011,13,121,GA,Fulton,47,125,TN,Montgomery,33
-2011,13,121,GA,Fulton,51,710,VA,Norfolk city,25
-2011,13,121,GA,Fulton,51,740,VA,Portsmouth city,27
-2011,13,121,GA,Fulton,53,61,WA,Snohomish,46
-2011,13,121,GA,Fulton,1,69,AL,Houston,27
-2011,13,121,GA,Fulton,6,41,CA,Marin,37
-2011,13,121,GA,Fulton,12,89,FL,Nassau,26
-2011,13,121,GA,Fulton,22,17,LA,Caddo Parish,31
-2011,13,121,GA,Fulton,22,103,LA,St Tammany Parish,38
-2011,13,121,GA,Fulton,23,5,ME,Cumberland,22
-2011,13,121,GA,Fulton,40,143,OK,Tulsa,28
-2011,13,121,GA,Fulton,45,73,SC,Oconee,26
-2011,13,121,GA,Fulton,48,339,TX,Montgomery,26
-2011,13,121,GA,Fulton,51,700,VA,Newport News city,31
-2011,13,121,GA,Fulton,1,15,AL,Calhoun,24
-2011,13,121,GA,Fulton,12,35,FL,Flagler,35
-2011,13,121,GA,Fulton,12,85,FL,Martin,25
-2011,13,121,GA,Fulton,26,65,MI,Ingham,24
-2011,13,121,GA,Fulton,27,123,MN,Ramsey,27
-2011,13,121,GA,Fulton,37,133,NC,Onslow,33
-2011,13,121,GA,Fulton,37,147,NC,Pitt,26
-2011,13,121,GA,Fulton,45,91,SC,York,28
-2011,13,121,GA,Fulton,51,41,VA,Chesterfield,28
-2011,13,121,GA,Fulton,1,121,AL,Talladega,31
-2011,13,121,GA,Fulton,8,69,CO,Larimer,26
-2011,13,121,GA,Fulton,17,163,IL,St Clair,25
-2011,13,121,GA,Fulton,18,3,IN,Allen,36
-2011,13,121,GA,Fulton,18,89,IN,Lake,21
-2011,13,121,GA,Fulton,18,157,IN,Tippecanoe,14
-2011,13,121,GA,Fulton,20,173,KS,Sedgwick,19
-2011,13,121,GA,Fulton,26,49,MI,Genesee,27
-2011,13,121,GA,Fulton,2,20,AK,Anchorage Municipality,22
-2011,13,121,GA,Fulton,17,89,IL,Kane,22
-2011,13,121,GA,Fulton,34,21,NJ,Mercer,22
-2011,13,121,GA,Fulton,37,25,NC,Cabarrus,30
-2011,13,121,GA,Fulton,45,75,SC,Orangeburg,25
-2011,13,121,GA,Fulton,45,83,SC,Spartanburg,21
-2011,13,121,GA,Fulton,55,133,WI,Waukesha,35
-2011,13,121,GA,Fulton,1,103,AL,Morgan,20
-2011,13,121,GA,Fulton,4,3,AZ,Cochise,21
-2011,13,121,GA,Fulton,6,95,CA,Solano,20
-2011,13,121,GA,Fulton,10,5,DE,Sussex,25
-2011,13,121,GA,Fulton,12,19,FL,Clay,15
-2011,13,121,GA,Fulton,19,153,IA,Polk,18
-2011,13,121,GA,Fulton,27,163,MN,Washington,27
-2011,13,121,GA,Fulton,28,59,MS,Jackson,29
-2011,13,121,GA,Fulton,28,121,MS,Rankin,27
-2011,13,121,GA,Fulton,32,31,NV,Washoe,18
-2011,13,121,GA,Fulton,33,11,NH,Hillsborough,24
-2011,13,121,GA,Fulton,36,85,NY,Richmond,25
-2011,13,121,GA,Fulton,42,45,PA,Delaware,20
-2011,13,121,GA,Fulton,45,35,SC,Dorchester,27
-2011,13,121,GA,Fulton,45,77,SC,Pickens,17
-2011,13,121,GA,Fulton,45,85,SC,Sumter,23
-2011,13,121,GA,Fulton,1,17,AL,Chambers,25
-2011,13,121,GA,Fulton,1,51,AL,Elmore,18
-2011,13,121,GA,Fulton,1,55,AL,Etowah,17
-2011,13,121,GA,Fulton,1,87,AL,Macon,15
-2011,13,121,GA,Fulton,5,7,AR,Benton,27
-2011,13,121,GA,Fulton,6,77,CA,San Joaquin,21
-2011,13,121,GA,Fulton,8,14,CO,Broomfield,14
-2011,13,121,GA,Fulton,12,69,FL,Lake,20
-2011,13,121,GA,Fulton,25,15,MA,Hampshire,14
-2011,13,121,GA,Fulton,26,81,MI,Kent,27
-2011,13,121,GA,Fulton,36,67,NY,Onondaga,19
-2011,13,121,GA,Fulton,36,93,NY,Schenectady,20
-2011,13,121,GA,Fulton,37,35,NC,Catawba,23
-2011,13,121,GA,Fulton,37,85,NC,Harnett,33
-2011,13,121,GA,Fulton,37,179,NC,Union,26
-2011,13,121,GA,Fulton,48,309,TX,Mclennan,15
-2011,13,121,GA,Fulton,51,3,VA,Albemarle,22
-2011,13,121,GA,Fulton,51,540,VA,Charlottesville city,17
-2011,13,121,GA,Fulton,2,90,AK,Fairbanks North Star Borough,14
-2011,13,121,GA,Fulton,6,61,CA,Placer,22
-2011,13,121,GA,Fulton,6,97,CA,Sonoma,17
-2011,13,121,GA,Fulton,6,111,CA,Ventura,20
-2011,13,121,GA,Fulton,9,11,CT,New London,11
-2011,13,121,GA,Fulton,10,1,DE,Kent,18
-2011,13,121,GA,Fulton,19,163,IA,Scott,17
-2011,13,121,GA,Fulton,22,73,LA,Ouachita Parish,27
-2011,13,121,GA,Fulton,34,1,NJ,Atlantic,16
-2011,13,121,GA,Fulton,36,71,NY,Orange,10
-2011,13,121,GA,Fulton,37,113,NC,Macon,21
-2011,13,121,GA,Fulton,39,17,OH,Butler,18
-2011,13,121,GA,Fulton,39,151,OH,Stark,17
-2011,13,121,GA,Fulton,42,79,PA,Luzerne,17
-2011,13,121,GA,Fulton,45,47,SC,Greenwood,20
-2011,13,121,GA,Fulton,51,179,VA,Stafford,15
-2011,13,121,GA,Fulton,51,550,VA,Chesapeake city,18
-2011,13,121,GA,Fulton,58,0,SS,Other Flows - Same State,463
-2011,13,121,GA,Fulton,59,0,DS,Other Flows - Diff State,4119
-2011,13,121,GA,Fulton,59,1,DS,Other Flows - Northeast,512
-2011,13,121,GA,Fulton,59,3,DS,Other Flows - Midwest,986
-2011,13,121,GA,Fulton,59,5,DS,Other Flows - South,2086
-2011,13,121,GA,Fulton,59,7,DS,Other Flows - West,535
-2011,13,121,GA,Fulton,57,9,FR,Foreign - Other flows,24
-2011,13,135,GA,Gwinnett,96,0,GA,Gwinnett Tot Mig-US & For,45432
-2011,13,135,GA,Gwinnett,97,0,GA,Gwinnett Tot Mig-US,45167
-2011,13,135,GA,Gwinnett,97,1,GA,Gwinnett Tot Mig-Same St,27295
-2011,13,135,GA,Gwinnett,97,3,GA,Gwinnett Tot Mig-Diff St,17872
-2011,13,135,GA,Gwinnett,98,0,GA,Gwinnett Tot Mig-Foreign,265
-2011,13,135,GA,Gwinnett,12,86,FL,Miami Dade,397
-2011,13,135,GA,Gwinnett,12,11,FL,Broward,399
-2011,13,135,GA,Gwinnett,6,37,CA,Los Angeles,364
-2011,13,135,GA,Gwinnett,12,57,FL,Hillsborough,276
-2011,13,135,GA,Gwinnett,48,201,TX,Harris,348
-2011,13,135,GA,Gwinnett,12,95,FL,Orange,251
-2011,13,135,GA,Gwinnett,48,113,TX,Dallas,251
-2011,13,135,GA,Gwinnett,37,119,NC,Mecklenburg,218
-2011,13,135,GA,Gwinnett,36,81,NY,Queens,225
-2011,13,135,GA,Gwinnett,36,47,NY,Kings,202
-2011,13,135,GA,Gwinnett,17,31,IL,Cook,196
-2011,13,135,GA,Gwinnett,12,31,FL,Duval,192
-2011,13,135,GA,Gwinnett,36,5,NY,Bronx,197
-2011,13,135,GA,Gwinnett,6,73,CA,San Diego,151
-2011,13,135,GA,Gwinnett,1,73,AL,Jefferson,164
-2011,13,135,GA,Gwinnett,4,13,AZ,Maricopa,149
-2011,13,135,GA,Gwinnett,12,99,FL,Palm Beach,183
-2011,13,135,GA,Gwinnett,37,183,NC,Wake,157
-2011,13,135,GA,Gwinnett,47,37,TN,Davidson,120
-2011,13,135,GA,Gwinnett,36,61,NY,New York,101
-2011,13,135,GA,Gwinnett,45,45,SC,Greenville,169
-2011,13,135,GA,Gwinnett,51,59,VA,Fairfax,146
-2011,13,135,GA,Gwinnett,12,103,FL,Pinellas,126
-2011,13,135,GA,Gwinnett,48,439,TX,Tarrant,130
-2011,13,135,GA,Gwinnett,26,163,MI,Wayne,108
-2011,13,135,GA,Gwinnett,53,33,WA,King,115
-2011,13,135,GA,Gwinnett,24,31,MD,Montgomery,117
-2011,13,135,GA,Gwinnett,6,59,CA,Orange,128
-2011,13,135,GA,Gwinnett,36,103,NY,Suffolk,113
-2011,13,135,GA,Gwinnett,57,5,FR,Foreign - APO/FPO ZIPs,87
-2011,13,135,GA,Gwinnett,47,157,TN,Shelby,95
-2011,13,135,GA,Gwinnett,45,19,SC,Charleston,84
-2011,13,135,GA,Gwinnett,12,105,FL,Polk,79
-2011,13,135,GA,Gwinnett,12,117,FL,Seminole,79
-2011,13,135,GA,Gwinnett,47,65,TN,Hamilton,98
-2011,13,135,GA,Gwinnett,37,51,NC,Cumberland,92
-2011,13,135,GA,Gwinnett,12,127,FL,Volusia,69
-2011,13,135,GA,Gwinnett,22,71,LA,Orleans Parish,91
-2011,13,135,GA,Gwinnett,36,59,NY,Nassau,74
-2011,13,135,GA,Gwinnett,32,3,NV,Clark,66
-2011,13,135,GA,Gwinnett,34,13,NJ,Essex,74
-2011,13,135,GA,Gwinnett,1,101,AL,Montgomery,69
-2011,13,135,GA,Gwinnett,22,51,LA,Jefferson Parish,77
-2011,13,135,GA,Gwinnett,39,35,OH,Cuyahoga,76
-2011,13,135,GA,Gwinnett,48,29,TX,Bexar,86
-2011,13,135,GA,Gwinnett,48,85,TX,Collin,104
-2011,13,135,GA,Gwinnett,24,33,MD,Prince George's,62
-2011,13,135,GA,Gwinnett,6,85,CA,Santa Clara,79
-2011,13,135,GA,Gwinnett,37,81,NC,Guilford,76
-2011,13,135,GA,Gwinnett,45,79,SC,Richland,67
-2011,13,135,GA,Gwinnett,47,93,TN,Knox,62
-2011,13,135,GA,Gwinnett,12,71,FL,Lee,68
-2011,13,135,GA,Gwinnett,15,3,HI,Honolulu,57
-2011,13,135,GA,Gwinnett,34,17,NJ,Hudson,61
-2011,13,135,GA,Gwinnett,39,49,OH,Franklin,60
-2011,13,135,GA,Gwinnett,12,33,FL,Escambia,58
-2011,13,135,GA,Gwinnett,21,111,KY,Jefferson,67
-2011,13,135,GA,Gwinnett,34,23,NJ,Middlesex,73
-2011,13,135,GA,Gwinnett,55,79,WI,Milwaukee,63
-2011,13,135,GA,Gwinnett,1,97,AL,Mobile,65
-2011,13,135,GA,Gwinnett,1,117,AL,Shelby,61
-2011,13,135,GA,Gwinnett,45,51,SC,Horry,48
-2011,13,135,GA,Gwinnett,34,39,NJ,Union,66
-2011,13,135,GA,Gwinnett,37,133,NC,Onslow,66
-2011,13,135,GA,Gwinnett,9,1,CT,Fairfield,58
-2011,13,135,GA,Gwinnett,51,810,VA,Virginia Beach city,56
-2011,13,135,GA,Gwinnett,8,41,CO,El Paso,66
-2011,13,135,GA,Gwinnett,12,83,FL,Marion,48
-2011,13,135,GA,Gwinnett,48,453,TX,Travis,56
-2011,13,135,GA,Gwinnett,1,89,AL,Madison,64
-2011,13,135,GA,Gwinnett,8,5,CO,Arapahoe,57
-2011,13,135,GA,Gwinnett,12,97,FL,Osceola,65
-2011,13,135,GA,Gwinnett,34,3,NJ,Bergen,53
-2011,13,135,GA,Gwinnett,42,3,PA,Allegheny,53
-2011,13,135,GA,Gwinnett,45,13,SC,Beaufort,54
-2011,13,135,GA,Gwinnett,11,1,DC,District of Columbia,41
-2011,13,135,GA,Gwinnett,12,73,FL,Leon,42
-2011,13,135,GA,Gwinnett,12,101,FL,Pasco,58
-2011,13,135,GA,Gwinnett,17,43,IL,Dupage,69
-2011,13,135,GA,Gwinnett,12,9,FL,Brevard,52
-2011,13,135,GA,Gwinnett,12,91,FL,Okaloosa,55
-2011,13,135,GA,Gwinnett,24,5,MD,Baltimore,57
-2011,13,135,GA,Gwinnett,24,510,MD,Baltimore city,38
-2011,13,135,GA,Gwinnett,26,125,MI,Oakland,58
-2011,13,135,GA,Gwinnett,27,53,MN,Hennepin,51
-2011,13,135,GA,Gwinnett,6,71,CA,San Bernardino,65
-2011,13,135,GA,Gwinnett,12,5,FL,Bay,46
-2011,13,135,GA,Gwinnett,42,101,PA,Philadelphia,45
-2011,13,135,GA,Gwinnett,12,109,FL,St Johns,54
-2011,13,135,GA,Gwinnett,36,119,NY,Westchester,49
-2011,13,135,GA,Gwinnett,48,121,TX,Denton,50
-2011,13,135,GA,Gwinnett,53,53,WA,Pierce,61
-2011,13,135,GA,Gwinnett,8,31,CO,Denver,40
-2011,13,135,GA,Gwinnett,37,67,NC,Forsyth,47
-2011,13,135,GA,Gwinnett,45,63,SC,Lexington,54
-2011,13,135,GA,Gwinnett,45,83,SC,Spartanburg,51
-2011,13,135,GA,Gwinnett,48,157,TX,Fort Bend,67
-2011,13,135,GA,Gwinnett,1,3,AL,Baldwin,52
-2011,13,135,GA,Gwinnett,1,81,AL,Lee,38
-2011,13,135,GA,Gwinnett,2,20,AK,Anchorage Municipality,38
-2011,13,135,GA,Gwinnett,6,65,CA,Riverside,44
-2011,13,135,GA,Gwinnett,24,27,MD,Howard,57
-2011,13,135,GA,Gwinnett,36,55,NY,Monroe,42
-2011,13,135,GA,Gwinnett,37,21,NC,Buncombe,37
-2011,13,135,GA,Gwinnett,45,7,SC,Anderson,38
-2011,13,135,GA,Gwinnett,45,15,SC,Berkeley,42
-2011,13,135,GA,Gwinnett,48,27,TX,Bell,35
-2011,13,135,GA,Gwinnett,49,35,UT,Salt Lake,39
-2011,13,135,GA,Gwinnett,6,1,CA,Alameda,39
-2011,13,135,GA,Gwinnett,9,3,CT,Hartford,46
-2011,13,135,GA,Gwinnett,18,97,IN,Marion,52
-2011,13,135,GA,Gwinnett,39,61,OH,Hamilton,55
-2011,13,135,GA,Gwinnett,4,19,AZ,Pima,29
-2011,13,135,GA,Gwinnett,5,119,AR,Pulaski,40
-2011,13,135,GA,Gwinnett,6,67,CA,Sacramento,51
-2011,13,135,GA,Gwinnett,28,47,MS,Harrison,27
-2011,13,135,GA,Gwinnett,29,189,MO,St Louis,41
-2011,13,135,GA,Gwinnett,37,63,NC,Durham,35
-2011,13,135,GA,Gwinnett,44,7,RI,Providence,42
-2011,13,135,GA,Gwinnett,45,91,SC,York,36
-2011,13,135,GA,Gwinnett,51,153,VA,Prince William,40
-2011,13,135,GA,Gwinnett,12,1,FL,Alachua,35
-2011,13,135,GA,Gwinnett,12,81,FL,Manatee,38
-2011,13,135,GA,Gwinnett,28,49,MS,Hinds,33
-2011,13,135,GA,Gwinnett,42,91,PA,Montgomery,31
-2011,13,135,GA,Gwinnett,9,9,CT,New Haven,42
-2011,13,135,GA,Gwinnett,12,21,FL,Collier,32
-2011,13,135,GA,Gwinnett,12,111,FL,St Lucie,36
-2011,13,135,GA,Gwinnett,25,27,MA,Worcester,31
-2011,13,135,GA,Gwinnett,28,59,MS,Jackson,44
-2011,13,135,GA,Gwinnett,40,109,OK,Oklahoma,49
-2011,13,135,GA,Gwinnett,45,77,SC,Pickens,30
-2011,13,135,GA,Gwinnett,48,141,TX,El Paso,33
-2011,13,135,GA,Gwinnett,6,75,CA,San Francisco,24
-2011,13,135,GA,Gwinnett,25,17,MA,Middlesex,31
-2011,13,135,GA,Gwinnett,26,81,MI,Kent,48
-2011,13,135,GA,Gwinnett,34,7,NJ,Camden,27
-2011,13,135,GA,Gwinnett,45,3,SC,Aiken,37
-2011,13,135,GA,Gwinnett,47,187,TN,Williamson,50
-2011,13,135,GA,Gwinnett,51,41,VA,Chesterfield,48
-2011,13,135,GA,Gwinnett,51,510,VA,Alexandria city,43
-2011,13,135,GA,Gwinnett,12,115,FL,Sarasota,33
-2011,13,135,GA,Gwinnett,22,33,LA,East Baton Rouge Parish,29
-2011,13,135,GA,Gwinnett,24,3,MD,Anne Arundel,30
-2011,13,135,GA,Gwinnett,25,9,MA,Essex,35
-2011,13,135,GA,Gwinnett,34,31,NJ,Passaic,37
-2011,13,135,GA,Gwinnett,48,215,TX,Hidalgo,53
-2011,13,135,GA,Gwinnett,51,107,VA,Loudoun,48
-2011,13,135,GA,Gwinnett,12,35,FL,Flagler,36
-2011,13,135,GA,Gwinnett,18,3,IN,Allen,27
-2011,13,135,GA,Gwinnett,31,55,NE,Douglas,39
-2011,13,135,GA,Gwinnett,35,1,NM,Bernalillo,25
-2011,13,135,GA,Gwinnett,51,13,VA,Arlington,19
-2011,13,135,GA,Gwinnett,1,15,AL,Calhoun,36
-2011,13,135,GA,Gwinnett,6,111,CA,Ventura,36
-2011,13,135,GA,Gwinnett,12,69,FL,Lake,27
-2011,13,135,GA,Gwinnett,25,25,MA,Suffolk,29
-2011,13,135,GA,Gwinnett,26,49,MI,Genesee,32
-2011,13,135,GA,Gwinnett,37,25,NC,Cabarrus,41
-2011,13,135,GA,Gwinnett,39,113,OH,Montgomery,37
-2011,13,135,GA,Gwinnett,42,45,PA,Delaware,33
-2011,13,135,GA,Gwinnett,51,87,VA,Henrico,25
-2011,13,135,GA,Gwinnett,1,125,AL,Tuscaloosa,22
-2011,13,135,GA,Gwinnett,8,35,CO,Douglas,31
-2011,13,135,GA,Gwinnett,8,59,CO,Jefferson,29
-2011,13,135,GA,Gwinnett,10,3,DE,New Castle,27
-2011,13,135,GA,Gwinnett,17,97,IL,Lake,30
-2011,13,135,GA,Gwinnett,19,153,IA,Polk,20
-2011,13,135,GA,Gwinnett,26,99,MI,Macomb,16
-2011,13,135,GA,Gwinnett,34,21,NJ,Mercer,24
-2011,13,135,GA,Gwinnett,45,35,SC,Dorchester,28
-2011,13,135,GA,Gwinnett,45,73,SC,Oconee,32
-2011,13,135,GA,Gwinnett,1,113,AL,Russell,31
-2011,13,135,GA,Gwinnett,5,7,AR,Benton,25
-2011,13,135,GA,Gwinnett,12,19,FL,Clay,25
-2011,13,135,GA,Gwinnett,12,85,FL,Martin,21
-2011,13,135,GA,Gwinnett,12,113,FL,Santa Rosa,26
-2011,13,135,GA,Gwinnett,17,113,IL,Mclean,28
-2011,13,135,GA,Gwinnett,20,91,KS,Johnson,23
-2011,13,135,GA,Gwinnett,27,37,MN,Dakota,29
-2011,13,135,GA,Gwinnett,29,95,MO,Jackson,21
-2011,13,135,GA,Gwinnett,36,29,NY,Erie,24
-2011,13,135,GA,Gwinnett,41,67,OR,Washington,23
-2011,13,135,GA,Gwinnett,47,125,TN,Montgomery,29
-2011,13,135,GA,Gwinnett,48,339,TX,Montgomery,28
-2011,13,135,GA,Gwinnett,18,57,IN,Hamilton,20
-2011,13,135,GA,Gwinnett,20,173,KS,Sedgwick,34
-2011,13,135,GA,Gwinnett,22,55,LA,Lafayette Parish,28
-2011,13,135,GA,Gwinnett,25,21,MA,Norfolk,18
-2011,13,135,GA,Gwinnett,37,179,NC,Union,29
-2011,13,135,GA,Gwinnett,40,143,OK,Tulsa,18
-2011,13,135,GA,Gwinnett,42,77,PA,Lehigh,28
-2011,13,135,GA,Gwinnett,47,11,TN,Bradley,20
-2011,13,135,GA,Gwinnett,47,163,TN,Sullivan,19
-2011,13,135,GA,Gwinnett,49,49,UT,Utah,25
-2011,13,135,GA,Gwinnett,57,3,FR,Foreign - Puerto Rico,22
-2011,13,135,GA,Gwinnett,6,13,CA,Contra Costa,21
-2011,13,135,GA,Gwinnett,6,53,CA,Monterey,22
-2011,13,135,GA,Gwinnett,12,89,FL,Nassau,23
-2011,13,135,GA,Gwinnett,12,119,FL,Sumter,15
-2011,13,135,GA,Gwinnett,17,197,IL,Will,24
-2011,13,135,GA,Gwinnett,28,121,MS,Rankin,15
-2011,13,135,GA,Gwinnett,36,67,NY,Onondaga,17
-2011,13,135,GA,Gwinnett,37,101,NC,Johnston,14
-2011,13,135,GA,Gwinnett,41,51,OR,Multnomah,22
-2011,13,135,GA,Gwinnett,42,43,PA,Dauphin,19
-2011,13,135,GA,Gwinnett,45,41,SC,Florence,17
-2011,13,135,GA,Gwinnett,48,491,TX,Williamson,24
-2011,13,135,GA,Gwinnett,51,710,VA,Norfolk city,15
-2011,13,135,GA,Gwinnett,51,760,VA,Richmond city,20
-2011,13,135,GA,Gwinnett,58,0,SS,Other Flows - Same State,555
-2011,13,135,GA,Gwinnett,59,0,DS,Other Flows - Diff State,4384
-2011,13,135,GA,Gwinnett,59,1,DS,Other Flows - Northeast,624
-2011,13,135,GA,Gwinnett,59,3,DS,Other Flows - Midwest,987
-2011,13,135,GA,Gwinnett,59,5,DS,Other Flows - South,2261
-2011,13,135,GA,Gwinnett,59,7,DS,Other Flows - West,512
-2011,13,135,GA,Gwinnett,57,9,FR,Foreign - Other flows,156
-2011,12,86,FL,Miami Dade,13,63,GA,Clayton,150
-2011,12,11,FL,Broward,13,63,GA,Clayton,186
-2011,6,37,CA,Los Angeles,13,63,GA,Clayton,115
-2011,17,31,IL,Cook,13,63,GA,Clayton,155
-2011,26,163,MI,Wayne,13,63,GA,Clayton,115
-2011,47,157,TN,Shelby,13,63,GA,Clayton,102
-2011,36,47,NY,Kings,13,63,GA,Clayton,94
-2011,1,101,AL,Montgomery,13,63,GA,Clayton,67
-2011,12,57,FL,Hillsborough,13,63,GA,Clayton,62
-2011,12,95,FL,Orange,13,63,GA,Clayton,81
-2011,42,101,PA,Philadelphia,13,63,GA,Clayton,64
-2011,12,31,FL,Duval,13,63,GA,Clayton,72
-2011,37,119,NC,Mecklenburg,13,63,GA,Clayton,72
-2011,48,201,TX,Harris,13,63,GA,Clayton,77
-2011,36,81,NY,Queens,13,63,GA,Clayton,69
-2011,45,79,SC,Richland,13,63,GA,Clayton,62
-2011,36,5,NY,Bronx,13,63,GA,Clayton,60
-2011,1,73,AL,Jefferson,13,63,GA,Clayton,65
-2011,45,45,SC,Greenville,13,63,GA,Clayton,149
-2011,57,5,FR,Foreign - APO/FPO ZIPs,13,63,GA,Clayton,54
-2011,12,99,FL,Palm Beach,13,63,GA,Clayton,59
-2011,22,71,LA,Orleans Parish,13,63,GA,Clayton,51
-2011,34,13,NJ,Essex,13,63,GA,Clayton,53
-2011,12,73,FL,Leon,13,63,GA,Clayton,39
-2011,39,35,OH,Cuyahoga,13,63,GA,Clayton,57
-2011,47,37,TN,Davidson,13,63,GA,Clayton,43
-2011,4,13,AZ,Maricopa,13,63,GA,Clayton,53
-2011,48,113,TX,Dallas,13,63,GA,Clayton,42
-2011,24,33,MD,Prince George's,13,63,GA,Clayton,39
-2011,24,510,MD,Baltimore city,13,63,GA,Clayton,48
-2011,45,19,SC,Charleston,13,63,GA,Clayton,43
-2011,12,83,FL,Marion,13,63,GA,Clayton,30
-2011,37,51,NC,Cumberland,13,63,GA,Clayton,40
-2011,39,61,OH,Hamilton,13,63,GA,Clayton,53
-2011,39,113,OH,Montgomery,13,63,GA,Clayton,36
-2011,1,81,AL,Lee,13,63,GA,Clayton,34
-2011,12,127,FL,Volusia,13,63,GA,Clayton,34
-2011,1,89,AL,Madison,13,63,GA,Clayton,33
-2011,22,51,LA,Jefferson Parish,13,63,GA,Clayton,39
-2011,32,3,NV,Clark,13,63,GA,Clayton,45
-2011,18,97,IN,Marion,13,63,GA,Clayton,33
-2011,55,79,WI,Milwaukee,13,63,GA,Clayton,37
-2011,1,97,AL,Mobile,13,63,GA,Clayton,28
-2011,6,73,CA,San Diego,13,63,GA,Clayton,27
-2011,37,183,NC,Wake,13,63,GA,Clayton,35
-2011,39,49,OH,Franklin,13,63,GA,Clayton,40
-2011,48,439,TX,Tarrant,13,63,GA,Clayton,31
-2011,6,67,CA,Sacramento,13,63,GA,Clayton,24
-2011,15,3,HI,Honolulu,13,63,GA,Clayton,40
-2011,36,1,NY,Albany,13,63,GA,Clayton,29
-2011,36,61,NY,New York,13,63,GA,Clayton,25
-2011,45,13,SC,Beaufort,13,63,GA,Clayton,39
-2011,12,5,FL,Bay,13,63,GA,Clayton,30
-2011,26,125,MI,Oakland,13,63,GA,Clayton,27
-2011,6,1,CA,Alameda,13,63,GA,Clayton,18
-2011,9,9,CT,New Haven,13,63,GA,Clayton,25
-2011,12,105,FL,Polk,13,63,GA,Clayton,20
-2011,22,33,LA,East Baton Rouge Parish,13,63,GA,Clayton,22
-2011,37,63,NC,Durham,13,63,GA,Clayton,28
-2011,12,33,FL,Escambia,13,63,GA,Clayton,22
-2011,12,97,FL,Osceola,13,63,GA,Clayton,30
-2011,12,103,FL,Pinellas,13,63,GA,Clayton,21
-2011,21,111,KY,Jefferson,13,63,GA,Clayton,28
-2011,25,25,MA,Suffolk,13,63,GA,Clayton,15
-2011,36,59,NY,Nassau,13,63,GA,Clayton,27
-2011,36,103,NY,Suffolk,13,63,GA,Clayton,35
-2011,47,125,TN,Montgomery,13,63,GA,Clayton,20
-2011,48,27,TX,Bell,13,63,GA,Clayton,20
-2011,48,29,TX,Bexar,13,63,GA,Clayton,31
-2011,1,113,AL,Russell,13,63,GA,Clayton,20
-2011,6,71,CA,San Bernardino,13,63,GA,Clayton,27
-2011,12,81,FL,Manatee,13,63,GA,Clayton,22
-2011,18,89,IN,Lake,13,63,GA,Clayton,23
-2011,24,31,MD,Montgomery,13,63,GA,Clayton,20
-2011,36,119,NY,Westchester,13,63,GA,Clayton,23
-2011,37,133,NC,Onslow,13,63,GA,Clayton,27
-2011,47,65,TN,Hamilton,13,63,GA,Clayton,22
-2011,51,59,VA,Fairfax,13,63,GA,Clayton,15
-2011,51,810,VA,Virginia Beach city,13,63,GA,Clayton,33
-2011,1,87,AL,Macon,13,63,GA,Clayton,14
-2011,11,1,DC,District of Columbia,13,63,GA,Clayton,20
-2011,12,111,FL,St Lucie,13,63,GA,Clayton,21
-2011,24,5,MD,Baltimore,13,63,GA,Clayton,11
-2011,26,49,MI,Genesee,13,63,GA,Clayton,20
-2011,28,49,MS,Hinds,13,63,GA,Clayton,28
-2011,36,29,NY,Erie,13,63,GA,Clayton,24
-2011,37,81,NC,Guilford,13,63,GA,Clayton,19
-2011,42,3,PA,Allegheny,13,63,GA,Clayton,14
-2011,53,53,WA,Pierce,13,63,GA,Clayton,15
-2011,58,0,SS,Other Flows - Same State,13,63,GA,Clayton,540
-2011,59,0,DS,Other Flows - Diff State,13,63,GA,Clayton,2755
-2011,59,1,DS,Other Flows - Northeast,13,63,GA,Clayton,459
-2011,59,3,DS,Other Flows - Midwest,13,63,GA,Clayton,558
-2011,59,5,DS,Other Flows - South,13,63,GA,Clayton,1407
-2011,59,7,DS,Other Flows - West,13,63,GA,Clayton,331
-2011,57,9,FR,Foreign - Other flows,13,63,GA,Clayton,27
-2011,17,31,IL,Cook,13,67,GA,Cobb,454
-2011,12,86,FL,Miami Dade,13,67,GA,Cobb,323
-2011,12,11,FL,Broward,13,67,GA,Cobb,316
-2011,6,37,CA,Los Angeles,13,67,GA,Cobb,298
-2011,12,95,FL,Orange,13,67,GA,Cobb,245
-2011,20,173,KS,Sedgwick,13,67,GA,Cobb,292
-2011,37,119,NC,Mecklenburg,13,67,GA,Cobb,220
-2011,12,31,FL,Duval,13,67,GA,Cobb,198
-2011,12,57,FL,Hillsborough,13,67,GA,Cobb,230
-2011,1,73,AL,Jefferson,13,67,GA,Cobb,205
-2011,48,201,TX,Harris,13,67,GA,Cobb,199
-2011,4,13,AZ,Maricopa,13,67,GA,Cobb,201
-2011,12,99,FL,Palm Beach,13,67,GA,Cobb,180
-2011,36,47,NY,Kings,13,67,GA,Cobb,158
-2011,47,157,TN,Shelby,13,67,GA,Cobb,171
-2011,12,103,FL,Pinellas,13,67,GA,Cobb,147
-2011,36,81,NY,Queens,13,67,GA,Cobb,137
-2011,47,37,TN,Davidson,13,67,GA,Cobb,120
-2011,26,163,MI,Wayne,13,67,GA,Cobb,143
-2011,32,3,NV,Clark,13,67,GA,Cobb,125
-2011,26,125,MI,Oakland,13,67,GA,Cobb,123
-2011,39,35,OH,Cuyahoga,13,67,GA,Cobb,115
-2011,48,113,TX,Dallas,13,67,GA,Cobb,137
-2011,6,73,CA,San Diego,13,67,GA,Cobb,128
-2011,12,73,FL,Leon,13,67,GA,Cobb,89
-2011,37,183,NC,Wake,13,67,GA,Cobb,124
-2011,48,439,TX,Tarrant,13,67,GA,Cobb,120
-2011,57,5,FR,Foreign - APO/FPO ZIPs,13,67,GA,Cobb,119
-2011,39,61,OH,Hamilton,13,67,GA,Cobb,106
-2011,36,5,NY,Bronx,13,67,GA,Cobb,110
-2011,45,45,SC,Greenville,13,67,GA,Cobb,104
-2011,36,59,NY,Nassau,13,67,GA,Cobb,102
-2011,1,101,AL,Montgomery,13,67,GA,Cobb,100
-2011,1,89,AL,Madison,13,67,GA,Cobb,86
-2011,53,33,WA,King,13,67,GA,Cobb,95
-2011,27,53,MN,Hennepin,13,67,GA,Cobb,102
-2011,45,19,SC,Charleston,13,67,GA,Cobb,78
-2011,47,65,TN,Hamilton,13,67,GA,Cobb,73
-2011,34,23,NJ,Middlesex,13,67,GA,Cobb,91
-2011,36,61,NY,New York,13,67,GA,Cobb,75
-2011,51,59,VA,Fairfax,13,67,GA,Cobb,87
-2011,29,189,MO,St Louis,13,67,GA,Cobb,82
-2011,36,103,NY,Suffolk,13,67,GA,Cobb,98
-2011,24,31,MD,Montgomery,13,67,GA,Cobb,79
-2011,12,33,FL,Escambia,13,67,GA,Cobb,64
-2011,24,33,MD,Prince George's,13,67,GA,Cobb,86
-2011,34,13,NJ,Essex,13,67,GA,Cobb,75
-2011,42,101,PA,Philadelphia,13,67,GA,Cobb,70
-2011,45,79,SC,Richland,13,67,GA,Cobb,78
-2011,48,29,TX,Bexar,13,67,GA,Cobb,94
-2011,6,59,CA,Orange,13,67,GA,Cobb,76
-2011,47,93,TN,Knox,13,67,GA,Cobb,71
-2011,48,85,TX,Collin,13,67,GA,Cobb,81
-2011,9,1,CT,Fairfield,13,67,GA,Cobb,73
-2011,12,127,FL,Volusia,13,67,GA,Cobb,70
-2011,22,71,LA,Orleans Parish,13,67,GA,Cobb,63
-2011,37,81,NC,Guilford,13,67,GA,Cobb,65
-2011,1,117,AL,Shelby,13,67,GA,Cobb,71
-2011,36,119,NY,Westchester,13,67,GA,Cobb,80
-2011,39,49,OH,Franklin,13,67,GA,Cobb,75
-2011,12,71,FL,Lee,13,67,GA,Cobb,62
-2011,12,117,FL,Seminole,13,67,GA,Cobb,76
-2011,17,43,IL,Dupage,13,67,GA,Cobb,68
-2011,21,111,KY,Jefferson,13,67,GA,Cobb,76
-2011,25,17,MA,Middlesex,13,67,GA,Cobb,73
-2011,20,91,KS,Johnson,13,67,GA,Cobb,82
-2011,1,97,AL,Mobile,13,67,GA,Cobb,72
-2011,12,1,FL,Alachua,13,67,GA,Cobb,49
-2011,51,810,VA,Virginia Beach city,13,67,GA,Cobb,77
-2011,55,79,WI,Milwaukee,13,67,GA,Cobb,59
-2011,12,5,FL,Bay,13,67,GA,Cobb,69
-2011,18,97,IN,Marion,13,67,GA,Cobb,71
-2011,42,3,PA,Allegheny,13,67,GA,Cobb,52
-2011,12,9,FL,Brevard,13,67,GA,Cobb,61
-2011,8,41,CO,El Paso,13,67,GA,Cobb,57
-2011,34,17,NJ,Hudson,13,67,GA,Cobb,53
-2011,37,67,NC,Forsyth,13,67,GA,Cobb,59
-2011,39,113,OH,Montgomery,13,67,GA,Cobb,56
-2011,1,81,AL,Lee,13,67,GA,Cobb,39
-2011,9,3,CT,Hartford,13,67,GA,Cobb,50
-2011,22,51,LA,Jefferson Parish,13,67,GA,Cobb,47
-2011,24,5,MD,Baltimore,13,67,GA,Cobb,52
-2011,24,510,MD,Baltimore city,13,67,GA,Cobb,51
-2011,37,63,NC,Durham,13,67,GA,Cobb,70
-2011,48,453,TX,Travis,13,67,GA,Cobb,51
-2011,12,105,FL,Polk,13,67,GA,Cobb,54
-2011,22,33,LA,East Baton Rouge Parish,13,67,GA,Cobb,50
-2011,45,51,SC,Horry,13,67,GA,Cobb,44
-2011,47,149,TN,Rutherford,13,67,GA,Cobb,69
-2011,5,119,AR,Pulaski,13,67,GA,Cobb,54
-2011,28,49,MS,Hinds,13,67,GA,Cobb,41
-2011,12,91,FL,Okaloosa,13,67,GA,Cobb,35
-2011,12,115,FL,Sarasota,13,67,GA,Cobb,39
-2011,17,97,IL,Lake,13,67,GA,Cobb,55
-2011,34,3,NJ,Bergen,13,67,GA,Cobb,53
-2011,36,55,NY,Monroe,13,67,GA,Cobb,47
-2011,37,51,NC,Cumberland,13,67,GA,Cobb,43
-2011,48,121,TX,Denton,13,67,GA,Cobb,58
-2011,6,1,CA,Alameda,13,67,GA,Cobb,43
-2011,6,71,CA,San Bernardino,13,67,GA,Cobb,45
-2011,9,9,CT,New Haven,13,67,GA,Cobb,38
-2011,36,29,NY,Erie,13,67,GA,Cobb,44
-2011,37,133,NC,Onslow,13,67,GA,Cobb,49
-2011,8,5,CO,Arapahoe,13,67,GA,Cobb,40
-2011,11,1,DC,District of Columbia,13,67,GA,Cobb,35
-2011,12,21,FL,Collier,13,67,GA,Cobb,54
-2011,15,3,HI,Honolulu,13,67,GA,Cobb,43
-2011,24,3,MD,Anne Arundel,13,67,GA,Cobb,41
-2011,51,87,VA,Henrico,13,67,GA,Cobb,38
-2011,6,85,CA,Santa Clara,13,67,GA,Cobb,44
-2011,12,101,FL,Pasco,13,67,GA,Cobb,38
-2011,26,49,MI,Genesee,13,67,GA,Cobb,37
-2011,1,15,AL,Calhoun,13,67,GA,Cobb,36
-2011,45,13,SC,Beaufort,13,67,GA,Cobb,36
-2011,51,153,VA,Prince William,13,67,GA,Cobb,39
-2011,12,111,FL,St Lucie,13,67,GA,Cobb,32
-2011,17,197,IL,Will,13,67,GA,Cobb,44
-2011,21,67,KY,Fayette,13,67,GA,Cobb,41
-2011,51,700,VA,Newport News city,13,67,GA,Cobb,38
-2011,51,760,VA,Richmond city,13,67,GA,Cobb,29
-2011,1,3,AL,Baldwin,13,67,GA,Cobb,36
-2011,1,125,AL,Tuscaloosa,13,67,GA,Cobb,27
-2011,10,3,DE,New Castle,13,67,GA,Cobb,31
-2011,12,81,FL,Manatee,13,67,GA,Cobb,34
-2011,12,109,FL,St Johns,13,67,GA,Cobb,35
-2011,26,81,MI,Kent,13,67,GA,Cobb,42
-2011,29,95,MO,Jackson,13,67,GA,Cobb,34
-2011,31,55,NE,Douglas,13,67,GA,Cobb,35
-2011,40,109,OK,Oklahoma,13,67,GA,Cobb,42
-2011,45,83,SC,Spartanburg,13,67,GA,Cobb,40
-2011,51,710,VA,Norfolk city,13,67,GA,Cobb,45
-2011,12,19,FL,Clay,13,67,GA,Cobb,33
-2011,12,97,FL,Osceola,13,67,GA,Cobb,43
-2011,17,89,IL,Kane,13,67,GA,Cobb,38
-2011,18,3,IN,Allen,13,67,GA,Cobb,33
-2011,18,141,IN,St Joseph,13,67,GA,Cobb,43
-2011,25,21,MA,Norfolk,13,67,GA,Cobb,28
-2011,28,47,MS,Harrison,13,67,GA,Cobb,48
-2011,34,39,NJ,Union,13,67,GA,Cobb,39
-2011,39,153,OH,Summit,13,67,GA,Cobb,40
-2011,51,510,VA,Alexandria city,13,67,GA,Cobb,28
-2011,6,65,CA,Riverside,13,67,GA,Cobb,44
-2011,8,31,CO,Denver,13,67,GA,Cobb,24
-2011,12,83,FL,Marion,13,67,GA,Cobb,30
-2011,25,25,MA,Suffolk,13,67,GA,Cobb,34
-2011,39,17,OH,Butler,13,67,GA,Cobb,37
-2011,40,143,OK,Tulsa,13,67,GA,Cobb,25
-2011,45,41,SC,Florence,13,67,GA,Cobb,28
-2011,47,187,TN,Williamson,13,67,GA,Cobb,51
-2011,51,107,VA,Loudoun,13,67,GA,Cobb,35
-2011,12,113,FL,Santa Rosa,13,67,GA,Cobb,35
-2011,26,99,MI,Macomb,13,67,GA,Cobb,32
-2011,34,7,NJ,Camden,13,67,GA,Cobb,25
-2011,36,71,NY,Orange,13,67,GA,Cobb,29
-2011,36,93,NY,Schenectady,13,67,GA,Cobb,41
-2011,39,95,OH,Lucas,13,67,GA,Cobb,28
-2011,42,91,PA,Montgomery,13,67,GA,Cobb,31
-2011,57,3,FR,Foreign - Puerto Rico,13,67,GA,Cobb,36
-2011,1,55,AL,Etowah,13,67,GA,Cobb,20
-2011,1,113,AL,Russell,13,67,GA,Cobb,32
-2011,6,67,CA,Sacramento,13,67,GA,Cobb,30
-2011,27,37,MN,Dakota,13,67,GA,Cobb,34
-2011,36,67,NY,Onondaga,13,67,GA,Cobb,27
-2011,37,21,NC,Buncombe,13,67,GA,Cobb,26
-2011,45,35,SC,Dorchester,13,67,GA,Cobb,36
-2011,45,63,SC,Lexington,13,67,GA,Cobb,38
-2011,47,125,TN,Montgomery,13,67,GA,Cobb,19
-2011,48,27,TX,Bell,13,67,GA,Cobb,34
-2011,49,49,UT,Utah,13,67,GA,Cobb,40
-2011,4,19,AZ,Pima,13,67,GA,Cobb,31
-2011,5,7,AR,Benton,13,67,GA,Cobb,40
-2011,8,1,CO,Adams,13,67,GA,Cobb,23
-2011,22,17,LA,Caddo Parish,13,67,GA,Cobb,25
-2011,35,1,NM,Bernalillo,13,67,GA,Cobb,24
-2011,42,17,PA,Bucks,13,67,GA,Cobb,30
-2011,42,29,PA,Chester,13,67,GA,Cobb,21
-2011,44,7,RI,Providence,13,67,GA,Cobb,21
-2011,45,3,SC,Aiken,13,67,GA,Cobb,16
-2011,45,15,SC,Berkeley,13,67,GA,Cobb,32
-2011,6,19,CA,Fresno,13,67,GA,Cobb,20
-2011,8,59,CO,Jefferson,13,67,GA,Cobb,25
-2011,18,89,IN,Lake,13,67,GA,Cobb,20
-2011,26,65,MI,Ingham,13,67,GA,Cobb,20
-2011,29,510,MO,St Louis city,13,67,GA,Cobb,19
-2011,33,11,NH,Hillsborough,13,67,GA,Cobb,26
-2011,34,5,NJ,Burlington,13,67,GA,Cobb,28
-2011,34,25,NJ,Monmouth,13,67,GA,Cobb,27
-2011,34,27,NJ,Morris,13,67,GA,Cobb,26
-2011,36,85,NY,Richmond,13,67,GA,Cobb,27
-2011,37,97,NC,Iredell,13,67,GA,Cobb,25
-2011,42,45,PA,Delaware,13,67,GA,Cobb,26
-2011,42,133,PA,York,13,67,GA,Cobb,22
-2011,51,41,VA,Chesterfield,13,67,GA,Cobb,32
-2011,53,11,WA,Clark,13,67,GA,Cobb,31
-2011,55,25,WI,Dane,13,67,GA,Cobb,19
-2011,55,133,WI,Waukesha,13,67,GA,Cobb,31
-2011,1,69,AL,Houston,13,67,GA,Cobb,31
-2011,25,5,MA,Bristol,13,67,GA,Cobb,24
-2011,25,27,MA,Worcester,13,67,GA,Cobb,26
-2011,26,161,MI,Washtenaw,13,67,GA,Cobb,21
-2011,29,183,MO,St Charles,13,67,GA,Cobb,35
-2011,36,7,NY,Broome,13,67,GA,Cobb,19
-2011,37,129,NC,New Hanover,13,67,GA,Cobb,26
-2011,42,49,PA,Erie,13,67,GA,Cobb,20
-2011,51,550,VA,Chesapeake city,13,67,GA,Cobb,35
-2011,1,123,AL,Tallapoosa,13,67,GA,Cobb,21
-2011,6,75,CA,San Francisco,13,67,GA,Cobb,16
-2011,6,77,CA,San Joaquin,13,67,GA,Cobb,26
-2011,12,69,FL,Lake,13,67,GA,Cobb,27
-2011,12,89,FL,Nassau,13,67,GA,Cobb,17
-2011,17,143,IL,Peoria,13,67,GA,Cobb,21
-2011,27,123,MN,Ramsey,13,67,GA,Cobb,18
-2011,28,105,MS,Oktibbeha,13,67,GA,Cobb,13
-2011,34,1,NJ,Atlantic,13,67,GA,Cobb,23
-2011,36,1,NY,Albany,13,67,GA,Cobb,24
-2011,37,25,NC,Cabarrus,13,67,GA,Cobb,21
-2011,37,89,NC,Henderson,13,67,GA,Cobb,30
-2011,39,155,OH,Trumbull,13,67,GA,Cobb,24
-2011,41,51,OR,Multnomah,13,67,GA,Cobb,24
-2011,42,43,PA,Dauphin,13,67,GA,Cobb,27
-2011,48,339,TX,Montgomery,13,67,GA,Cobb,18
-2011,49,35,UT,Salt Lake,13,67,GA,Cobb,23
-2011,51,650,VA,Hampton city,13,67,GA,Cobb,23
-2011,6,111,CA,Ventura,13,67,GA,Cobb,22
-2011,12,53,FL,Hernando,13,67,GA,Cobb,19
-2011,12,131,FL,Walton,13,67,GA,Cobb,17
-2011,18,57,IN,Hamilton,13,67,GA,Cobb,25
-2011,19,153,IA,Polk,13,67,GA,Cobb,21
-2011,22,55,LA,Lafayette Parish,13,67,GA,Cobb,19
-2011,24,27,MD,Howard,13,67,GA,Cobb,22
-2011,25,13,MA,Hampden,13,67,GA,Cobb,16
-2011,26,77,MI,Kalamazoo,13,67,GA,Cobb,19
-2011,28,121,MS,Rankin,13,67,GA,Cobb,16
-2011,34,31,NJ,Passaic,13,67,GA,Cobb,18
-2011,39,25,OH,Clermont,13,67,GA,Cobb,23
-2011,39,103,OH,Medina,13,67,GA,Cobb,13
-2011,42,71,PA,Lancaster,13,67,GA,Cobb,14
-2011,47,11,TN,Bradley,13,67,GA,Cobb,16
-2011,48,39,TX,Brazoria,13,67,GA,Cobb,21
-2011,48,167,TX,Galveston,13,67,GA,Cobb,16
-2011,51,800,VA,Suffolk city,13,67,GA,Cobb,24
-2011,58,0,SS,Other Flows - Same State,13,67,GA,Cobb,520
-2011,59,0,DS,Other Flows - Diff State,13,67,GA,Cobb,4341
-2011,59,1,DS,Other Flows - Northeast,13,67,GA,Cobb,491
-2011,59,3,DS,Other Flows - Midwest,13,67,GA,Cobb,1109
-2011,59,5,DS,Other Flows - South,13,67,GA,Cobb,2145
-2011,59,7,DS,Other Flows - West,13,67,GA,Cobb,596
-2011,57,9,FR,Foreign - Other flows,13,67,GA,Cobb,110
-2011,17,31,IL,Cook,13,89,GA,Dekalb,401
-2011,12,86,FL,Miami Dade,13,89,GA,Dekalb,388
-2011,12,11,FL,Broward,13,89,GA,Dekalb,338
-2011,6,37,CA,Los Angeles,13,89,GA,Dekalb,308
-2011,37,119,NC,Mecklenburg,13,89,GA,Dekalb,290
-2011,36,47,NY,Kings,13,89,GA,Dekalb,293
-2011,12,57,FL,Hillsborough,13,89,GA,Dekalb,246
-2011,12,95,FL,Orange,13,89,GA,Dekalb,238
-2011,36,61,NY,New York,13,89,GA,Dekalb,209
-2011,26,163,MI,Wayne,13,89,GA,Dekalb,192
-2011,36,81,NY,Queens,13,89,GA,Dekalb,235
-2011,12,31,FL,Duval,13,89,GA,Dekalb,185
-2011,1,73,AL,Jefferson,13,89,GA,Dekalb,208
-2011,47,37,TN,Davidson,13,89,GA,Dekalb,184
-2011,1,101,AL,Montgomery,13,89,GA,Dekalb,162
-2011,48,201,TX,Harris,13,89,GA,Dekalb,189
-2011,48,113,TX,Dallas,13,89,GA,Dekalb,167
-2011,12,99,FL,Palm Beach,13,89,GA,Dekalb,140
-2011,39,35,OH,Cuyahoga,13,89,GA,Dekalb,151
-2011,39,49,OH,Franklin,13,89,GA,Dekalb,165
-2011,47,157,TN,Shelby,13,89,GA,Dekalb,150
-2011,37,183,NC,Wake,13,89,GA,Dekalb,135
-2011,45,79,SC,Richland,13,89,GA,Dekalb,133
-2011,6,73,CA,San Diego,13,89,GA,Dekalb,136
-2011,4,13,AZ,Maricopa,13,89,GA,Dekalb,134
-2011,32,3,NV,Clark,13,89,GA,Dekalb,121
-2011,53,33,WA,King,13,89,GA,Dekalb,122
-2011,11,1,DC,District of Columbia,13,89,GA,Dekalb,121
-2011,12,103,FL,Pinellas,13,89,GA,Dekalb,110
-2011,42,101,PA,Philadelphia,13,89,GA,Dekalb,125
-2011,45,19,SC,Charleston,13,89,GA,Dekalb,115
-2011,28,49,MS,Hinds,13,89,GA,Dekalb,108
-2011,12,73,FL,Leon,13,89,GA,Dekalb,104
-2011,22,71,LA,Orleans Parish,13,89,GA,Dekalb,117
-2011,51,59,VA,Fairfax,13,89,GA,Dekalb,107
-2011,36,5,NY,Bronx,13,89,GA,Dekalb,106
-2011,34,13,NJ,Essex,13,89,GA,Dekalb,113
-2011,18,97,IN,Marion,13,89,GA,Dekalb,128
-2011,39,61,OH,Hamilton,13,89,GA,Dekalb,110
-2011,25,17,MA,Middlesex,13,89,GA,Dekalb,83
-2011,37,81,NC,Guilford,13,89,GA,Dekalb,75
-2011,45,45,SC,Greenville,13,89,GA,Dekalb,89
-2011,6,1,CA,Alameda,13,89,GA,Dekalb,85
-2011,26,125,MI,Oakland,13,89,GA,Dekalb,82
-2011,21,111,KY,Jefferson,13,89,GA,Dekalb,64
-2011,37,63,NC,Durham,13,89,GA,Dekalb,93
-2011,42,3,PA,Allegheny,13,89,GA,Dekalb,89
-2011,47,93,TN,Knox,13,89,GA,Dekalb,75
-2011,24,31,MD,Montgomery,13,89,GA,Dekalb,72
-2011,24,33,MD,Prince George's,13,89,GA,Dekalb,88
-2011,55,79,WI,Milwaukee,13,89,GA,Dekalb,84
-2011,12,1,FL,Alachua,13,89,GA,Dekalb,67
-2011,27,53,MN,Hennepin,13,89,GA,Dekalb,78
-2011,36,59,NY,Nassau,13,89,GA,Dekalb,67
-2011,47,65,TN,Hamilton,13,89,GA,Dekalb,60
-2011,1,89,AL,Madison,13,89,GA,Dekalb,69
-2011,22,33,LA,East Baton Rouge Parish,13,89,GA,Dekalb,68
-2011,48,453,TX,Travis,13,89,GA,Dekalb,69
-2011,12,33,FL,Escambia,13,89,GA,Dekalb,59
-2011,24,510,MD,Baltimore city,13,89,GA,Dekalb,65
-2011,25,25,MA,Suffolk,13,89,GA,Dekalb,73
-2011,29,189,MO,St Louis,13,89,GA,Dekalb,73
-2011,36,29,NY,Erie,13,89,GA,Dekalb,66
-2011,37,51,NC,Cumberland,13,89,GA,Dekalb,56
-2011,48,439,TX,Tarrant,13,89,GA,Dekalb,77
-2011,57,5,FR,Foreign - APO/FPO ZIPs,13,89,GA,Dekalb,70
-2011,1,97,AL,Mobile,13,89,GA,Dekalb,72
-2011,48,85,TX,Collin,13,89,GA,Dekalb,66
-2011,1,81,AL,Lee,13,89,GA,Dekalb,55
-2011,39,113,OH,Montgomery,13,89,GA,Dekalb,64
-2011,6,75,CA,San Francisco,13,89,GA,Dekalb,49
-2011,12,71,FL,Lee,13,89,GA,Dekalb,57
-2011,34,17,NJ,Hudson,13,89,GA,Dekalb,57
-2011,36,119,NY,Westchester,13,89,GA,Dekalb,60
-2011,6,59,CA,Orange,13,89,GA,Dekalb,62
-2011,8,31,CO,Denver,13,89,GA,Dekalb,62
-2011,12,117,FL,Seminole,13,89,GA,Dekalb,56
-2011,12,127,FL,Volusia,13,89,GA,Dekalb,48
-2011,48,29,TX,Bexar,13,89,GA,Dekalb,66
-2011,9,9,CT,New Haven,13,89,GA,Dekalb,53
-2011,51,810,VA,Virginia Beach city,13,89,GA,Dekalb,53
-2011,9,3,CT,Hartford,13,89,GA,Dekalb,62
-2011,12,105,FL,Polk,13,89,GA,Dekalb,54
-2011,17,43,IL,Dupage,13,89,GA,Dekalb,59
-2011,29,95,MO,Jackson,13,89,GA,Dekalb,55
-2011,36,55,NY,Monroe,13,89,GA,Dekalb,68
-2011,42,91,PA,Montgomery,13,89,GA,Dekalb,44
-2011,1,125,AL,Tuscaloosa,13,89,GA,Dekalb,42
-2011,6,71,CA,San Bernardino,13,89,GA,Dekalb,60
-2011,9,1,CT,Fairfield,13,89,GA,Dekalb,54
-2011,24,5,MD,Baltimore,13,89,GA,Dekalb,57
-2011,37,21,NC,Buncombe,13,89,GA,Dekalb,49
-2011,45,13,SC,Beaufort,13,89,GA,Dekalb,64
-2011,6,85,CA,Santa Clara,13,89,GA,Dekalb,48
-2011,17,97,IL,Lake,13,89,GA,Dekalb,67
-2011,37,135,NC,Orange,13,89,GA,Dekalb,45
-2011,1,117,AL,Shelby,13,89,GA,Dekalb,44
-2011,12,9,FL,Brevard,13,89,GA,Dekalb,39
-2011,36,103,NY,Suffolk,13,89,GA,Dekalb,51
-2011,39,95,OH,Lucas,13,89,GA,Dekalb,45
-2011,51,710,VA,Norfolk city,13,89,GA,Dekalb,43
-2011,37,67,NC,Forsyth,13,89,GA,Dekalb,57
-2011,41,51,OR,Multnomah,13,89,GA,Dekalb,36
-2011,51,87,VA,Henrico,13,89,GA,Dekalb,46
-2011,51,700,VA,Newport News city,13,89,GA,Dekalb,50
-2011,22,51,LA,Jefferson Parish,13,89,GA,Dekalb,48
-2011,29,510,MO,St Louis city,13,89,GA,Dekalb,38
-2011,34,3,NJ,Bergen,13,89,GA,Dekalb,46
-2011,40,109,OK,Oklahoma,13,89,GA,Dekalb,43
-2011,45,63,SC,Lexington,13,89,GA,Dekalb,37
-2011,49,35,UT,Salt Lake,13,89,GA,Dekalb,54
-2011,25,21,MA,Norfolk,13,89,GA,Dekalb,38
-2011,26,49,MI,Genesee,13,89,GA,Dekalb,49
-2011,51,650,VA,Hampton city,13,89,GA,Dekalb,43
-2011,15,3,HI,Honolulu,13,89,GA,Dekalb,43
-2011,34,23,NJ,Middlesex,13,89,GA,Dekalb,56
-2011,51,13,VA,Arlington,13,89,GA,Dekalb,28
-2011,26,161,MI,Washtenaw,13,89,GA,Dekalb,38
-2011,34,5,NJ,Burlington,13,89,GA,Dekalb,45
-2011,37,129,NC,New Hanover,13,89,GA,Dekalb,38
-2011,45,83,SC,Spartanburg,13,89,GA,Dekalb,36
-2011,48,27,TX,Bell,13,89,GA,Dekalb,35
-2011,4,19,AZ,Pima,13,89,GA,Dekalb,28
-2011,6,67,CA,Sacramento,13,89,GA,Dekalb,50
-2011,12,5,FL,Bay,13,89,GA,Dekalb,41
-2011,12,115,FL,Sarasota,13,89,GA,Dekalb,32
-2011,51,153,VA,Prince William,13,89,GA,Dekalb,32
-2011,55,25,WI,Dane,13,89,GA,Dekalb,43
-2011,6,65,CA,Riverside,13,89,GA,Dekalb,38
-2011,12,21,FL,Collier,13,89,GA,Dekalb,27
-2011,21,67,KY,Fayette,13,89,GA,Dekalb,34
-2011,51,760,VA,Richmond city,13,89,GA,Dekalb,27
-2011,10,3,DE,New Castle,13,89,GA,Dekalb,35
-2011,12,91,FL,Okaloosa,13,89,GA,Dekalb,28
-2011,12,111,FL,St Lucie,13,89,GA,Dekalb,28
-2011,18,3,IN,Allen,13,89,GA,Dekalb,35
-2011,18,89,IN,Lake,13,89,GA,Dekalb,39
-2011,20,91,KS,Johnson,13,89,GA,Dekalb,36
-2011,36,67,NY,Onondaga,13,89,GA,Dekalb,31
-2011,45,7,SC,Anderson,13,89,GA,Dekalb,31
-2011,1,113,AL,Russell,13,89,GA,Dekalb,35
-2011,5,119,AR,Pulaski,13,89,GA,Dekalb,24
-2011,12,83,FL,Marion,13,89,GA,Dekalb,31
-2011,12,109,FL,St Johns,13,89,GA,Dekalb,34
-2011,27,123,MN,Ramsey,13,89,GA,Dekalb,41
-2011,35,1,NM,Bernalillo,13,89,GA,Dekalb,26
-2011,1,31,AL,Coffee,13,89,GA,Dekalb,27
-2011,34,39,NJ,Union,13,89,GA,Dekalb,36
-2011,39,153,OH,Summit,13,89,GA,Dekalb,39
-2011,45,51,SC,Horry,13,89,GA,Dekalb,43
-2011,45,91,SC,York,13,89,GA,Dekalb,24
-2011,57,3,FR,Foreign - Puerto Rico,13,89,GA,Dekalb,27
-2011,20,173,KS,Sedgwick,13,89,GA,Dekalb,32
-2011,25,9,MA,Essex,13,89,GA,Dekalb,33
-2011,26,99,MI,Macomb,13,89,GA,Dekalb,26
-2011,34,21,NJ,Mercer,13,89,GA,Dekalb,29
-2011,36,1,NY,Albany,13,89,GA,Dekalb,34
-2011,6,13,CA,Contra Costa,13,89,GA,Dekalb,33
-2011,12,81,FL,Manatee,13,89,GA,Dekalb,33
-2011,44,7,RI,Providence,13,89,GA,Dekalb,26
-2011,45,3,SC,Aiken,13,89,GA,Dekalb,20
-2011,45,75,SC,Orangeburg,13,89,GA,Dekalb,24
-2011,48,157,TX,Fort Bend,13,89,GA,Dekalb,33
-2011,1,3,AL,Baldwin,13,89,GA,Dekalb,19
-2011,1,15,AL,Calhoun,13,89,GA,Dekalb,21
-2011,6,81,CA,San Mateo,13,89,GA,Dekalb,21
-2011,12,69,FL,Lake,13,89,GA,Dekalb,22
-2011,12,101,FL,Pasco,13,89,GA,Dekalb,23
-2011,24,3,MD,Anne Arundel,13,89,GA,Dekalb,25
-2011,26,65,MI,Ingham,13,89,GA,Dekalb,34
-2011,26,81,MI,Kent,13,89,GA,Dekalb,23
-2011,31,55,NE,Douglas,13,89,GA,Dekalb,26
-2011,42,49,PA,Erie,13,89,GA,Dekalb,19
-2011,45,41,SC,Florence,13,89,GA,Dekalb,25
-2011,47,149,TN,Rutherford,13,89,GA,Dekalb,24
-2011,8,13,CO,Boulder,13,89,GA,Dekalb,26
-2011,19,153,IA,Polk,13,89,GA,Dekalb,20
-2011,34,25,NJ,Monmouth,13,89,GA,Dekalb,19
-2011,42,17,PA,Bucks,13,89,GA,Dekalb,23
-2011,48,121,TX,Denton,13,89,GA,Dekalb,26
-2011,51,510,VA,Alexandria city,13,89,GA,Dekalb,21
-2011,8,5,CO,Arapahoe,13,89,GA,Dekalb,23
-2011,24,27,MD,Howard,13,89,GA,Dekalb,27
-2011,27,37,MN,Dakota,13,89,GA,Dekalb,33
-2011,28,121,MS,Rankin,13,89,GA,Dekalb,21
-2011,34,35,NJ,Somerset,13,89,GA,Dekalb,19
-2011,36,87,NY,Rockland,13,89,GA,Dekalb,22
-2011,39,17,OH,Butler,13,89,GA,Dekalb,19
-2011,42,43,PA,Dauphin,13,89,GA,Dekalb,27
-2011,42,45,PA,Delaware,13,89,GA,Dekalb,22
-2011,45,15,SC,Berkeley,13,89,GA,Dekalb,16
-2011,45,35,SC,Dorchester,13,89,GA,Dekalb,21
-2011,51,107,VA,Loudoun,13,89,GA,Dekalb,26
-2011,53,53,WA,Pierce,13,89,GA,Dekalb,21
-2011,8,41,CO,El Paso,13,89,GA,Dekalb,23
-2011,12,97,FL,Osceola,13,89,GA,Dekalb,20
-2011,22,17,LA,Caddo Parish,13,89,GA,Dekalb,21
-2011,28,89,MS,Madison,13,89,GA,Dekalb,20
-2011,34,1,NJ,Atlantic,13,89,GA,Dekalb,32
-2011,36,71,NY,Orange,13,89,GA,Dekalb,20
-2011,42,77,PA,Lehigh,13,89,GA,Dekalb,20
-2011,45,43,SC,Georgetown,13,89,GA,Dekalb,21
-2011,47,125,TN,Montgomery,13,89,GA,Dekalb,23
-2011,48,245,TX,Jefferson,13,89,GA,Dekalb,15
-2011,51,550,VA,Chesapeake city,13,89,GA,Dekalb,19
-2011,6,111,CA,Ventura,13,89,GA,Dekalb,25
-2011,12,61,FL,Indian River,13,89,GA,Dekalb,22
-2011,17,19,IL,Champaign,13,89,GA,Dekalb,18
-2011,25,23,MA,Plymouth,13,89,GA,Dekalb,26
-2011,34,7,NJ,Camden,13,89,GA,Dekalb,20
-2011,34,27,NJ,Morris,13,89,GA,Dekalb,18
-2011,34,29,NJ,Ocean,13,89,GA,Dekalb,16
-2011,37,133,NC,Onslow,13,89,GA,Dekalb,21
-2011,40,143,OK,Tulsa,13,89,GA,Dekalb,18
-2011,2,20,AK,Anchorage Municipality,13,89,GA,Dekalb,14
-2011,12,35,FL,Flagler,13,89,GA,Dekalb,14
-2011,17,197,IL,Will,13,89,GA,Dekalb,18
-2011,25,5,MA,Bristol,13,89,GA,Dekalb,15
-2011,26,77,MI,Kalamazoo,13,89,GA,Dekalb,15
-2011,28,35,MS,Forrest,13,89,GA,Dekalb,16
-2011,28,151,MS,Washington,13,89,GA,Dekalb,17
-2011,29,47,MO,Clay,13,89,GA,Dekalb,13
-2011,37,57,NC,Davidson,13,89,GA,Dekalb,18
-2011,45,77,SC,Pickens,13,89,GA,Dekalb,13
-2011,45,85,SC,Sumter,13,89,GA,Dekalb,16
-2011,47,163,TN,Sullivan,13,89,GA,Dekalb,14
-2011,48,141,TX,El Paso,13,89,GA,Dekalb,30
-2011,58,0,SS,Other Flows - Same State,13,89,GA,Dekalb,476
-2011,59,0,DS,Other Flows - Diff State,13,89,GA,Dekalb,3612
-2011,59,1,DS,Other Flows - Northeast,13,89,GA,Dekalb,472
-2011,59,3,DS,Other Flows - Midwest,13,89,GA,Dekalb,758
-2011,59,5,DS,Other Flows - South,13,89,GA,Dekalb,1945
-2011,59,7,DS,Other Flows - West,13,89,GA,Dekalb,437
-2011,57,9,FR,Foreign - Other flows,13,89,GA,Dekalb,96
-2011,17,31,IL,Cook,13,121,GA,Fulton,728
-2011,6,37,CA,Los Angeles,13,121,GA,Fulton,598
-2011,12,86,FL,Miami Dade,13,121,GA,Fulton,599
-2011,12,11,FL,Broward,13,121,GA,Fulton,501
-2011,37,119,NC,Mecklenburg,13,121,GA,Fulton,472
-2011,12,57,FL,Hillsborough,13,121,GA,Fulton,394
-2011,36,61,NY,New York,13,121,GA,Fulton,344
-2011,12,95,FL,Orange,13,121,GA,Fulton,342
-2011,36,47,NY,Kings,13,121,GA,Fulton,331
-2011,48,113,TX,Dallas,13,121,GA,Fulton,334
-2011,47,37,TN,Davidson,13,121,GA,Fulton,308
-2011,1,73,AL,Jefferson,13,121,GA,Fulton,315
-2011,12,31,FL,Duval,13,121,GA,Fulton,304
-2011,12,99,FL,Palm Beach,13,121,GA,Fulton,273
-2011,48,201,TX,Harris,13,121,GA,Fulton,286
-2011,26,163,MI,Wayne,13,121,GA,Fulton,265
-2011,39,35,OH,Cuyahoga,13,121,GA,Fulton,272
-2011,42,101,PA,Philadelphia,13,121,GA,Fulton,250
-2011,47,157,TN,Shelby,13,121,GA,Fulton,251
-2011,37,183,NC,Wake,13,121,GA,Fulton,249
-2011,4,13,AZ,Maricopa,13,121,GA,Fulton,271
-2011,1,101,AL,Montgomery,13,121,GA,Fulton,208
-2011,11,1,DC,District of Columbia,13,121,GA,Fulton,182
-2011,12,73,FL,Leon,13,121,GA,Fulton,209
-2011,45,79,SC,Richland,13,121,GA,Fulton,219
-2011,36,81,NY,Queens,13,121,GA,Fulton,212
-2011,6,73,CA,San Diego,13,121,GA,Fulton,217
-2011,39,49,OH,Franklin,13,121,GA,Fulton,183
-2011,26,125,MI,Oakland,13,121,GA,Fulton,163
-2011,12,103,FL,Pinellas,13,121,GA,Fulton,173
-2011,45,45,SC,Greenville,13,121,GA,Fulton,187
-2011,45,19,SC,Charleston,13,121,GA,Fulton,172
-2011,24,33,MD,Prince George's,13,121,GA,Fulton,170
-2011,6,1,CA,Alameda,13,121,GA,Fulton,179
-2011,53,33,WA,King,13,121,GA,Fulton,175
-2011,25,17,MA,Middlesex,13,121,GA,Fulton,170
-2011,51,59,VA,Fairfax,13,121,GA,Fulton,178
-2011,39,61,OH,Hamilton,13,121,GA,Fulton,163
-2011,25,25,MA,Suffolk,13,121,GA,Fulton,124
-2011,57,5,FR,Foreign - APO/FPO ZIPs,13,121,GA,Fulton,155
-2011,1,81,AL,Lee,13,121,GA,Fulton,116
-2011,12,1,FL,Alachua,13,121,GA,Fulton,119
-2011,24,31,MD,Montgomery,13,121,GA,Fulton,149
-2011,36,5,NY,Bronx,13,121,GA,Fulton,164
-2011,34,23,NJ,Middlesex,13,121,GA,Fulton,165
-2011,6,59,CA,Orange,13,121,GA,Fulton,172
-2011,47,65,TN,Hamilton,13,121,GA,Fulton,124
-2011,12,117,FL,Seminole,13,121,GA,Fulton,141
-2011,27,53,MN,Hennepin,13,121,GA,Fulton,121
-2011,42,3,PA,Allegheny,13,121,GA,Fulton,137
-2011,24,510,MD,Baltimore city,13,121,GA,Fulton,118
-2011,32,3,NV,Clark,13,121,GA,Fulton,154
-2011,37,63,NC,Durham,13,121,GA,Fulton,102
-2011,18,97,IN,Marion,13,121,GA,Fulton,112
-2011,37,81,NC,Guilford,13,121,GA,Fulton,120
-2011,1,97,AL,Mobile,13,121,GA,Fulton,122
-2011,21,111,KY,Jefferson,13,121,GA,Fulton,131
-2011,22,71,LA,Orleans Parish,13,121,GA,Fulton,110
-2011,36,55,NY,Monroe,13,121,GA,Fulton,119
-2011,55,79,WI,Milwaukee,13,121,GA,Fulton,123
-2011,12,33,FL,Escambia,13,121,GA,Fulton,90
-2011,1,89,AL,Madison,13,121,GA,Fulton,115
-2011,29,189,MO,St Louis,13,121,GA,Fulton,123
-2011,36,59,NY,Nassau,13,121,GA,Fulton,101
-2011,48,453,TX,Travis,13,121,GA,Fulton,104
-2011,17,43,IL,Dupage,13,121,GA,Fulton,114
-2011,34,3,NJ,Bergen,13,121,GA,Fulton,119
-2011,48,85,TX,Collin,13,121,GA,Fulton,118
-2011,47,93,TN,Knox,13,121,GA,Fulton,98
-2011,6,75,CA,San Francisco,13,121,GA,Fulton,88
-2011,6,85,CA,Santa Clara,13,121,GA,Fulton,114
-2011,34,13,NJ,Essex,13,121,GA,Fulton,106
-2011,34,17,NJ,Hudson,13,121,GA,Fulton,91
-2011,48,439,TX,Tarrant,13,121,GA,Fulton,108
-2011,9,1,CT,Fairfield,13,121,GA,Fulton,125
-2011,24,5,MD,Baltimore,13,121,GA,Fulton,91
-2011,12,71,FL,Lee,13,121,GA,Fulton,104
-2011,12,127,FL,Volusia,13,121,GA,Fulton,93
-2011,10,3,DE,New Castle,13,121,GA,Fulton,96
-2011,22,33,LA,East Baton Rouge Parish,13,121,GA,Fulton,82
-2011,51,810,VA,Virginia Beach city,13,121,GA,Fulton,94
-2011,12,9,FL,Brevard,13,121,GA,Fulton,89
-2011,39,113,OH,Montgomery,13,121,GA,Fulton,107
-2011,51,13,VA,Arlington,13,121,GA,Fulton,75
-2011,28,49,MS,Hinds,13,121,GA,Fulton,93
-2011,36,29,NY,Erie,13,121,GA,Fulton,83
-2011,36,119,NY,Westchester,13,121,GA,Fulton,95
-2011,12,105,FL,Polk,13,121,GA,Fulton,84
-2011,36,103,NY,Suffolk,13,121,GA,Fulton,94
-2011,9,3,CT,Hartford,13,121,GA,Fulton,96
-2011,22,51,LA,Jefferson Parish,13,121,GA,Fulton,75
-2011,44,7,RI,Providence,13,121,GA,Fulton,75
-2011,1,117,AL,Shelby,13,121,GA,Fulton,84
-2011,8,31,CO,Denver,13,121,GA,Fulton,68
-2011,24,3,MD,Anne Arundel,13,121,GA,Fulton,74
-2011,48,29,TX,Bexar,13,121,GA,Fulton,77
-2011,5,119,AR,Pulaski,13,121,GA,Fulton,81
-2011,12,115,FL,Sarasota,13,121,GA,Fulton,70
-2011,6,71,CA,San Bernardino,13,121,GA,Fulton,79
-2011,29,95,MO,Jackson,13,121,GA,Fulton,80
-2011,25,21,MA,Norfolk,13,121,GA,Fulton,74
-2011,51,87,VA,Henrico,13,121,GA,Fulton,68
-2011,6,13,CA,Contra Costa,13,121,GA,Fulton,81
-2011,9,9,CT,New Haven,13,121,GA,Fulton,62
-2011,12,81,FL,Manatee,13,121,GA,Fulton,53
-2011,42,91,PA,Montgomery,13,121,GA,Fulton,70
-2011,48,121,TX,Denton,13,121,GA,Fulton,100
-2011,29,510,MO,St Louis city,13,121,GA,Fulton,59
-2011,31,55,NE,Douglas,13,121,GA,Fulton,76
-2011,17,97,IL,Lake,13,121,GA,Fulton,81
-2011,42,45,PA,Delaware,13,121,GA,Fulton,69
-2011,1,125,AL,Tuscaloosa,13,121,GA,Fulton,46
-2011,41,39,OR,Lane,13,121,GA,Fulton,38
-2011,45,63,SC,Lexington,13,121,GA,Fulton,70
-2011,12,21,FL,Collier,13,121,GA,Fulton,44
-2011,37,51,NC,Cumberland,13,121,GA,Fulton,58
-2011,37,67,NC,Forsyth,13,121,GA,Fulton,66
-2011,45,35,SC,Dorchester,13,121,GA,Fulton,56
-2011,51,710,VA,Norfolk city,13,121,GA,Fulton,60
-2011,6,65,CA,Riverside,13,121,GA,Fulton,59
-2011,12,91,FL,Okaloosa,13,121,GA,Fulton,46
-2011,26,99,MI,Macomb,13,121,GA,Fulton,55
-2011,37,21,NC,Buncombe,13,121,GA,Fulton,46
-2011,45,13,SC,Beaufort,13,121,GA,Fulton,54
-2011,34,39,NJ,Union,13,121,GA,Fulton,58
-2011,36,67,NY,Onondaga,13,121,GA,Fulton,58
-2011,51,650,VA,Hampton city,13,121,GA,Fulton,50
-2011,26,161,MI,Washtenaw,13,121,GA,Fulton,42
-2011,37,135,NC,Orange,13,121,GA,Fulton,42
-2011,41,51,OR,Multnomah,13,121,GA,Fulton,42
-2011,42,29,PA,Chester,13,121,GA,Fulton,67
-2011,51,107,VA,Loudoun,13,121,GA,Fulton,72
-2011,51,153,VA,Prince William,13,121,GA,Fulton,58
-2011,51,760,VA,Richmond city,13,121,GA,Fulton,62
-2011,6,67,CA,Sacramento,13,121,GA,Fulton,47
-2011,34,35,NJ,Somerset,13,121,GA,Fulton,56
-2011,47,149,TN,Rutherford,13,121,GA,Fulton,41
-2011,12,109,FL,St Johns,13,121,GA,Fulton,53
-2011,20,91,KS,Johnson,13,121,GA,Fulton,67
-2011,37,129,NC,New Hanover,13,121,GA,Fulton,43
-2011,12,101,FL,Pasco,13,121,GA,Fulton,51
-2011,17,89,IL,Kane,13,121,GA,Fulton,73
-2011,24,27,MD,Howard,13,121,GA,Fulton,58
-2011,34,27,NJ,Morris,13,121,GA,Fulton,56
-2011,55,25,WI,Dane,13,121,GA,Fulton,47
-2011,1,113,AL,Russell,13,121,GA,Fulton,41
-2011,15,3,HI,Honolulu,13,121,GA,Fulton,48
-2011,21,67,KY,Fayette,13,121,GA,Fulton,44
-2011,37,179,NC,Union,13,121,GA,Fulton,64
-2011,39,153,OH,Summit,13,121,GA,Fulton,46
-2011,40,109,OK,Oklahoma,13,121,GA,Fulton,52
-2011,45,7,SC,Anderson,13,121,GA,Fulton,35
-2011,51,510,VA,Alexandria city,13,121,GA,Fulton,34
-2011,18,89,IN,Lake,13,121,GA,Fulton,40
-2011,25,9,MA,Essex,13,121,GA,Fulton,45
-2011,37,57,NC,Davidson,13,121,GA,Fulton,34
-2011,39,95,OH,Lucas,13,121,GA,Fulton,40
-2011,45,83,SC,Spartanburg,13,121,GA,Fulton,41
-2011,47,187,TN,Williamson,13,121,GA,Fulton,49
-2011,51,700,VA,Newport News city,13,121,GA,Fulton,44
-2011,4,19,AZ,Pima,13,121,GA,Fulton,45
-2011,27,37,MN,Dakota,13,121,GA,Fulton,58
-2011,27,123,MN,Ramsey,13,121,GA,Fulton,37
-2011,37,133,NC,Onslow,13,121,GA,Fulton,42
-2011,8,5,CO,Arapahoe,13,121,GA,Fulton,56
-2011,18,57,IN,Hamilton,13,121,GA,Fulton,54
-2011,26,49,MI,Genesee,13,121,GA,Fulton,37
-2011,34,21,NJ,Mercer,13,121,GA,Fulton,42
-2011,45,3,SC,Aiken,13,121,GA,Fulton,34
-2011,48,141,TX,El Paso,13,121,GA,Fulton,35
-2011,5,7,AR,Benton,13,121,GA,Fulton,50
-2011,12,19,FL,Clay,13,121,GA,Fulton,47
-2011,12,97,FL,Osceola,13,121,GA,Fulton,50
-2011,17,197,IL,Will,13,121,GA,Fulton,50
-2011,20,173,KS,Sedgwick,13,121,GA,Fulton,47
-2011,26,81,MI,Kent,13,121,GA,Fulton,35
-2011,35,1,NM,Bernalillo,13,121,GA,Fulton,44
-2011,37,25,NC,Cabarrus,13,121,GA,Fulton,34
-2011,42,17,PA,Bucks,13,121,GA,Fulton,42
-2011,45,51,SC,Horry,13,121,GA,Fulton,36
-2011,25,27,MA,Worcester,13,121,GA,Fulton,37
-2011,34,7,NJ,Camden,13,121,GA,Fulton,42
-2011,39,17,OH,Butler,13,121,GA,Fulton,42
-2011,45,91,SC,York,13,121,GA,Fulton,33
-2011,49,35,UT,Salt Lake,13,121,GA,Fulton,44
-2011,53,53,WA,Pierce,13,121,GA,Fulton,32
-2011,12,5,FL,Bay,13,121,GA,Fulton,36
-2011,12,69,FL,Lake,13,121,GA,Fulton,41
-2011,12,111,FL,St Lucie,13,121,GA,Fulton,31
-2011,34,5,NJ,Burlington,13,121,GA,Fulton,40
-2011,48,157,TX,Fort Bend,13,121,GA,Fulton,47
-2011,1,15,AL,Calhoun,13,121,GA,Fulton,31
-2011,5,69,AR,Jefferson,13,121,GA,Fulton,25
-2011,8,13,CO,Boulder,13,121,GA,Fulton,38
-2011,8,41,CO,El Paso,13,121,GA,Fulton,44
-2011,18,157,IN,Tippecanoe,13,121,GA,Fulton,31
-2011,33,11,NH,Hillsborough,13,121,GA,Fulton,35
-2011,45,75,SC,Orangeburg,13,121,GA,Fulton,26
-2011,51,550,VA,Chesapeake city,13,121,GA,Fulton,32
-2011,6,81,CA,San Mateo,13,121,GA,Fulton,45
-2011,6,111,CA,Ventura,13,121,GA,Fulton,30
-2011,12,85,FL,Martin,13,121,GA,Fulton,25
-2011,22,17,LA,Caddo Parish,13,121,GA,Fulton,37
-2011,28,47,MS,Harrison,13,121,GA,Fulton,30
-2011,28,89,MS,Madison,13,121,GA,Fulton,28
-2011,34,31,NJ,Passaic,13,121,GA,Fulton,38
-2011,40,143,OK,Tulsa,13,121,GA,Fulton,34
-2011,18,141,IN,St Joseph,13,121,GA,Fulton,29
-2011,23,5,ME,Cumberland,13,121,GA,Fulton,32
-2011,26,65,MI,Ingham,13,121,GA,Fulton,24
-2011,41,67,OR,Washington,13,121,GA,Fulton,34
-2011,48,27,TX,Bell,13,121,GA,Fulton,32
-2011,51,3,VA,Albemarle,13,121,GA,Fulton,39
-2011,1,3,AL,Baldwin,13,121,GA,Fulton,25
-2011,19,153,IA,Polk,13,121,GA,Fulton,22
-2011,22,55,LA,Lafayette Parish,13,121,GA,Fulton,29
-2011,39,57,OH,Greene,13,121,GA,Fulton,32
-2011,39,165,OH,Warren,13,121,GA,Fulton,50
-2011,45,77,SC,Pickens,13,121,GA,Fulton,23
-2011,12,61,FL,Indian River,13,121,GA,Fulton,23
-2011,12,83,FL,Marion,13,121,GA,Fulton,27
-2011,17,143,IL,Peoria,13,121,GA,Fulton,25
-2011,18,3,IN,Allen,13,121,GA,Fulton,25
-2011,29,183,MO,St Charles,13,121,GA,Fulton,33
-2011,34,25,NJ,Monmouth,13,121,GA,Fulton,25
-2011,36,1,NY,Albany,13,121,GA,Fulton,29
-2011,45,15,SC,Berkeley,13,121,GA,Fulton,35
-2011,1,69,AL,Houston,13,121,GA,Fulton,23
-2011,12,35,FL,Flagler,13,121,GA,Fulton,20
-2011,37,147,NC,Pitt,13,121,GA,Fulton,21
-2011,37,159,NC,Rowan,13,121,GA,Fulton,21
-2011,42,43,PA,Dauphin,13,121,GA,Fulton,31
-2011,47,125,TN,Montgomery,13,121,GA,Fulton,21
-2011,47,163,TN,Sullivan,13,121,GA,Fulton,23
-2011,48,339,TX,Montgomery,13,121,GA,Fulton,27
-2011,8,1,CO,Adams,13,121,GA,Fulton,27
-2011,12,53,FL,Hernando,13,121,GA,Fulton,21
-2011,12,113,FL,Santa Rosa,13,121,GA,Fulton,26
-2011,17,19,IL,Champaign,13,121,GA,Fulton,24
-2011,19,103,IA,Johnson,13,121,GA,Fulton,18
-2011,32,31,NV,Washoe,13,121,GA,Fulton,26
-2011,36,71,NY,Orange,13,121,GA,Fulton,21
-2011,36,85,NY,Richmond,13,121,GA,Fulton,18
-2011,37,71,NC,Gaston,13,121,GA,Fulton,18
-2011,42,49,PA,Erie,13,121,GA,Fulton,19
-2011,42,79,PA,Luzerne,13,121,GA,Fulton,24
-2011,45,47,SC,Greenwood,13,121,GA,Fulton,26
-2011,45,73,SC,Oconee,13,121,GA,Fulton,23
-2011,51,121,VA,Montgomery,13,121,GA,Fulton,17
-2011,53,61,WA,Snohomish,13,121,GA,Fulton,25
-2011,1,55,AL,Etowah,13,121,GA,Fulton,18
-2011,6,83,CA,Santa Barbara,13,121,GA,Fulton,23
-2011,17,163,IL,St Clair,13,121,GA,Fulton,26
-2011,22,103,LA,St Tammany Parish,13,121,GA,Fulton,29
-2011,24,17,MD,Charles,13,121,GA,Fulton,20
-2011,34,1,NJ,Atlantic,13,121,GA,Fulton,25
-2011,34,29,NJ,Ocean,13,121,GA,Fulton,22
-2011,45,85,SC,Sumter,13,121,GA,Fulton,21
-2011,56,21,WY,Laramie,13,121,GA,Fulton,20
-2011,1,17,AL,Chambers,13,121,GA,Fulton,22
-2011,1,51,AL,Elmore,13,121,GA,Fulton,17
-2011,9,11,CT,New London,13,121,GA,Fulton,25
-2011,19,163,IA,Scott,13,121,GA,Fulton,20
-2011,25,5,MA,Bristol,13,121,GA,Fulton,17
-2011,25,13,MA,Hampden,13,121,GA,Fulton,16
-2011,28,75,MS,Lauderdale,13,121,GA,Fulton,20
-2011,28,121,MS,Rankin,13,121,GA,Fulton,27
-2011,39,41,OH,Delaware,13,121,GA,Fulton,29
-2011,39,93,OH,Lorain,13,121,GA,Fulton,27
-2011,39,99,OH,Mahoning,13,121,GA,Fulton,22
-2011,47,11,TN,Bradley,13,121,GA,Fulton,21
-2011,48,491,TX,Williamson,13,121,GA,Fulton,35
-2011,51,41,VA,Chesterfield,13,121,GA,Fulton,25
-2011,51,540,VA,Charlottesville city,13,121,GA,Fulton,19
-2011,55,133,WI,Waukesha,13,121,GA,Fulton,28
-2011,8,35,CO,Douglas,13,121,GA,Fulton,27
-2011,10,1,DE,Kent,13,121,GA,Fulton,17
-2011,17,119,IL,Madison,13,121,GA,Fulton,19
-2011,17,201,IL,Winnebago,13,121,GA,Fulton,20
-2011,28,33,MS,Desoto,13,121,GA,Fulton,23
-2011,28,87,MS,Lowndes,13,121,GA,Fulton,26
-2011,42,95,PA,Northampton,13,121,GA,Fulton,15
-2011,45,41,SC,Florence,13,121,GA,Fulton,24
-2011,49,49,UT,Utah,13,121,GA,Fulton,30
-2011,54,45,WV,Logan,13,121,GA,Fulton,12
-2011,57,3,FR,Foreign - Puerto Rico,13,121,GA,Fulton,18
-2011,1,47,AL,Dallas,13,121,GA,Fulton,22
-2011,6,19,CA,Fresno,13,121,GA,Fulton,17
-2011,6,29,CA,Kern,13,121,GA,Fulton,21
-2011,8,59,CO,Jefferson,13,121,GA,Fulton,20
-2011,8,69,CO,Larimer,13,121,GA,Fulton,15
-2011,12,87,FL,Monroe,13,121,GA,Fulton,14
-2011,17,111,IL,Mchenry,13,121,GA,Fulton,28
-2011,18,105,IN,Monroe,13,121,GA,Fulton,18
-2011,28,105,MS,Oktibbeha,13,121,GA,Fulton,14
-2011,34,15,NJ,Gloucester,13,121,GA,Fulton,16
-2011,36,91,NY,Saratoga,13,121,GA,Fulton,13
-2011,42,11,PA,Berks,13,121,GA,Fulton,19
-2011,48,41,TX,Brazos,13,121,GA,Fulton,13
-2011,48,215,TX,Hidalgo,13,121,GA,Fulton,16
-2011,51,161,VA,Roanoke,13,121,GA,Fulton,25
-2011,53,11,WA,Clark,13,121,GA,Fulton,20
-2011,1,1,AL,Autauga,13,121,GA,Fulton,14
-2011,1,31,AL,Coffee,13,121,GA,Fulton,14
-2011,1,115,AL,St Clair,13,121,GA,Fulton,15
-2011,9,5,CT,Litchfield,13,121,GA,Fulton,14
-2011,12,89,FL,Nassau,13,121,GA,Fulton,16
-2011,12,131,FL,Walton,13,121,GA,Fulton,15
-2011,18,163,IN,Vanderburgh,13,121,GA,Fulton,11
-2011,26,77,MI,Kalamazoo,13,121,GA,Fulton,20
-2011,36,111,NY,Ulster,13,121,GA,Fulton,19
-2011,39,133,OH,Portage,13,121,GA,Fulton,11
-2011,42,129,PA,Westmoreland,13,121,GA,Fulton,12
-2011,47,179,TN,Washington,13,121,GA,Fulton,13
-2011,58,0,SS,Other Flows - Same State,13,121,GA,Fulton,424
-2011,59,0,DS,Other Flows - Diff State,13,121,GA,Fulton,4179
-2011,59,1,DS,Other Flows - Northeast,13,121,GA,Fulton,554
-2011,59,3,DS,Other Flows - Midwest,13,121,GA,Fulton,1013
-2011,59,5,DS,Other Flows - South,13,121,GA,Fulton,2077
-2011,59,7,DS,Other Flows - West,13,121,GA,Fulton,535
-2011,57,9,FR,Foreign - Other flows,13,121,GA,Fulton,268
-2011,12,11,FL,Broward,13,135,GA,Gwinnett,439
-2011,12,86,FL,Miami Dade,13,135,GA,Gwinnett,450
-2011,6,37,CA,Los Angeles,13,135,GA,Gwinnett,391
-2011,17,31,IL,Cook,13,135,GA,Gwinnett,336
-2011,36,81,NY,Queens,13,135,GA,Gwinnett,276
-2011,42,49,PA,Erie,13,135,GA,Gwinnett,148
-2011,12,95,FL,Orange,13,135,GA,Gwinnett,227
-2011,36,47,NY,Kings,13,135,GA,Gwinnett,233
-2011,12,57,FL,Hillsborough,13,135,GA,Gwinnett,208
-2011,36,5,NY,Bronx,13,135,GA,Gwinnett,234
-2011,12,31,FL,Duval,13,135,GA,Gwinnett,215
-2011,48,201,TX,Harris,13,135,GA,Gwinnett,247
-2011,37,119,NC,Mecklenburg,13,135,GA,Gwinnett,203
-2011,12,99,FL,Palm Beach,13,135,GA,Gwinnett,186
-2011,48,113,TX,Dallas,13,135,GA,Gwinnett,178
-2011,26,163,MI,Wayne,13,135,GA,Gwinnett,149
-2011,1,73,AL,Jefferson,13,135,GA,Gwinnett,171
-2011,47,157,TN,Shelby,13,135,GA,Gwinnett,158
-2011,39,113,OH,Montgomery,13,135,GA,Gwinnett,167
-2011,42,101,PA,Philadelphia,13,135,GA,Gwinnett,133
-2011,47,37,TN,Davidson,13,135,GA,Gwinnett,130
-2011,39,35,OH,Cuyahoga,13,135,GA,Gwinnett,127
-2011,4,13,AZ,Maricopa,13,135,GA,Gwinnett,136
-2011,45,45,SC,Greenville,13,135,GA,Gwinnett,139
-2011,36,61,NY,New York,13,135,GA,Gwinnett,107
-2011,32,3,NV,Clark,13,135,GA,Gwinnett,132
-2011,34,13,NJ,Essex,13,135,GA,Gwinnett,118
-2011,12,117,FL,Seminole,13,135,GA,Gwinnett,122
-2011,57,5,FR,Foreign - APO/FPO ZIPs,13,135,GA,Gwinnett,101
-2011,6,59,CA,Orange,13,135,GA,Gwinnett,111
-2011,36,59,NY,Nassau,13,135,GA,Gwinnett,121
-2011,34,23,NJ,Middlesex,13,135,GA,Gwinnett,124
-2011,51,59,VA,Fairfax,13,135,GA,Gwinnett,101
-2011,6,73,CA,San Diego,13,135,GA,Gwinnett,96
-2011,12,103,FL,Pinellas,13,135,GA,Gwinnett,105
-2011,24,33,MD,Prince George's,13,135,GA,Gwinnett,99
-2011,48,439,TX,Tarrant,13,135,GA,Gwinnett,105
-2011,37,183,NC,Wake,13,135,GA,Gwinnett,106
-2011,39,49,OH,Franklin,13,135,GA,Gwinnett,97
-2011,12,127,FL,Volusia,13,135,GA,Gwinnett,99
-2011,45,79,SC,Richland,13,135,GA,Gwinnett,84
-2011,18,97,IN,Marion,13,135,GA,Gwinnett,105
-2011,12,33,FL,Escambia,13,135,GA,Gwinnett,83
-2011,12,105,FL,Polk,13,135,GA,Gwinnett,84
-2011,6,71,CA,San Bernardino,13,135,GA,Gwinnett,99
-2011,12,73,FL,Leon,13,135,GA,Gwinnett,73
-2011,26,125,MI,Oakland,13,135,GA,Gwinnett,88
-2011,36,103,NY,Suffolk,13,135,GA,Gwinnett,84
-2011,24,31,MD,Montgomery,13,135,GA,Gwinnett,90
-2011,24,5,MD,Baltimore,13,135,GA,Gwinnett,86
-2011,36,29,NY,Erie,13,135,GA,Gwinnett,96
-2011,21,111,KY,Jefferson,13,135,GA,Gwinnett,77
-2011,34,17,NJ,Hudson,13,135,GA,Gwinnett,81
-2011,1,101,AL,Montgomery,13,135,GA,Gwinnett,65
-2011,12,9,FL,Brevard,13,135,GA,Gwinnett,66
-2011,37,133,NC,Onslow,13,135,GA,Gwinnett,81
-2011,53,33,WA,King,13,135,GA,Gwinnett,74
-2011,9,1,CT,Fairfield,13,135,GA,Gwinnett,74
-2011,9,3,CT,Hartford,13,135,GA,Gwinnett,65
-2011,47,65,TN,Hamilton,13,135,GA,Gwinnett,80
-2011,48,29,TX,Bexar,13,135,GA,Gwinnett,76
-2011,17,43,IL,Dupage,13,135,GA,Gwinnett,87
-2011,28,49,MS,Hinds,13,135,GA,Gwinnett,48
-2011,1,81,AL,Lee,13,135,GA,Gwinnett,63
-2011,6,65,CA,Riverside,13,135,GA,Gwinnett,72
-2011,29,189,MO,St Louis,13,135,GA,Gwinnett,60
-2011,36,119,NY,Westchester,13,135,GA,Gwinnett,68
-2011,37,81,NC,Guilford,13,135,GA,Gwinnett,72
-2011,51,710,VA,Norfolk city,13,135,GA,Gwinnett,59
-2011,55,79,WI,Milwaukee,13,135,GA,Gwinnett,68
-2011,37,67,NC,Forsyth,13,135,GA,Gwinnett,66
-2011,34,39,NJ,Union,13,135,GA,Gwinnett,66
-2011,45,19,SC,Charleston,13,135,GA,Gwinnett,49
-2011,51,810,VA,Virginia Beach city,13,135,GA,Gwinnett,72
-2011,22,51,LA,Jefferson Parish,13,135,GA,Gwinnett,60
-2011,42,3,PA,Allegheny,13,135,GA,Gwinnett,50
-2011,45,51,SC,Horry,13,135,GA,Gwinnett,60
-2011,47,93,TN,Knox,13,135,GA,Gwinnett,65
-2011,51,153,VA,Prince William,13,135,GA,Gwinnett,61
-2011,12,71,FL,Lee,13,135,GA,Gwinnett,64
-2011,12,101,FL,Pasco,13,135,GA,Gwinnett,51
-2011,25,17,MA,Middlesex,13,135,GA,Gwinnett,67
-2011,34,3,NJ,Bergen,13,135,GA,Gwinnett,61
-2011,39,61,OH,Hamilton,13,135,GA,Gwinnett,66
-2011,48,121,TX,Denton,13,135,GA,Gwinnett,66
-2011,37,21,NC,Buncombe,13,135,GA,Gwinnett,50
-2011,45,63,SC,Lexington,13,135,GA,Gwinnett,61
-2011,1,97,AL,Mobile,13,135,GA,Gwinnett,57
-2011,8,41,CO,El Paso,13,135,GA,Gwinnett,62
-2011,18,89,IN,Lake,13,135,GA,Gwinnett,64
-2011,27,53,MN,Hennepin,13,135,GA,Gwinnett,59
-2011,48,27,TX,Bell,13,135,GA,Gwinnett,64
-2011,24,510,MD,Baltimore city,13,135,GA,Gwinnett,46
-2011,39,165,OH,Warren,13,135,GA,Gwinnett,64
-2011,42,91,PA,Montgomery,13,135,GA,Gwinnett,59
-2011,48,453,TX,Travis,13,135,GA,Gwinnett,52
-2011,12,1,FL,Alachua,13,135,GA,Gwinnett,54
-2011,1,89,AL,Madison,13,135,GA,Gwinnett,40
-2011,9,9,CT,New Haven,13,135,GA,Gwinnett,67
-2011,12,5,FL,Bay,13,135,GA,Gwinnett,51
-2011,4,19,AZ,Pima,13,135,GA,Gwinnett,52
-2011,6,67,CA,Sacramento,13,135,GA,Gwinnett,66
-2011,6,85,CA,Santa Clara,13,135,GA,Gwinnett,48
-2011,22,33,LA,East Baton Rouge Parish,13,135,GA,Gwinnett,41
-2011,37,51,NC,Cumberland,13,135,GA,Gwinnett,42
-2011,44,7,RI,Providence,13,135,GA,Gwinnett,51
-2011,45,13,SC,Beaufort,13,135,GA,Gwinnett,45
-2011,15,3,HI,Honolulu,13,135,GA,Gwinnett,55
-2011,29,95,MO,Jackson,13,135,GA,Gwinnett,39
-2011,34,31,NJ,Passaic,13,135,GA,Gwinnett,49
-2011,48,85,TX,Collin,13,135,GA,Gwinnett,50
-2011,57,3,FR,Foreign - Puerto Rico,13,135,GA,Gwinnett,66
-2011,26,99,MI,Macomb,13,135,GA,Gwinnett,53
-2011,34,35,NJ,Somerset,13,135,GA,Gwinnett,48
-2011,36,67,NY,Onondaga,13,135,GA,Gwinnett,49
-2011,39,153,OH,Summit,13,135,GA,Gwinnett,51
-2011,51,700,VA,Newport News city,13,135,GA,Gwinnett,46
-2011,12,115,FL,Sarasota,13,135,GA,Gwinnett,42
-2011,24,3,MD,Anne Arundel,13,135,GA,Gwinnett,42
-2011,36,55,NY,Monroe,13,135,GA,Gwinnett,43
-2011,40,109,OK,Oklahoma,13,135,GA,Gwinnett,45
-2011,12,97,FL,Osceola,13,135,GA,Gwinnett,53
-2011,22,71,LA,Orleans Parish,13,135,GA,Gwinnett,25
-2011,39,17,OH,Butler,13,135,GA,Gwinnett,37
-2011,8,5,CO,Arapahoe,13,135,GA,Gwinnett,37
-2011,12,21,FL,Collier,13,135,GA,Gwinnett,37
-2011,12,91,FL,Okaloosa,13,135,GA,Gwinnett,32
-2011,25,25,MA,Suffolk,13,135,GA,Gwinnett,33
-2011,25,27,MA,Worcester,13,135,GA,Gwinnett,31
-2011,29,510,MO,St Louis city,13,135,GA,Gwinnett,32
-2011,40,143,OK,Tulsa,13,135,GA,Gwinnett,33
-2011,51,87,VA,Henrico,13,135,GA,Gwinnett,45
-2011,1,125,AL,Tuscaloosa,13,135,GA,Gwinnett,25
-2011,5,119,AR,Pulaski,13,135,GA,Gwinnett,45
-2011,17,97,IL,Lake,13,135,GA,Gwinnett,45
-2011,25,21,MA,Norfolk,13,135,GA,Gwinnett,46
-2011,26,81,MI,Kent,13,135,GA,Gwinnett,37
-2011,34,7,NJ,Camden,13,135,GA,Gwinnett,35
-2011,37,63,NC,Durham,13,135,GA,Gwinnett,28
-2011,45,3,SC,Aiken,13,135,GA,Gwinnett,41
-2011,47,125,TN,Montgomery,13,135,GA,Gwinnett,42
-2011,48,141,TX,El Paso,13,135,GA,Gwinnett,43
-2011,1,3,AL,Baldwin,13,135,GA,Gwinnett,36
-2011,1,117,AL,Shelby,13,135,GA,Gwinnett,37
-2011,12,83,FL,Marion,13,135,GA,Gwinnett,28
-2011,37,71,NC,Gaston,13,135,GA,Gwinnett,37
-2011,51,650,VA,Hampton city,13,135,GA,Gwinnett,49
-2011,6,1,CA,Alameda,13,135,GA,Gwinnett,39
-2011,8,31,CO,Denver,13,135,GA,Gwinnett,25
-2011,11,1,DC,District of Columbia,13,135,GA,Gwinnett,24
-2011,12,69,FL,Lake,13,135,GA,Gwinnett,44
-2011,17,197,IL,Will,13,135,GA,Gwinnett,34
-2011,20,91,KS,Johnson,13,135,GA,Gwinnett,31
-2011,25,9,MA,Essex,13,135,GA,Gwinnett,28
-2011,45,15,SC,Berkeley,13,135,GA,Gwinnett,29
-2011,1,15,AL,Calhoun,13,135,GA,Gwinnett,21
-2011,26,49,MI,Genesee,13,135,GA,Gwinnett,32
-2011,26,161,MI,Washtenaw,13,135,GA,Gwinnett,30
-2011,36,71,NY,Orange,13,135,GA,Gwinnett,31
-2011,36,85,NY,Richmond,13,135,GA,Gwinnett,23
-2011,42,133,PA,York,13,135,GA,Gwinnett,26
-2011,45,83,SC,Spartanburg,13,135,GA,Gwinnett,29
-2011,6,13,CA,Contra Costa,13,135,GA,Gwinnett,27
-2011,17,89,IL,Kane,13,135,GA,Gwinnett,41
-2011,22,17,LA,Caddo Parish,13,135,GA,Gwinnett,28
-2011,26,77,MI,Kalamazoo,13,135,GA,Gwinnett,30
-2011,34,21,NJ,Mercer,13,135,GA,Gwinnett,32
-2011,34,25,NJ,Monmouth,13,135,GA,Gwinnett,29
-2011,34,27,NJ,Morris,13,135,GA,Gwinnett,30
-2011,42,27,PA,Centre,13,135,GA,Gwinnett,24
-2011,45,7,SC,Anderson,13,135,GA,Gwinnett,28
-2011,12,35,FL,Flagler,13,135,GA,Gwinnett,29
-2011,18,141,IN,St Joseph,13,135,GA,Gwinnett,31
-2011,24,27,MD,Howard,13,135,GA,Gwinnett,23
-2011,25,23,MA,Plymouth,13,135,GA,Gwinnett,23
-2011,37,97,NC,Iredell,13,135,GA,Gwinnett,28
-2011,37,113,NC,Macon,13,135,GA,Gwinnett,25
-2011,39,99,OH,Mahoning,13,135,GA,Gwinnett,20
-2011,45,35,SC,Dorchester,13,135,GA,Gwinnett,28
-2011,47,149,TN,Rutherford,13,135,GA,Gwinnett,28
-2011,48,61,TX,Cameron,13,135,GA,Gwinnett,32
-2011,48,157,TX,Fort Bend,13,135,GA,Gwinnett,23
-2011,6,75,CA,San Francisco,13,135,GA,Gwinnett,16
-2011,12,19,FL,Clay,13,135,GA,Gwinnett,23
-2011,12,81,FL,Manatee,13,135,GA,Gwinnett,16
-2011,17,201,IL,Winnebago,13,135,GA,Gwinnett,30
-2011,18,57,IN,Hamilton,13,135,GA,Gwinnett,19
-2011,42,17,PA,Bucks,13,135,GA,Gwinnett,20
-2011,45,91,SC,York,13,135,GA,Gwinnett,26
-2011,48,339,TX,Montgomery,13,135,GA,Gwinnett,28
-2011,49,49,UT,Utah,13,135,GA,Gwinnett,32
-2011,53,53,WA,Pierce,13,135,GA,Gwinnett,22
-2011,1,69,AL,Houston,13,135,GA,Gwinnett,21
-2011,6,29,CA,Kern,13,135,GA,Gwinnett,33
-2011,10,3,DE,New Castle,13,135,GA,Gwinnett,19
-2011,12,55,FL,Highlands,13,135,GA,Gwinnett,24
-2011,12,111,FL,St Lucie,13,135,GA,Gwinnett,22
-2011,12,113,FL,Santa Rosa,13,135,GA,Gwinnett,14
-2011,18,3,IN,Allen,13,135,GA,Gwinnett,20
-2011,20,173,KS,Sedgwick,13,135,GA,Gwinnett,18
-2011,21,67,KY,Fayette,13,135,GA,Gwinnett,15
-2011,25,13,MA,Hampden,13,135,GA,Gwinnett,19
-2011,28,121,MS,Rankin,13,135,GA,Gwinnett,21
-2011,33,11,NH,Hillsborough,13,135,GA,Gwinnett,23
-2011,35,1,NM,Bernalillo,13,135,GA,Gwinnett,16
-2011,37,129,NC,New Hanover,13,135,GA,Gwinnett,24
-2011,45,41,SC,Florence,13,135,GA,Gwinnett,17
-2011,45,85,SC,Sumter,13,135,GA,Gwinnett,23
-2011,49,35,UT,Salt Lake,13,135,GA,Gwinnett,33
-2011,51,13,VA,Arlington,13,135,GA,Gwinnett,18
-2011,51,107,VA,Loudoun,13,135,GA,Gwinnett,22
-2011,53,61,WA,Snohomish,13,135,GA,Gwinnett,13
-2011,58,0,SS,Other Flows - Same State,13,135,GA,Gwinnett,513
-2011,59,0,DS,Other Flows - Diff State,13,135,GA,Gwinnett,4735
-2011,59,1,DS,Other Flows - Northeast,13,135,GA,Gwinnett,657
-2011,59,3,DS,Other Flows - Midwest,13,135,GA,Gwinnett,1135
-2011,59,5,DS,Other Flows - South,13,135,GA,Gwinnett,2374
-2011,59,7,DS,Other Flows - West,13,135,GA,Gwinnett,569
-2011,57,9,FR,Foreign - Other flows,13,135,GA,Gwinnett,106
+year,origin_state,origin_county,dest_state,dest_county,num_movers
+2011,GA,Clayton,FL,Miami Dade,169
+2011,GA,Clayton,FL,Broward,118
+2011,GA,Clayton,FL,Hillsborough,98
+2011,GA,Clayton,CA,Los Angeles,121
+2011,GA,Clayton,NY,Kings,110
+2011,GA,Clayton,TX,Harris,109
+2011,GA,Clayton,IL,Cook,113
+2011,GA,Clayton,FL,Orange,73
+2011,GA,Clayton,NC,Mecklenburg,71
+2011,GA,Clayton,MI,Wayne,61
+2011,GA,Clayton,TN,Shelby,89
+2011,GA,Clayton,TX,Dallas,81
+2011,GA,Clayton,FL,Palm Beach,68
+2011,GA,Clayton,LA,Orleans Parish,62
+2011,GA,Clayton,AL,Jefferson,62
+2011,GA,Clayton,AZ,Maricopa,52
+2011,GA,Clayton,FL,Duval,52
+2011,GA,Clayton,AL,Montgomery,60
+2011,GA,Clayton,MD,Prince George's,52
+2011,GA,Clayton,LA,Jefferson Parish,45
+2011,GA,Clayton,NY,Bronx,43
+2011,GA,Clayton,AL,Mobile,49
+2011,GA,Clayton,NC,Wake,46
+2011,GA,Clayton,SC,Richland,48
+2011,GA,Clayton,CA,San Diego,40
+2011,GA,Clayton,NY,Queens,43
+2011,GA,Clayton,MS,Hinds,38
+2011,GA,Clayton,OH,Cuyahoga,42
+2011,GA,Clayton,PA,Philadelphia,35
+2011,GA,Clayton,FL,Escambia,39
+2011,GA,Clayton,NC,Cumberland,28
+2011,GA,Clayton,AL,Madison,33
+2011,GA,Clayton,MD,Montgomery,31
+2011,GA,Clayton,TN,Davidson,36
+2011,GA,Clayton,FL,Leon,25
+2011,GA,Clayton,FL,Pinellas,23
+2011,GA,Clayton,MN,Hennepin,31
+2011,GA,Clayton,CA,Alameda,20
+2011,GA,Clayton,FL,Volusia,25
+2011,GA,Clayton,IN,Marion,39
+2011,GA,Clayton,SC,Greenville,38
+2011,GA,Clayton,TX,Tarrant,45
+2011,GA,Clayton,MI,Oakland,20
+2011,GA,Clayton,NV,Clark,22
+2011,GA,Clayton,NY,New York,20
+2011,GA,Clayton,PA,Allegheny,29
+2011,GA,Clayton,TX,Bexar,30
+2011,GA,Clayton,TX,El Paso,42
+2011,GA,Clayton,AL,Lee,25
+2011,GA,Clayton,MA,Suffolk,22
+2011,GA,Clayton,NY,Monroe,25
+2011,GA,Clayton,TX,Bell,26
+2011,GA,Clayton,VA,Norfolk city,22
+2011,GA,Clayton,CA,San Bernardino,29
+2011,GA,Clayton,FL,Brevard,31
+2011,GA,Clayton,MD,Baltimore,30
+2011,GA,Clayton,NJ,Essex,23
+2011,GA,Clayton,NJ,Union,25
+2011,GA,Clayton,NC,Guilford,33
+2011,GA,Clayton,VA,Newport News city,18
+2011,GA,Clayton,WI,Milwaukee,30
+2011,GA,Clayton,AL,Russell,18
+2011,GA,Clayton,LA,East Baton Rouge Parish,25
+2011,GA,Clayton,NY,Nassau,28
+2011,GA,Clayton,OH,Hamilton,32
+2011,GA,Clayton,SC,Spartanburg,34
+2011,GA,Clayton,HI,Honolulu,22
+2011,GA,Clayton,OH,Franklin,24
+2011,GA,Clayton,SC,Beaufort,12
+2011,GA,Clayton,TN,Hamilton,27
+2011,GA,Clayton,TX,Denton,19
+2011,GA,Clayton,VA,Fairfax,17
+2011,GA,Cobb,FL,Miami Dade,363
+2011,GA,Cobb,CA,Los Angeles,314
+2011,GA,Cobb,FL,Broward,293
+2011,GA,Cobb,TX,Harris,344
+2011,GA,Cobb,FL,Hillsborough,249
+2011,GA,Cobb,IL,Cook,286
+2011,GA,Cobb,NC,Mecklenburg,275
+2011,GA,Cobb,TX,Dallas,275
+2011,GA,Cobb,FL,Orange,229
+2011,GA,Cobb,FL,Duval,197
+2011,GA,Cobb,AL,Jefferson,211
+2011,GA,Cobb,NY,Kings,153
+2011,GA,Cobb,NY,New York,122
+2011,GA,Cobb,AZ,Maricopa,165
+2011,GA,Cobb,TX,Tarrant,163
+2011,GA,Cobb,FL,Palm Beach,162
+2011,GA,Cobb,NC,Wake,177
+2011,GA,Cobb,TN,Hamilton,132
+2011,GA,Cobb,TN,Shelby,162
+2011,GA,Cobb,SC,Greenville,157
+2011,GA,Cobb,FL,Pinellas,117
+2011,GA,Cobb,TN,Davidson,89
+2011,GA,Cobb,WA,King,114
+2011,GA,Cobb,CA,San Diego,130
+2011,GA,Cobb,TX,Travis,120
+2011,GA,Cobb,LA,Orleans Parish,119
+2011,GA,Cobb,MN,Hennepin,115
+2011,GA,Cobb,SC,Charleston,111
+2011,GA,Cobb,VA,Fairfax,111
+2011,GA,Cobb,MD,Prince George's,95
+2011,GA,Cobb,TX,Bexar,114
+2011,GA,Cobb,MI,Wayne,95
+2011,GA,Cobb,OH,Franklin,94
+2011,GA,Cobb,DC,District of Columbia,62
+2011,GA,Cobb,AL,Madison,87
+2011,GA,Cobb,CA,Orange,97
+2011,GA,Cobb,MA,Middlesex,80
+2011,GA,Cobb,TX,Collin,113
+2011,GA,Cobb,NV,Clark,83
+2011,GA,Cobb,MD,Montgomery,84
+2011,GA,Cobb,OH,Hamilton,71
+2011,GA,Cobb,KY,Jefferson,84
+2011,GA,Cobb,MO,St Louis,92
+2011,GA,Cobb,AL,Mobile,74
+2011,GA,Cobb,FL,Brevard,81
+2011,GA,Cobb,FL,Volusia,66
+2011,GA,Cobb,VA,Arlington,54
+2011,GA,Cobb,CA,Santa Clara,80
+2011,GA,Cobb,FL,Leon,55
+2011,GA,Cobb,FL,Seminole,71
+2011,GA,Cobb,LA,East Baton Rouge Parish,87
+2011,GA,Cobb,SC,Richland,67
+2011,GA,Cobb,MI,Oakland,91
+2011,GA,Cobb,WI,Milwaukee,64
+2011,GA,Cobb,AL,Montgomery,63
+2011,GA,Cobb,OH,Cuyahoga,74
+2011,GA,Cobb,CO,Denver,63
+2011,GA,Cobb,FL,Escambia,53
+2011,GA,Cobb,FL,Lee,59
+2011,GA,Cobb,FL,Polk,59
+2011,GA,Cobb,NY,Queens,73
+2011,GA,Cobb,PA,Allegheny,62
+2011,GA,Cobb,MD,Baltimore,62
+2011,GA,Cobb,TN,Knox,70
+2011,GA,Cobb,AL,Shelby,81
+2011,GA,Cobb,MS,Hinds,56
+2011,GA,Cobb,NC,Onslow,67
+2011,GA,Cobb,NY,Bronx,60
+2011,GA,Cobb,FL,Bay,55
+2011,GA,Cobb,FL,Sarasota,59
+2011,GA,Cobb,TX,Denton,67
+2011,GA,Cobb,CT,Hartford,65
+2011,GA,Cobb,MA,Suffolk,43
+2011,GA,Cobb,NJ,Hudson,41
+2011,GA,Cobb,CA,San Bernardino,67
+2011,GA,Cobb,FL,Okaloosa,53
+2011,GA,Cobb,IN,Marion,60
+2011,GA,Cobb,NC,Guilford,42
+2011,GA,Cobb,PA,Philadelphia,53
+2011,GA,Cobb,VA,Prince William,65
+2011,GA,Cobb,CA,Alameda,48
+2011,GA,Cobb,CT,Fairfield,52
+2011,GA,Cobb,MD,Anne Arundel,49
+2011,GA,Cobb,NC,Cumberland,48
+2011,GA,Cobb,CO,Douglas,61
+2011,GA,Cobb,HI,Honolulu,44
+2011,GA,Cobb,NJ,Middlesex,58
+2011,GA,Cobb,AL,Lee,50
+2011,GA,Cobb,CT,New Haven,43
+2011,GA,Cobb,IN,Allen,49
+2011,GA,Cobb,KS,Johnson,65
+2011,GA,Cobb,NJ,Essex,47
+2011,GA,Cobb,TX,Bell,56
+2011,GA,Cobb,VA,Virginia Beach city,54
+2011,GA,Cobb,AL,Tuscaloosa,32
+2011,GA,Cobb,CO,Arapahoe,53
+2011,GA,Cobb,CO,El Paso,36
+2011,GA,Cobb,IL,Dupage,66
+2011,GA,Cobb,LA,Jefferson Parish,50
+2011,GA,Cobb,NY,Monroe,46
+2011,GA,Cobb,NY,Suffolk,50
+2011,GA,Cobb,SC,Beaufort,44
+2011,GA,Cobb,VA,Loudoun,46
+2011,GA,Cobb,AL,Calhoun,38
+2011,GA,Cobb,DE,New Castle,50
+2011,GA,Cobb,FL,St Johns,60
+2011,GA,Cobb,IL,Lake,54
+2011,GA,Cobb,OK,Tulsa,49
+2011,GA,Cobb,TN,Williamson,59
+2011,GA,Cobb,FL,Collier,42
+2011,GA,Cobb,MD,Howard,49
+2011,GA,Cobb,MO,Jackson,43
+2011,GA,Cobb,OK,Oklahoma,59
+2011,GA,Cobb,TX,Fort Bend,70
+2011,GA,Cobb,CA,Sacramento,38
+2011,GA,Cobb,KY,Fayette,36
+2011,GA,Cobb,MA,Norfolk,41
+2011,GA,Cobb,VA,Alexandria city,23
+2011,GA,Cobb,CA,San Francisco,19
+2011,GA,Cobb,FL,Alachua,38
+2011,GA,Cobb,LA,St Tammany Parish,37
+2011,GA,Cobb,MS,Harrison,38
+2011,GA,Cobb,NC,Buncombe,30
+2011,GA,Cobb,TN,Rutherford,38
+2011,GA,Cobb,VA,Newport News city,40
+2011,GA,Cobb,AL,Baldwin,40
+2011,GA,Cobb,AZ,Pima,45
+2011,GA,Cobb,CA,Riverside,39
+2011,GA,Cobb,FL,St Lucie,35
+2011,GA,Cobb,MD,Baltimore city,24
+2011,GA,Cobb,NM,Bernalillo,27
+2011,GA,Cobb,NC,Durham,39
+2011,GA,Cobb,SC,Lexington,41
+2011,GA,Cobb,UT,Salt Lake,39
+2011,GA,Cobb,VA,Henrico,48
+2011,GA,Cobb,WA,Pierce,40
+2011,GA,Cobb,FL,Pasco,32
+2011,GA,Cobb,NY,Westchester,45
+2011,GA,Cobb,NC,Forsyth,30
+2011,GA,Cobb,OR,Multnomah,23
+2011,GA,Cobb,PA,Chester,41
+2011,GA,Cobb,PA,Montgomery,43
+2011,GA,Cobb,SC,Horry,26
+2011,GA,Cobb,SC,Spartanburg,37
+2011,GA,Cobb,AR,Benton,39
+2011,GA,Cobb,CA,Contra Costa,40
+2011,GA,Cobb,FL,Osceola,30
+2011,GA,Cobb,FL,Santa Rosa,36
+2011,GA,Cobb,FL,Walton,28
+2011,GA,Cobb,NE,Douglas,28
+2011,GA,Cobb,NJ,Union,27
+2011,GA,Cobb,AK,Anchorage Municipality,23
+2011,GA,Cobb,CO,Boulder,26
+2011,GA,Cobb,FL,Manatee,27
+2011,GA,Cobb,FL,Marion,31
+2011,GA,Cobb,KS,Sedgwick,29
+2011,GA,Cobb,MA,Worcester,31
+2011,GA,Cobb,NJ,Burlington,41
+2011,GA,Cobb,NY,Nassau,28
+2011,GA,Cobb,TX,El Paso,32
+2011,GA,Cobb,FR,Foreign - Puerto Rico,34
+2011,GA,Cobb,CA,San Mateo,28
+2011,GA,Cobb,FL,Lake,25
+2011,GA,Cobb,FL,Nassau,29
+2011,GA,Cobb,MA,Essex,23
+2011,GA,Cobb,MI,Macomb,30
+2011,GA,Cobb,MO,St Louis city,30
+2011,GA,Cobb,NY,Erie,25
+2011,GA,Cobb,SC,Berkeley,23
+2011,GA,Cobb,AL,Coffee,26
+2011,GA,Cobb,AR,Pulaski,22
+2011,GA,Cobb,IN,Hamilton,35
+2011,GA,Cobb,MI,Washtenaw,19
+2011,GA,Cobb,NJ,Camden,19
+2011,GA,Cobb,NJ,Morris,24
+2011,GA,Cobb,OH,Montgomery,26
+2011,GA,Cobb,RI,Providence,23
+2011,GA,Cobb,SC,York,30
+2011,GA,Cobb,AL,Houston,21
+2011,GA,Cobb,CO,Larimer,21
+2011,GA,Cobb,FL,Clay,26
+2011,GA,Cobb,FL,Martin,16
+2011,GA,Cobb,NY,Orange,24
+2011,GA,Cobb,SC,Anderson,19
+2011,GA,Cobb,TX,Montgomery,26
+2011,GA,Cobb,VA,Chesterfield,39
+2011,GA,Cobb,AL,Randolph,28
+2011,GA,Cobb,CA,Ventura,14
+2011,GA,Cobb,IL,Will,22
+2011,GA,Cobb,IN,Lake,23
+2011,GA,Cobb,IA,Scott,19
+2011,GA,Cobb,LA,Caddo Parish,22
+2011,GA,Cobb,MD,Charles,14
+2011,GA,Cobb,MA,Hampden,28
+2011,GA,Cobb,PA,Delaware,15
+2011,GA,Cobb,SC,Aiken,24
+2011,GA,Cobb,TN,Bradley,16
+2011,GA,Cobb,TX,Williamson,16
+2011,GA,Cobb,VA,Norfolk city,12
+2011,GA,Cobb,VA,Richmond city,17
+2011,GA,Cobb,AL,Russell,20
+2011,GA,Cobb,CO,Jefferson,15
+2011,GA,Cobb,FL,Charlotte,19
+2011,GA,Cobb,IL,Kane,26
+2011,GA,Cobb,LA,Ouachita Parish,20
+2011,GA,Cobb,MA,Plymouth,22
+2011,GA,Cobb,MN,Dakota,21
+2011,GA,Cobb,MO,St Charles,25
+2011,GA,Cobb,NJ,Bergen,19
+2011,GA,Cobb,NJ,Monmouth,19
+2011,GA,Cobb,NJ,Ocean,15
+2011,GA,Cobb,NY,Onondaga,21
+2011,GA,Cobb,NC,Craven,22
+2011,GA,Cobb,OH,Lucas,22
+2011,GA,Cobb,PA,Bucks,20
+2011,GA,Cobb,TN,Montgomery,25
+2011,GA,Cobb,TN,Wilson,20
+2011,GA,Cobb,TX,Cameron,27
+2011,GA,Cobb,VA,Chesapeake city,18
+2011,GA,Cobb,WA,Snohomish,22
+2011,GA,Dekalb,FL,Miami Dade,378
+2011,GA,Dekalb,CA,Los Angeles,412
+2011,GA,Dekalb,IL,Cook,349
+2011,GA,Dekalb,FL,Broward,331
+2011,GA,Dekalb,NC,Mecklenburg,322
+2011,GA,Dekalb,TX,Dallas,286
+2011,GA,Dekalb,FL,Hillsborough,221
+2011,GA,Dekalb,NY,Kings,261
+2011,GA,Dekalb,NY,New York,197
+2011,GA,Dekalb,TX,Harris,240
+2011,GA,Dekalb,MI,Wayne,208
+2011,GA,Dekalb,FL,Duval,213
+2011,GA,Dekalb,DC,District of Columbia,160
+2011,GA,Dekalb,TN,Davidson,189
+2011,GA,Dekalb,WA,King,172
+2011,GA,Dekalb,AL,Jefferson,200
+2011,GA,Dekalb,LA,Orleans Parish,171
+2011,GA,Dekalb,TN,Shelby,177
+2011,GA,Dekalb,NY,Queens,156
+2011,GA,Dekalb,FL,Orange,144
+2011,GA,Dekalb,AZ,Maricopa,129
+2011,GA,Dekalb,MD,Montgomery,127
+2011,GA,Dekalb,FL,Pinellas,136
+2011,GA,Dekalb,FL,Palm Beach,133
+2011,GA,Dekalb,PA,Philadelphia,121
+2011,GA,Dekalb,NC,Wake,113
+2011,GA,Dekalb,TX,Travis,107
+2011,GA,Dekalb,CA,San Diego,104
+2011,GA,Dekalb,MD,Prince George's,115
+2011,GA,Dekalb,SC,Charleston,114
+2011,GA,Dekalb,CA,Alameda,105
+2011,GA,Dekalb,VA,Fairfax,114
+2011,GA,Dekalb,MD,Baltimore city,83
+2011,GA,Dekalb,MA,Middlesex,104
+2011,GA,Dekalb,OH,Franklin,104
+2011,GA,Dekalb,PA,Allegheny,121
+2011,GA,Dekalb,NY,Bronx,110
+2011,GA,Dekalb,SC,Greenville,100
+2011,GA,Dekalb,TX,Tarrant,95
+2011,GA,Dekalb,SC,Richland,94
+2011,GA,Dekalb,MA,Suffolk,69
+2011,GA,Dekalb,AL,Montgomery,81
+2011,GA,Dekalb,CA,Santa Clara,99
+2011,GA,Dekalb,MN,Hennepin,80
+2011,GA,Dekalb,NV,Clark,85
+2011,GA,Dekalb,OH,Hamilton,77
+2011,GA,Dekalb,VA,Arlington,68
+2011,GA,Dekalb,TX,Collin,87
+2011,GA,Dekalb,CA,San Francisco,62
+2011,GA,Dekalb,CO,Denver,61
+2011,GA,Dekalb,KY,Jefferson,80
+2011,GA,Dekalb,MS,Hinds,56
+2011,GA,Dekalb,OH,Cuyahoga,83
+2011,GA,Dekalb,AL,Madison,76
+2011,GA,Dekalb,AL,Mobile,69
+2011,GA,Dekalb,FL,Leon,60
+2011,GA,Dekalb,LA,Jefferson Parish,78
+2011,GA,Dekalb,NC,Cumberland,76
+2011,GA,Dekalb,FL,Brevard,66
+2011,GA,Dekalb,IN,Marion,79
+2011,GA,Dekalb,NJ,Hudson,57
+2011,GA,Dekalb,TN,Hamilton,63
+2011,GA,Dekalb,CA,Orange,69
+2011,GA,Dekalb,NC,Durham,63
+2011,GA,Dekalb,FL,Escambia,66
+2011,GA,Dekalb,NC,Guilford,56
+2011,GA,Dekalb,TN,Knox,63
+2011,GA,Dekalb,FL,Polk,61
+2011,GA,Dekalb,MO,St Louis,79
+2011,GA,Dekalb,MD,Baltimore,58
+2011,GA,Dekalb,OR,Multnomah,50
+2011,GA,Dekalb,NJ,Essex,56
+2011,GA,Dekalb,TX,Denton,59
+2011,GA,Dekalb,DE,New Castle,58
+2011,GA,Dekalb,FL,Alachua,46
+2011,GA,Dekalb,FL,Volusia,51
+2011,GA,Dekalb,LA,East Baton Rouge Parish,52
+2011,GA,Dekalb,NC,Forsyth,50
+2011,GA,Dekalb,VA,Norfolk city,52
+2011,GA,Dekalb,AL,Lee,53
+2011,GA,Dekalb,AL,Shelby,55
+2011,GA,Dekalb,NY,Nassau,44
+2011,GA,Dekalb,VA,Henrico,45
+2011,GA,Dekalb,CT,Hartford,47
+2011,GA,Dekalb,FL,Manatee,44
+2011,GA,Dekalb,MI,Oakland,44
+2011,GA,Dekalb,MI,Washtenaw,53
+2011,GA,Dekalb,NY,Erie,40
+2011,GA,Dekalb,VA,Alexandria city,49
+2011,GA,Dekalb,CA,Sacramento,46
+2011,GA,Dekalb,CA,San Bernardino,44
+2011,GA,Dekalb,NJ,Middlesex,46
+2011,GA,Dekalb,NJ,Union,37
+2011,GA,Dekalb,NC,Buncombe,50
+2011,GA,Dekalb,TX,Bexar,46
+2011,GA,Dekalb,WI,Milwaukee,45
+2011,GA,Dekalb,CA,Contra Costa,42
+2011,GA,Dekalb,CT,Fairfield,39
+2011,GA,Dekalb,OH,Montgomery,51
+2011,GA,Dekalb,UT,Salt Lake,45
+2011,GA,Dekalb,CA,Riverside,39
+2011,GA,Dekalb,CT,New Haven,35
+2011,GA,Dekalb,FL,Seminole,33
+2011,GA,Dekalb,NY,Monroe,40
+2011,GA,Dekalb,RI,Providence,41
+2011,GA,Dekalb,HI,Honolulu,31
+2011,GA,Dekalb,KY,Fayette,26
+2011,GA,Dekalb,MD,Anne Arundel,42
+2011,GA,Dekalb,MO,St Louis city,36
+2011,GA,Dekalb,FL,Bay,31
+2011,GA,Dekalb,FL,St Johns,29
+2011,GA,Dekalb,MA,Norfolk,44
+2011,GA,Dekalb,PA,Montgomery,34
+2011,GA,Dekalb,SC,Beaufort,38
+2011,GA,Dekalb,VA,Loudoun,37
+2011,GA,Dekalb,VA,Virginia Beach city,31
+2011,GA,Dekalb,CO,El Paso,38
+2011,GA,Dekalb,IA,Polk,31
+2011,GA,Dekalb,LA,Caddo Parish,44
+2011,GA,Dekalb,MI,Genesee,30
+2011,GA,Dekalb,MN,Ramsey,37
+2011,GA,Dekalb,NJ,Bergen,31
+2011,GA,Dekalb,NY,Westchester,33
+2011,GA,Dekalb,TX,Bell,36
+2011,GA,Dekalb,VA,Newport News city,35
+2011,GA,Dekalb,CO,Arapahoe,26
+2011,GA,Dekalb,CO,Jefferson,24
+2011,GA,Dekalb,OK,Oklahoma,50
+2011,GA,Dekalb,VA,Prince William,28
+2011,GA,Dekalb,AR,Pulaski,30
+2011,GA,Dekalb,KS,Johnson,32
+2011,GA,Dekalb,NY,Albany,31
+2011,GA,Dekalb,TN,Williamson,34
+2011,GA,Dekalb,AL,Tuscaloosa,25
+2011,GA,Dekalb,AZ,Pima,32
+2011,GA,Dekalb,VA,Chesterfield,40
+2011,GA,Dekalb,IL,Dupage,34
+2011,GA,Dekalb,IL,Lake,35
+2011,GA,Dekalb,MD,Howard,31
+2011,GA,Dekalb,MA,Essex,27
+2011,GA,Dekalb,MI,Kent,37
+2011,GA,Dekalb,MO,Jackson,22
+2011,GA,Dekalb,NM,Bernalillo,29
+2011,GA,Dekalb,NY,Suffolk,27
+2011,GA,Dekalb,NC,Orange,30
+2011,GA,Dekalb,OH,Summit,26
+2011,GA,Dekalb,FL,Lee,26
+2011,GA,Dekalb,FL,Marion,28
+2011,GA,Dekalb,NJ,Burlington,23
+2011,GA,Dekalb,NY,Onondaga,30
+2011,GA,Dekalb,OK,Tulsa,33
+2011,GA,Dekalb,SC,Aiken,24
+2011,GA,Dekalb,SC,Berkeley,40
+2011,GA,Dekalb,SC,Spartanburg,24
+2011,GA,Dekalb,WI,Dane,26
+2011,GA,Dekalb,AL,Baldwin,21
+2011,GA,Dekalb,CO,Boulder,19
+2011,GA,Dekalb,FL,Okaloosa,33
+2011,GA,Dekalb,FL,Sarasota,14
+2011,GA,Dekalb,OH,Butler,31
+2011,GA,Dekalb,SC,Anderson,20
+2011,GA,Dekalb,SC,York,22
+2011,GA,Dekalb,TX,Fort Bend,31
+2011,GA,Dekalb,WA,Pierce,19
+2011,GA,Dekalb,AL,Macon,23
+2011,GA,Dekalb,FL,Lake,17
+2011,GA,Dekalb,IN,Allen,19
+2011,GA,Dekalb,KS,Wyandotte,19
+2011,GA,Dekalb,ME,Cumberland,21
+2011,GA,Dekalb,MI,Macomb,23
+2011,GA,Dekalb,NE,Douglas,22
+2011,GA,Dekalb,NC,Onslow,20
+2011,GA,Dekalb,SC,Lexington,21
+2011,GA,Dekalb,TN,Montgomery,22
+2011,GA,Dekalb,WA,Snohomish,23
+2011,GA,Dekalb,AL,Houston,16
+2011,GA,Dekalb,AL,Russell,19
+2011,GA,Dekalb,AK,Anchorage Municipality,22
+2011,GA,Dekalb,FL,Collier,23
+2011,GA,Dekalb,FL,Osceola,21
+2011,GA,Dekalb,FL,Pasco,16
+2011,GA,Dekalb,FL,St Lucie,20
+2011,GA,Dekalb,MA,Worcester,15
+2011,GA,Dekalb,MS,Harrison,22
+2011,GA,Dekalb,NE,Lancaster,21
+2011,GA,Dekalb,NJ,Monmouth,16
+2011,GA,Dekalb,NJ,Somerset,24
+2011,GA,Dekalb,TX,El Paso,21
+2011,GA,Dekalb,TX,Williamson,18
+2011,GA,Dekalb,VA,Hampton city,17
+2011,GA,Dekalb,VA,Richmond city,21
+2011,GA,Dekalb,AL,Calhoun,19
+2011,GA,Dekalb,AL,Dallas,22
+2011,GA,Dekalb,DE,Sussex,16
+2011,GA,Dekalb,FL,Nassau,14
+2011,GA,Dekalb,IN,Tippecanoe,11
+2011,GA,Dekalb,LA,St Tammany Parish,25
+2011,GA,Dekalb,ME,Androscoggin,19
+2011,GA,Dekalb,MN,Dakota,29
+2011,GA,Dekalb,NJ,Camden,17
+2011,GA,Dekalb,NJ,Mercer,19
+2011,GA,Dekalb,NC,Iredell,17
+2011,GA,Dekalb,NC,New Hanover,20
+2011,GA,Dekalb,OH,Lucas,14
+2011,GA,Fulton,FL,Miami Dade,587
+2011,GA,Fulton,CA,Los Angeles,596
+2011,GA,Fulton,NY,New York,480
+2011,GA,Fulton,IL,Cook,563
+2011,GA,Fulton,FL,Broward,488
+2011,GA,Fulton,NC,Mecklenburg,402
+2011,GA,Fulton,FL,Hillsborough,395
+2011,GA,Fulton,TX,Dallas,389
+2011,GA,Fulton,TX,Harris,378
+2011,GA,Fulton,NY,Kings,307
+2011,GA,Fulton,DC,District of Columbia,223
+2011,GA,Fulton,FL,Orange,284
+2011,GA,Fulton,FL,Duval,282
+2011,GA,Fulton,MI,Wayne,278
+2011,GA,Fulton,AL,Jefferson,250
+2011,GA,Fulton,TN,Davidson,222
+2011,GA,Fulton,CA,Santa Clara,259
+2011,GA,Fulton,TN,Shelby,241
+2011,GA,Fulton,FL,Palm Beach,211
+2011,GA,Fulton,AZ,Maricopa,248
+2011,GA,Fulton,MD,Montgomery,253
+2011,GA,Fulton,NC,Wake,244
+2011,GA,Fulton,MA,Middlesex,199
+2011,GA,Fulton,WA,King,202
+2011,GA,Fulton,CA,San Diego,197
+2011,GA,Fulton,NY,Queens,181
+2011,GA,Fulton,VA,Fairfax,207
+2011,GA,Fulton,LA,Orleans Parish,205
+2011,GA,Fulton,SC,Charleston,162
+2011,GA,Fulton,FL,Pinellas,173
+2011,GA,Fulton,TX,Travis,130
+2011,GA,Fulton,CA,San Francisco,119
+2011,GA,Fulton,PA,Philadelphia,144
+2011,GA,Fulton,CA,Alameda,157
+2011,GA,Fulton,OH,Franklin,169
+2011,GA,Fulton,CO,Denver,128
+2011,GA,Fulton,MD,Prince George's,115
+2011,GA,Fulton,SC,Richland,141
+2011,GA,Fulton,NJ,Hudson,133
+2011,GA,Fulton,TX,Tarrant,154
+2011,GA,Fulton,TN,Hamilton,138
+2011,GA,Fulton,NV,Clark,126
+2011,GA,Fulton,MA,Suffolk,92
+2011,GA,Fulton,NY,Bronx,162
+2011,GA,Fulton,NY,Monroe,124
+2011,GA,Fulton,PA,Allegheny,123
+2011,GA,Fulton,SC,Greenville,123
+2011,GA,Fulton,OH,Cuyahoga,117
+2011,GA,Fulton,VA,Arlington,85
+2011,GA,Fulton,MD,Baltimore city,91
+2011,GA,Fulton,AL,Montgomery,124
+2011,GA,Fulton,TX,Bexar,116
+2011,GA,Fulton,TX,Collin,151
+2011,GA,Fulton,CA,Orange,131
+2011,GA,Fulton,CT,Fairfield,152
+2011,GA,Fulton,MN,Hennepin,102
+2011,GA,Fulton,OH,Hamilton,108
+2011,GA,Fulton,FL,Escambia,106
+2011,GA,Fulton,AL,Madison,99
+2011,GA,Fulton,IN,Marion,91
+2011,GA,Fulton,FL,Leon,83
+2011,GA,Fulton,MI,Oakland,82
+2011,GA,Fulton,MS,Hinds,90
+2011,GA,Fulton,FL,Brevard,95
+2011,GA,Fulton,NC,Durham,80
+2011,GA,Fulton,TN,Knox,82
+2011,GA,Fulton,SC,Beaufort,119
+2011,GA,Fulton,LA,East Baton Rouge Parish,83
+2011,GA,Fulton,NY,Westchester,99
+2011,GA,Fulton,OR,Multnomah,77
+2011,GA,Fulton,AL,Mobile,73
+2011,GA,Fulton,FL,Seminole,82
+2011,GA,Fulton,MD,Baltimore,72
+2011,GA,Fulton,NJ,Middlesex,92
+2011,GA,Fulton,NC,Guilford,89
+2011,GA,Fulton,NC,Cumberland,91
+2011,GA,Fulton,VA,Alexandria city,66
+2011,GA,Fulton,KY,Jefferson,74
+2011,GA,Fulton,MO,St Louis,80
+2011,GA,Fulton,NJ,Essex,82
+2011,GA,Fulton,VA,Virginia Beach city,86
+2011,GA,Fulton,NJ,Bergen,93
+2011,GA,Fulton,LA,Jefferson Parish,91
+2011,GA,Fulton,VA,Henrico,97
+2011,GA,Fulton,CA,Riverside,82
+2011,GA,Fulton,FL,Lee,82
+2011,GA,Fulton,FL,Polk,71
+2011,GA,Fulton,CA,Sacramento,74
+2011,GA,Fulton,HI,Honolulu,69
+2011,GA,Fulton,AL,Lee,66
+2011,GA,Fulton,MD,Anne Arundel,82
+2011,GA,Fulton,CA,Contra Costa,76
+2011,GA,Fulton,FL,St Johns,83
+2011,GA,Fulton,NY,Nassau,66
+2011,GA,Fulton,CO,Boulder,55
+2011,GA,Fulton,CT,New Haven,63
+2011,GA,Fulton,NC,Buncombe,48
+2011,GA,Fulton,TX,Denton,105
+2011,GA,Fulton,WI,Milwaukee,62
+2011,GA,Fulton,CA,San Bernardino,58
+2011,GA,Fulton,CO,Arapahoe,55
+2011,GA,Fulton,FL,Alachua,68
+2011,GA,Fulton,TX,Williamson,72
+2011,GA,Fulton,FL,Volusia,56
+2011,GA,Fulton,IL,Dupage,67
+2011,GA,Fulton,MA,Norfolk,65
+2011,GA,Fulton,CA,San Mateo,52
+2011,GA,Fulton,CT,Hartford,50
+2011,GA,Fulton,DE,New Castle,40
+2011,GA,Fulton,PA,Montgomery,77
+2011,GA,Fulton,AL,Tuscaloosa,42
+2011,GA,Fulton,TX,Fort Bend,69
+2011,GA,Fulton,NJ,Passaic,87
+2011,GA,Fulton,NC,Forsyth,46
+2011,GA,Fulton,VA,Richmond city,47
+2011,GA,Fulton,NY,Erie,51
+2011,GA,Fulton,OH,Montgomery,69
+2011,GA,Fulton,OR,Washington,51
+2011,GA,Fulton,TN,Williamson,64
+2011,GA,Fulton,VA,Loudoun,65
+2011,GA,Fulton,FL,Collier,47
+2011,GA,Fulton,FL,Osceola,51
+2011,GA,Fulton,FL,Okaloosa,45
+2011,GA,Fulton,MO,St Louis city,39
+2011,GA,Fulton,NY,Suffolk,53
+2011,GA,Fulton,OK,Oklahoma,54
+2011,GA,Fulton,AL,Baldwin,43
+2011,GA,Fulton,CO,El Paso,46
+2011,GA,Fulton,FL,Marion,32
+2011,GA,Fulton,FL,Sarasota,57
+2011,GA,Fulton,WI,Dane,48
+2011,GA,Fulton,AL,Russell,38
+2011,GA,Fulton,AR,Pulaski,49
+2011,GA,Fulton,FL,Bay,45
+2011,GA,Fulton,OH,Summit,38
+2011,GA,Fulton,AL,Shelby,39
+2011,GA,Fulton,FL,St Lucie,47
+2011,GA,Fulton,MO,Jackson,38
+2011,GA,Fulton,SC,Lexington,40
+2011,GA,Fulton,NE,Douglas,58
+2011,GA,Fulton,TX,El Paso,51
+2011,GA,Fulton,FL,Manatee,41
+2011,GA,Fulton,MD,Howard,46
+2011,GA,Fulton,SC,Berkeley,42
+2011,GA,Fulton,VA,Prince William,37
+2011,GA,Fulton,IL,Lake,47
+2011,GA,Fulton,IL,Will,65
+2011,GA,Fulton,MI,Washtenaw,33
+2011,GA,Fulton,NJ,Camden,26
+2011,GA,Fulton,NJ,Morris,47
+2011,GA,Fulton,NJ,Somerset,47
+2011,GA,Fulton,OH,Lucas,30
+2011,GA,Fulton,SC,Anderson,30
+2011,GA,Fulton,WA,Pierce,36
+2011,GA,Fulton,FL,Pasco,29
+2011,GA,Fulton,MS,Harrison,46
+2011,GA,Fulton,NC,New Hanover,39
+2011,GA,Fulton,PA,Bucks,43
+2011,GA,Fulton,SC,Aiken,35
+2011,GA,Fulton,KY,Fayette,33
+2011,GA,Fulton,MA,Worcester,39
+2011,GA,Fulton,NM,Bernalillo,33
+2011,GA,Fulton,SC,Horry,28
+2011,GA,Fulton,TX,Galveston,34
+2011,GA,Fulton,IN,Hamilton,42
+2011,GA,Fulton,RI,Providence,28
+2011,GA,Fulton,TX,Bell,40
+2011,GA,Fulton,UT,Salt Lake,37
+2011,GA,Fulton,CO,Jefferson,39
+2011,GA,Fulton,FL,Walton,36
+2011,GA,Fulton,KS,Johnson,29
+2011,GA,Fulton,MA,Essex,36
+2011,GA,Fulton,MI,Macomb,35
+2011,GA,Fulton,NJ,Monmouth,33
+2011,GA,Fulton,NJ,Union,29
+2011,GA,Fulton,NC,Orange,30
+2011,GA,Fulton,TN,Rutherford,27
+2011,GA,Fulton,VA,Hampton city,28
+2011,GA,Fulton,AZ,Pima,36
+2011,GA,Fulton,CO,Douglas,34
+2011,GA,Fulton,FL,Santa Rosa,36
+2011,GA,Fulton,MA,Hampden,31
+2011,GA,Fulton,PA,Chester,36
+2011,GA,Fulton,TN,Montgomery,33
+2011,GA,Fulton,VA,Norfolk city,25
+2011,GA,Fulton,VA,Portsmouth city,27
+2011,GA,Fulton,WA,Snohomish,46
+2011,GA,Fulton,AL,Houston,27
+2011,GA,Fulton,CA,Marin,37
+2011,GA,Fulton,FL,Nassau,26
+2011,GA,Fulton,LA,Caddo Parish,31
+2011,GA,Fulton,LA,St Tammany Parish,38
+2011,GA,Fulton,ME,Cumberland,22
+2011,GA,Fulton,OK,Tulsa,28
+2011,GA,Fulton,SC,Oconee,26
+2011,GA,Fulton,TX,Montgomery,26
+2011,GA,Fulton,VA,Newport News city,31
+2011,GA,Fulton,AL,Calhoun,24
+2011,GA,Fulton,FL,Flagler,35
+2011,GA,Fulton,FL,Martin,25
+2011,GA,Fulton,MI,Ingham,24
+2011,GA,Fulton,MN,Ramsey,27
+2011,GA,Fulton,NC,Onslow,33
+2011,GA,Fulton,NC,Pitt,26
+2011,GA,Fulton,SC,York,28
+2011,GA,Fulton,VA,Chesterfield,28
+2011,GA,Fulton,AL,Talladega,31
+2011,GA,Fulton,CO,Larimer,26
+2011,GA,Fulton,IL,St Clair,25
+2011,GA,Fulton,IN,Allen,36
+2011,GA,Fulton,IN,Lake,21
+2011,GA,Fulton,IN,Tippecanoe,14
+2011,GA,Fulton,KS,Sedgwick,19
+2011,GA,Fulton,MI,Genesee,27
+2011,GA,Fulton,AK,Anchorage Municipality,22
+2011,GA,Fulton,IL,Kane,22
+2011,GA,Fulton,NJ,Mercer,22
+2011,GA,Fulton,NC,Cabarrus,30
+2011,GA,Fulton,SC,Orangeburg,25
+2011,GA,Fulton,SC,Spartanburg,21
+2011,GA,Fulton,WI,Waukesha,35
+2011,GA,Fulton,AL,Morgan,20
+2011,GA,Fulton,AZ,Cochise,21
+2011,GA,Fulton,CA,Solano,20
+2011,GA,Fulton,DE,Sussex,25
+2011,GA,Fulton,FL,Clay,15
+2011,GA,Fulton,IA,Polk,18
+2011,GA,Fulton,MN,Washington,27
+2011,GA,Fulton,MS,Jackson,29
+2011,GA,Fulton,MS,Rankin,27
+2011,GA,Fulton,NV,Washoe,18
+2011,GA,Fulton,NH,Hillsborough,24
+2011,GA,Fulton,NY,Richmond,25
+2011,GA,Fulton,PA,Delaware,20
+2011,GA,Fulton,SC,Dorchester,27
+2011,GA,Fulton,SC,Pickens,17
+2011,GA,Fulton,SC,Sumter,23
+2011,GA,Fulton,AL,Chambers,25
+2011,GA,Fulton,AL,Elmore,18
+2011,GA,Fulton,AL,Etowah,17
+2011,GA,Fulton,AL,Macon,15
+2011,GA,Fulton,AR,Benton,27
+2011,GA,Fulton,CA,San Joaquin,21
+2011,GA,Fulton,CO,Broomfield,14
+2011,GA,Fulton,FL,Lake,20
+2011,GA,Fulton,MA,Hampshire,14
+2011,GA,Fulton,MI,Kent,27
+2011,GA,Fulton,NY,Onondaga,19
+2011,GA,Fulton,NY,Schenectady,20
+2011,GA,Fulton,NC,Catawba,23
+2011,GA,Fulton,NC,Harnett,33
+2011,GA,Fulton,NC,Union,26
+2011,GA,Fulton,TX,Mclennan,15
+2011,GA,Fulton,VA,Albemarle,22
+2011,GA,Fulton,VA,Charlottesville city,17
+2011,GA,Fulton,AK,Fairbanks North Star Borough,14
+2011,GA,Fulton,CA,Placer,22
+2011,GA,Fulton,CA,Sonoma,17
+2011,GA,Fulton,CA,Ventura,20
+2011,GA,Fulton,CT,New London,11
+2011,GA,Fulton,DE,Kent,18
+2011,GA,Fulton,IA,Scott,17
+2011,GA,Fulton,LA,Ouachita Parish,27
+2011,GA,Fulton,NJ,Atlantic,16
+2011,GA,Fulton,NY,Orange,10
+2011,GA,Fulton,NC,Macon,21
+2011,GA,Fulton,OH,Butler,18
+2011,GA,Fulton,OH,Stark,17
+2011,GA,Fulton,PA,Luzerne,17
+2011,GA,Fulton,SC,Greenwood,20
+2011,GA,Fulton,VA,Stafford,15
+2011,GA,Fulton,VA,Chesapeake city,18
+2011,GA,Gwinnett,FL,Miami Dade,397
+2011,GA,Gwinnett,FL,Broward,399
+2011,GA,Gwinnett,CA,Los Angeles,364
+2011,GA,Gwinnett,FL,Hillsborough,276
+2011,GA,Gwinnett,TX,Harris,348
+2011,GA,Gwinnett,FL,Orange,251
+2011,GA,Gwinnett,TX,Dallas,251
+2011,GA,Gwinnett,NC,Mecklenburg,218
+2011,GA,Gwinnett,NY,Queens,225
+2011,GA,Gwinnett,NY,Kings,202
+2011,GA,Gwinnett,IL,Cook,196
+2011,GA,Gwinnett,FL,Duval,192
+2011,GA,Gwinnett,NY,Bronx,197
+2011,GA,Gwinnett,CA,San Diego,151
+2011,GA,Gwinnett,AL,Jefferson,164
+2011,GA,Gwinnett,AZ,Maricopa,149
+2011,GA,Gwinnett,FL,Palm Beach,183
+2011,GA,Gwinnett,NC,Wake,157
+2011,GA,Gwinnett,TN,Davidson,120
+2011,GA,Gwinnett,NY,New York,101
+2011,GA,Gwinnett,SC,Greenville,169
+2011,GA,Gwinnett,VA,Fairfax,146
+2011,GA,Gwinnett,FL,Pinellas,126
+2011,GA,Gwinnett,TX,Tarrant,130
+2011,GA,Gwinnett,MI,Wayne,108
+2011,GA,Gwinnett,WA,King,115
+2011,GA,Gwinnett,MD,Montgomery,117
+2011,GA,Gwinnett,CA,Orange,128
+2011,GA,Gwinnett,NY,Suffolk,113
+2011,GA,Gwinnett,TN,Shelby,95
+2011,GA,Gwinnett,SC,Charleston,84
+2011,GA,Gwinnett,FL,Polk,79
+2011,GA,Gwinnett,FL,Seminole,79
+2011,GA,Gwinnett,TN,Hamilton,98
+2011,GA,Gwinnett,NC,Cumberland,92
+2011,GA,Gwinnett,FL,Volusia,69
+2011,GA,Gwinnett,LA,Orleans Parish,91
+2011,GA,Gwinnett,NY,Nassau,74
+2011,GA,Gwinnett,NV,Clark,66
+2011,GA,Gwinnett,NJ,Essex,74
+2011,GA,Gwinnett,AL,Montgomery,69
+2011,GA,Gwinnett,LA,Jefferson Parish,77
+2011,GA,Gwinnett,OH,Cuyahoga,76
+2011,GA,Gwinnett,TX,Bexar,86
+2011,GA,Gwinnett,TX,Collin,104
+2011,GA,Gwinnett,MD,Prince George's,62
+2011,GA,Gwinnett,CA,Santa Clara,79
+2011,GA,Gwinnett,NC,Guilford,76
+2011,GA,Gwinnett,SC,Richland,67
+2011,GA,Gwinnett,TN,Knox,62
+2011,GA,Gwinnett,FL,Lee,68
+2011,GA,Gwinnett,HI,Honolulu,57
+2011,GA,Gwinnett,NJ,Hudson,61
+2011,GA,Gwinnett,OH,Franklin,60
+2011,GA,Gwinnett,FL,Escambia,58
+2011,GA,Gwinnett,KY,Jefferson,67
+2011,GA,Gwinnett,NJ,Middlesex,73
+2011,GA,Gwinnett,WI,Milwaukee,63
+2011,GA,Gwinnett,AL,Mobile,65
+2011,GA,Gwinnett,AL,Shelby,61
+2011,GA,Gwinnett,SC,Horry,48
+2011,GA,Gwinnett,NJ,Union,66
+2011,GA,Gwinnett,NC,Onslow,66
+2011,GA,Gwinnett,CT,Fairfield,58
+2011,GA,Gwinnett,VA,Virginia Beach city,56
+2011,GA,Gwinnett,CO,El Paso,66
+2011,GA,Gwinnett,FL,Marion,48
+2011,GA,Gwinnett,TX,Travis,56
+2011,GA,Gwinnett,AL,Madison,64
+2011,GA,Gwinnett,CO,Arapahoe,57
+2011,GA,Gwinnett,FL,Osceola,65
+2011,GA,Gwinnett,NJ,Bergen,53
+2011,GA,Gwinnett,PA,Allegheny,53
+2011,GA,Gwinnett,SC,Beaufort,54
+2011,GA,Gwinnett,DC,District of Columbia,41
+2011,GA,Gwinnett,FL,Leon,42
+2011,GA,Gwinnett,FL,Pasco,58
+2011,GA,Gwinnett,IL,Dupage,69
+2011,GA,Gwinnett,FL,Brevard,52
+2011,GA,Gwinnett,FL,Okaloosa,55
+2011,GA,Gwinnett,MD,Baltimore,57
+2011,GA,Gwinnett,MD,Baltimore city,38
+2011,GA,Gwinnett,MI,Oakland,58
+2011,GA,Gwinnett,MN,Hennepin,51
+2011,GA,Gwinnett,CA,San Bernardino,65
+2011,GA,Gwinnett,FL,Bay,46
+2011,GA,Gwinnett,PA,Philadelphia,45
+2011,GA,Gwinnett,FL,St Johns,54
+2011,GA,Gwinnett,NY,Westchester,49
+2011,GA,Gwinnett,TX,Denton,50
+2011,GA,Gwinnett,WA,Pierce,61
+2011,GA,Gwinnett,CO,Denver,40
+2011,GA,Gwinnett,NC,Forsyth,47
+2011,GA,Gwinnett,SC,Lexington,54
+2011,GA,Gwinnett,SC,Spartanburg,51
+2011,GA,Gwinnett,TX,Fort Bend,67
+2011,GA,Gwinnett,AL,Baldwin,52
+2011,GA,Gwinnett,AL,Lee,38
+2011,GA,Gwinnett,AK,Anchorage Municipality,38
+2011,GA,Gwinnett,CA,Riverside,44
+2011,GA,Gwinnett,MD,Howard,57
+2011,GA,Gwinnett,NY,Monroe,42
+2011,GA,Gwinnett,NC,Buncombe,37
+2011,GA,Gwinnett,SC,Anderson,38
+2011,GA,Gwinnett,SC,Berkeley,42
+2011,GA,Gwinnett,TX,Bell,35
+2011,GA,Gwinnett,UT,Salt Lake,39
+2011,GA,Gwinnett,CA,Alameda,39
+2011,GA,Gwinnett,CT,Hartford,46
+2011,GA,Gwinnett,IN,Marion,52
+2011,GA,Gwinnett,OH,Hamilton,55
+2011,GA,Gwinnett,AZ,Pima,29
+2011,GA,Gwinnett,AR,Pulaski,40
+2011,GA,Gwinnett,CA,Sacramento,51
+2011,GA,Gwinnett,MS,Harrison,27
+2011,GA,Gwinnett,MO,St Louis,41
+2011,GA,Gwinnett,NC,Durham,35
+2011,GA,Gwinnett,RI,Providence,42
+2011,GA,Gwinnett,SC,York,36
+2011,GA,Gwinnett,VA,Prince William,40
+2011,GA,Gwinnett,FL,Alachua,35
+2011,GA,Gwinnett,FL,Manatee,38
+2011,GA,Gwinnett,MS,Hinds,33
+2011,GA,Gwinnett,PA,Montgomery,31
+2011,GA,Gwinnett,CT,New Haven,42
+2011,GA,Gwinnett,FL,Collier,32
+2011,GA,Gwinnett,FL,St Lucie,36
+2011,GA,Gwinnett,MA,Worcester,31
+2011,GA,Gwinnett,MS,Jackson,44
+2011,GA,Gwinnett,OK,Oklahoma,49
+2011,GA,Gwinnett,SC,Pickens,30
+2011,GA,Gwinnett,TX,El Paso,33
+2011,GA,Gwinnett,CA,San Francisco,24
+2011,GA,Gwinnett,MA,Middlesex,31
+2011,GA,Gwinnett,MI,Kent,48
+2011,GA,Gwinnett,NJ,Camden,27
+2011,GA,Gwinnett,SC,Aiken,37
+2011,GA,Gwinnett,TN,Williamson,50
+2011,GA,Gwinnett,VA,Chesterfield,48
+2011,GA,Gwinnett,VA,Alexandria city,43
+2011,GA,Gwinnett,FL,Sarasota,33
+2011,GA,Gwinnett,LA,East Baton Rouge Parish,29
+2011,GA,Gwinnett,MD,Anne Arundel,30
+2011,GA,Gwinnett,MA,Essex,35
+2011,GA,Gwinnett,NJ,Passaic,37
+2011,GA,Gwinnett,TX,Hidalgo,53
+2011,GA,Gwinnett,VA,Loudoun,48
+2011,GA,Gwinnett,FL,Flagler,36
+2011,GA,Gwinnett,IN,Allen,27
+2011,GA,Gwinnett,NE,Douglas,39
+2011,GA,Gwinnett,NM,Bernalillo,25
+2011,GA,Gwinnett,VA,Arlington,19
+2011,GA,Gwinnett,AL,Calhoun,36
+2011,GA,Gwinnett,CA,Ventura,36
+2011,GA,Gwinnett,FL,Lake,27
+2011,GA,Gwinnett,MA,Suffolk,29
+2011,GA,Gwinnett,MI,Genesee,32
+2011,GA,Gwinnett,NC,Cabarrus,41
+2011,GA,Gwinnett,OH,Montgomery,37
+2011,GA,Gwinnett,PA,Delaware,33
+2011,GA,Gwinnett,VA,Henrico,25
+2011,GA,Gwinnett,AL,Tuscaloosa,22
+2011,GA,Gwinnett,CO,Douglas,31
+2011,GA,Gwinnett,CO,Jefferson,29
+2011,GA,Gwinnett,DE,New Castle,27
+2011,GA,Gwinnett,IL,Lake,30
+2011,GA,Gwinnett,IA,Polk,20
+2011,GA,Gwinnett,MI,Macomb,16
+2011,GA,Gwinnett,NJ,Mercer,24
+2011,GA,Gwinnett,SC,Dorchester,28
+2011,GA,Gwinnett,SC,Oconee,32
+2011,GA,Gwinnett,AL,Russell,31
+2011,GA,Gwinnett,AR,Benton,25
+2011,GA,Gwinnett,FL,Clay,25
+2011,GA,Gwinnett,FL,Martin,21
+2011,GA,Gwinnett,FL,Santa Rosa,26
+2011,GA,Gwinnett,IL,Mclean,28
+2011,GA,Gwinnett,KS,Johnson,23
+2011,GA,Gwinnett,MN,Dakota,29
+2011,GA,Gwinnett,MO,Jackson,21
+2011,GA,Gwinnett,NY,Erie,24
+2011,GA,Gwinnett,OR,Washington,23
+2011,GA,Gwinnett,TN,Montgomery,29
+2011,GA,Gwinnett,TX,Montgomery,28
+2011,GA,Gwinnett,IN,Hamilton,20
+2011,GA,Gwinnett,KS,Sedgwick,34
+2011,GA,Gwinnett,LA,Lafayette Parish,28
+2011,GA,Gwinnett,MA,Norfolk,18
+2011,GA,Gwinnett,NC,Union,29
+2011,GA,Gwinnett,OK,Tulsa,18
+2011,GA,Gwinnett,PA,Lehigh,28
+2011,GA,Gwinnett,TN,Bradley,20
+2011,GA,Gwinnett,TN,Sullivan,19
+2011,GA,Gwinnett,UT,Utah,25
+2011,GA,Gwinnett,FR,Foreign - Puerto Rico,22
+2011,GA,Gwinnett,CA,Contra Costa,21
+2011,GA,Gwinnett,CA,Monterey,22
+2011,GA,Gwinnett,FL,Nassau,23
+2011,GA,Gwinnett,FL,Sumter,15
+2011,GA,Gwinnett,IL,Will,24
+2011,GA,Gwinnett,MS,Rankin,15
+2011,GA,Gwinnett,NY,Onondaga,17
+2011,GA,Gwinnett,NC,Johnston,14
+2011,GA,Gwinnett,OR,Multnomah,22
+2011,GA,Gwinnett,PA,Dauphin,19
+2011,GA,Gwinnett,SC,Florence,17
+2011,GA,Gwinnett,TX,Williamson,24
+2011,GA,Gwinnett,VA,Norfolk city,15
+2011,GA,Gwinnett,VA,Richmond city,20
+2011,FL,Miami Dade,GA,Clayton,150
+2011,FL,Broward,GA,Clayton,186
+2011,CA,Los Angeles,GA,Clayton,115
+2011,IL,Cook,GA,Clayton,155
+2011,MI,Wayne,GA,Clayton,115
+2011,TN,Shelby,GA,Clayton,102
+2011,NY,Kings,GA,Clayton,94
+2011,AL,Montgomery,GA,Clayton,67
+2011,FL,Hillsborough,GA,Clayton,62
+2011,FL,Orange,GA,Clayton,81
+2011,PA,Philadelphia,GA,Clayton,64
+2011,FL,Duval,GA,Clayton,72
+2011,NC,Mecklenburg,GA,Clayton,72
+2011,TX,Harris,GA,Clayton,77
+2011,NY,Queens,GA,Clayton,69
+2011,SC,Richland,GA,Clayton,62
+2011,NY,Bronx,GA,Clayton,60
+2011,AL,Jefferson,GA,Clayton,65
+2011,SC,Greenville,GA,Clayton,149
+2011,FL,Palm Beach,GA,Clayton,59
+2011,LA,Orleans Parish,GA,Clayton,51
+2011,NJ,Essex,GA,Clayton,53
+2011,FL,Leon,GA,Clayton,39
+2011,OH,Cuyahoga,GA,Clayton,57
+2011,TN,Davidson,GA,Clayton,43
+2011,AZ,Maricopa,GA,Clayton,53
+2011,TX,Dallas,GA,Clayton,42
+2011,MD,Prince George's,GA,Clayton,39
+2011,MD,Baltimore city,GA,Clayton,48
+2011,SC,Charleston,GA,Clayton,43
+2011,FL,Marion,GA,Clayton,30
+2011,NC,Cumberland,GA,Clayton,40
+2011,OH,Hamilton,GA,Clayton,53
+2011,OH,Montgomery,GA,Clayton,36
+2011,AL,Lee,GA,Clayton,34
+2011,FL,Volusia,GA,Clayton,34
+2011,AL,Madison,GA,Clayton,33
+2011,LA,Jefferson Parish,GA,Clayton,39
+2011,NV,Clark,GA,Clayton,45
+2011,IN,Marion,GA,Clayton,33
+2011,WI,Milwaukee,GA,Clayton,37
+2011,AL,Mobile,GA,Clayton,28
+2011,CA,San Diego,GA,Clayton,27
+2011,NC,Wake,GA,Clayton,35
+2011,OH,Franklin,GA,Clayton,40
+2011,TX,Tarrant,GA,Clayton,31
+2011,CA,Sacramento,GA,Clayton,24
+2011,HI,Honolulu,GA,Clayton,40
+2011,NY,Albany,GA,Clayton,29
+2011,NY,New York,GA,Clayton,25
+2011,SC,Beaufort,GA,Clayton,39
+2011,FL,Bay,GA,Clayton,30
+2011,MI,Oakland,GA,Clayton,27
+2011,CA,Alameda,GA,Clayton,18
+2011,CT,New Haven,GA,Clayton,25
+2011,FL,Polk,GA,Clayton,20
+2011,LA,East Baton Rouge Parish,GA,Clayton,22
+2011,NC,Durham,GA,Clayton,28
+2011,FL,Escambia,GA,Clayton,22
+2011,FL,Osceola,GA,Clayton,30
+2011,FL,Pinellas,GA,Clayton,21
+2011,KY,Jefferson,GA,Clayton,28
+2011,MA,Suffolk,GA,Clayton,15
+2011,NY,Nassau,GA,Clayton,27
+2011,NY,Suffolk,GA,Clayton,35
+2011,TN,Montgomery,GA,Clayton,20
+2011,TX,Bell,GA,Clayton,20
+2011,TX,Bexar,GA,Clayton,31
+2011,AL,Russell,GA,Clayton,20
+2011,CA,San Bernardino,GA,Clayton,27
+2011,FL,Manatee,GA,Clayton,22
+2011,IN,Lake,GA,Clayton,23
+2011,MD,Montgomery,GA,Clayton,20
+2011,NY,Westchester,GA,Clayton,23
+2011,NC,Onslow,GA,Clayton,27
+2011,TN,Hamilton,GA,Clayton,22
+2011,VA,Fairfax,GA,Clayton,15
+2011,VA,Virginia Beach city,GA,Clayton,33
+2011,AL,Macon,GA,Clayton,14
+2011,DC,District of Columbia,GA,Clayton,20
+2011,FL,St Lucie,GA,Clayton,21
+2011,MD,Baltimore,GA,Clayton,11
+2011,MI,Genesee,GA,Clayton,20
+2011,MS,Hinds,GA,Clayton,28
+2011,NY,Erie,GA,Clayton,24
+2011,NC,Guilford,GA,Clayton,19
+2011,PA,Allegheny,GA,Clayton,14
+2011,WA,Pierce,GA,Clayton,15
+2011,IL,Cook,GA,Cobb,454
+2011,FL,Miami Dade,GA,Cobb,323
+2011,FL,Broward,GA,Cobb,316
+2011,CA,Los Angeles,GA,Cobb,298
+2011,FL,Orange,GA,Cobb,245
+2011,KS,Sedgwick,GA,Cobb,292
+2011,NC,Mecklenburg,GA,Cobb,220
+2011,FL,Duval,GA,Cobb,198
+2011,FL,Hillsborough,GA,Cobb,230
+2011,AL,Jefferson,GA,Cobb,205
+2011,TX,Harris,GA,Cobb,199
+2011,AZ,Maricopa,GA,Cobb,201
+2011,FL,Palm Beach,GA,Cobb,180
+2011,NY,Kings,GA,Cobb,158
+2011,TN,Shelby,GA,Cobb,171
+2011,FL,Pinellas,GA,Cobb,147
+2011,NY,Queens,GA,Cobb,137
+2011,TN,Davidson,GA,Cobb,120
+2011,MI,Wayne,GA,Cobb,143
+2011,NV,Clark,GA,Cobb,125
+2011,MI,Oakland,GA,Cobb,123
+2011,OH,Cuyahoga,GA,Cobb,115
+2011,TX,Dallas,GA,Cobb,137
+2011,CA,San Diego,GA,Cobb,128
+2011,FL,Leon,GA,Cobb,89
+2011,NC,Wake,GA,Cobb,124
+2011,TX,Tarrant,GA,Cobb,120
+2011,OH,Hamilton,GA,Cobb,106
+2011,NY,Bronx,GA,Cobb,110
+2011,SC,Greenville,GA,Cobb,104
+2011,NY,Nassau,GA,Cobb,102
+2011,AL,Montgomery,GA,Cobb,100
+2011,AL,Madison,GA,Cobb,86
+2011,WA,King,GA,Cobb,95
+2011,MN,Hennepin,GA,Cobb,102
+2011,SC,Charleston,GA,Cobb,78
+2011,TN,Hamilton,GA,Cobb,73
+2011,NJ,Middlesex,GA,Cobb,91
+2011,NY,New York,GA,Cobb,75
+2011,VA,Fairfax,GA,Cobb,87
+2011,MO,St Louis,GA,Cobb,82
+2011,NY,Suffolk,GA,Cobb,98
+2011,MD,Montgomery,GA,Cobb,79
+2011,FL,Escambia,GA,Cobb,64
+2011,MD,Prince George's,GA,Cobb,86
+2011,NJ,Essex,GA,Cobb,75
+2011,PA,Philadelphia,GA,Cobb,70
+2011,SC,Richland,GA,Cobb,78
+2011,TX,Bexar,GA,Cobb,94
+2011,CA,Orange,GA,Cobb,76
+2011,TN,Knox,GA,Cobb,71
+2011,TX,Collin,GA,Cobb,81
+2011,CT,Fairfield,GA,Cobb,73
+2011,FL,Volusia,GA,Cobb,70
+2011,LA,Orleans Parish,GA,Cobb,63
+2011,NC,Guilford,GA,Cobb,65
+2011,AL,Shelby,GA,Cobb,71
+2011,NY,Westchester,GA,Cobb,80
+2011,OH,Franklin,GA,Cobb,75
+2011,FL,Lee,GA,Cobb,62
+2011,FL,Seminole,GA,Cobb,76
+2011,IL,Dupage,GA,Cobb,68
+2011,KY,Jefferson,GA,Cobb,76
+2011,MA,Middlesex,GA,Cobb,73
+2011,KS,Johnson,GA,Cobb,82
+2011,AL,Mobile,GA,Cobb,72
+2011,FL,Alachua,GA,Cobb,49
+2011,VA,Virginia Beach city,GA,Cobb,77
+2011,WI,Milwaukee,GA,Cobb,59
+2011,FL,Bay,GA,Cobb,69
+2011,IN,Marion,GA,Cobb,71
+2011,PA,Allegheny,GA,Cobb,52
+2011,FL,Brevard,GA,Cobb,61
+2011,CO,El Paso,GA,Cobb,57
+2011,NJ,Hudson,GA,Cobb,53
+2011,NC,Forsyth,GA,Cobb,59
+2011,OH,Montgomery,GA,Cobb,56
+2011,AL,Lee,GA,Cobb,39
+2011,CT,Hartford,GA,Cobb,50
+2011,LA,Jefferson Parish,GA,Cobb,47
+2011,MD,Baltimore,GA,Cobb,52
+2011,MD,Baltimore city,GA,Cobb,51
+2011,NC,Durham,GA,Cobb,70
+2011,TX,Travis,GA,Cobb,51
+2011,FL,Polk,GA,Cobb,54
+2011,LA,East Baton Rouge Parish,GA,Cobb,50
+2011,SC,Horry,GA,Cobb,44
+2011,TN,Rutherford,GA,Cobb,69
+2011,AR,Pulaski,GA,Cobb,54
+2011,MS,Hinds,GA,Cobb,41
+2011,FL,Okaloosa,GA,Cobb,35
+2011,FL,Sarasota,GA,Cobb,39
+2011,IL,Lake,GA,Cobb,55
+2011,NJ,Bergen,GA,Cobb,53
+2011,NY,Monroe,GA,Cobb,47
+2011,NC,Cumberland,GA,Cobb,43
+2011,TX,Denton,GA,Cobb,58
+2011,CA,Alameda,GA,Cobb,43
+2011,CA,San Bernardino,GA,Cobb,45
+2011,CT,New Haven,GA,Cobb,38
+2011,NY,Erie,GA,Cobb,44
+2011,NC,Onslow,GA,Cobb,49
+2011,CO,Arapahoe,GA,Cobb,40
+2011,DC,District of Columbia,GA,Cobb,35
+2011,FL,Collier,GA,Cobb,54
+2011,HI,Honolulu,GA,Cobb,43
+2011,MD,Anne Arundel,GA,Cobb,41
+2011,VA,Henrico,GA,Cobb,38
+2011,CA,Santa Clara,GA,Cobb,44
+2011,FL,Pasco,GA,Cobb,38
+2011,MI,Genesee,GA,Cobb,37
+2011,AL,Calhoun,GA,Cobb,36
+2011,SC,Beaufort,GA,Cobb,36
+2011,VA,Prince William,GA,Cobb,39
+2011,FL,St Lucie,GA,Cobb,32
+2011,IL,Will,GA,Cobb,44
+2011,KY,Fayette,GA,Cobb,41
+2011,VA,Newport News city,GA,Cobb,38
+2011,VA,Richmond city,GA,Cobb,29
+2011,AL,Baldwin,GA,Cobb,36
+2011,AL,Tuscaloosa,GA,Cobb,27
+2011,DE,New Castle,GA,Cobb,31
+2011,FL,Manatee,GA,Cobb,34
+2011,FL,St Johns,GA,Cobb,35
+2011,MI,Kent,GA,Cobb,42
+2011,MO,Jackson,GA,Cobb,34
+2011,NE,Douglas,GA,Cobb,35
+2011,OK,Oklahoma,GA,Cobb,42
+2011,SC,Spartanburg,GA,Cobb,40
+2011,VA,Norfolk city,GA,Cobb,45
+2011,FL,Clay,GA,Cobb,33
+2011,FL,Osceola,GA,Cobb,43
+2011,IL,Kane,GA,Cobb,38
+2011,IN,Allen,GA,Cobb,33
+2011,IN,St Joseph,GA,Cobb,43
+2011,MA,Norfolk,GA,Cobb,28
+2011,MS,Harrison,GA,Cobb,48
+2011,NJ,Union,GA,Cobb,39
+2011,OH,Summit,GA,Cobb,40
+2011,VA,Alexandria city,GA,Cobb,28
+2011,CA,Riverside,GA,Cobb,44
+2011,CO,Denver,GA,Cobb,24
+2011,FL,Marion,GA,Cobb,30
+2011,MA,Suffolk,GA,Cobb,34
+2011,OH,Butler,GA,Cobb,37
+2011,OK,Tulsa,GA,Cobb,25
+2011,SC,Florence,GA,Cobb,28
+2011,TN,Williamson,GA,Cobb,51
+2011,VA,Loudoun,GA,Cobb,35
+2011,FL,Santa Rosa,GA,Cobb,35
+2011,MI,Macomb,GA,Cobb,32
+2011,NJ,Camden,GA,Cobb,25
+2011,NY,Orange,GA,Cobb,29
+2011,NY,Schenectady,GA,Cobb,41
+2011,OH,Lucas,GA,Cobb,28
+2011,PA,Montgomery,GA,Cobb,31
+2011,FR,Foreign - Puerto Rico,GA,Cobb,36
+2011,AL,Etowah,GA,Cobb,20
+2011,AL,Russell,GA,Cobb,32
+2011,CA,Sacramento,GA,Cobb,30
+2011,MN,Dakota,GA,Cobb,34
+2011,NY,Onondaga,GA,Cobb,27
+2011,NC,Buncombe,GA,Cobb,26
+2011,SC,Dorchester,GA,Cobb,36
+2011,SC,Lexington,GA,Cobb,38
+2011,TN,Montgomery,GA,Cobb,19
+2011,TX,Bell,GA,Cobb,34
+2011,UT,Utah,GA,Cobb,40
+2011,AZ,Pima,GA,Cobb,31
+2011,AR,Benton,GA,Cobb,40
+2011,CO,Adams,GA,Cobb,23
+2011,LA,Caddo Parish,GA,Cobb,25
+2011,NM,Bernalillo,GA,Cobb,24
+2011,PA,Bucks,GA,Cobb,30
+2011,PA,Chester,GA,Cobb,21
+2011,RI,Providence,GA,Cobb,21
+2011,SC,Aiken,GA,Cobb,16
+2011,SC,Berkeley,GA,Cobb,32
+2011,CA,Fresno,GA,Cobb,20
+2011,CO,Jefferson,GA,Cobb,25
+2011,IN,Lake,GA,Cobb,20
+2011,MI,Ingham,GA,Cobb,20
+2011,MO,St Louis city,GA,Cobb,19
+2011,NH,Hillsborough,GA,Cobb,26
+2011,NJ,Burlington,GA,Cobb,28
+2011,NJ,Monmouth,GA,Cobb,27
+2011,NJ,Morris,GA,Cobb,26
+2011,NY,Richmond,GA,Cobb,27
+2011,NC,Iredell,GA,Cobb,25
+2011,PA,Delaware,GA,Cobb,26
+2011,PA,York,GA,Cobb,22
+2011,VA,Chesterfield,GA,Cobb,32
+2011,WA,Clark,GA,Cobb,31
+2011,WI,Dane,GA,Cobb,19
+2011,WI,Waukesha,GA,Cobb,31
+2011,AL,Houston,GA,Cobb,31
+2011,MA,Bristol,GA,Cobb,24
+2011,MA,Worcester,GA,Cobb,26
+2011,MI,Washtenaw,GA,Cobb,21
+2011,MO,St Charles,GA,Cobb,35
+2011,NY,Broome,GA,Cobb,19
+2011,NC,New Hanover,GA,Cobb,26
+2011,PA,Erie,GA,Cobb,20
+2011,VA,Chesapeake city,GA,Cobb,35
+2011,AL,Tallapoosa,GA,Cobb,21
+2011,CA,San Francisco,GA,Cobb,16
+2011,CA,San Joaquin,GA,Cobb,26
+2011,FL,Lake,GA,Cobb,27
+2011,FL,Nassau,GA,Cobb,17
+2011,IL,Peoria,GA,Cobb,21
+2011,MN,Ramsey,GA,Cobb,18
+2011,MS,Oktibbeha,GA,Cobb,13
+2011,NJ,Atlantic,GA,Cobb,23
+2011,NY,Albany,GA,Cobb,24
+2011,NC,Cabarrus,GA,Cobb,21
+2011,NC,Henderson,GA,Cobb,30
+2011,OH,Trumbull,GA,Cobb,24
+2011,OR,Multnomah,GA,Cobb,24
+2011,PA,Dauphin,GA,Cobb,27
+2011,TX,Montgomery,GA,Cobb,18
+2011,UT,Salt Lake,GA,Cobb,23
+2011,VA,Hampton city,GA,Cobb,23
+2011,CA,Ventura,GA,Cobb,22
+2011,FL,Hernando,GA,Cobb,19
+2011,FL,Walton,GA,Cobb,17
+2011,IN,Hamilton,GA,Cobb,25
+2011,IA,Polk,GA,Cobb,21
+2011,LA,Lafayette Parish,GA,Cobb,19
+2011,MD,Howard,GA,Cobb,22
+2011,MA,Hampden,GA,Cobb,16
+2011,MI,Kalamazoo,GA,Cobb,19
+2011,MS,Rankin,GA,Cobb,16
+2011,NJ,Passaic,GA,Cobb,18
+2011,OH,Clermont,GA,Cobb,23
+2011,OH,Medina,GA,Cobb,13
+2011,PA,Lancaster,GA,Cobb,14
+2011,TN,Bradley,GA,Cobb,16
+2011,TX,Brazoria,GA,Cobb,21
+2011,TX,Galveston,GA,Cobb,16
+2011,VA,Suffolk city,GA,Cobb,24
+2011,IL,Cook,GA,Dekalb,401
+2011,FL,Miami Dade,GA,Dekalb,388
+2011,FL,Broward,GA,Dekalb,338
+2011,CA,Los Angeles,GA,Dekalb,308
+2011,NC,Mecklenburg,GA,Dekalb,290
+2011,NY,Kings,GA,Dekalb,293
+2011,FL,Hillsborough,GA,Dekalb,246
+2011,FL,Orange,GA,Dekalb,238
+2011,NY,New York,GA,Dekalb,209
+2011,MI,Wayne,GA,Dekalb,192
+2011,NY,Queens,GA,Dekalb,235
+2011,FL,Duval,GA,Dekalb,185
+2011,AL,Jefferson,GA,Dekalb,208
+2011,TN,Davidson,GA,Dekalb,184
+2011,AL,Montgomery,GA,Dekalb,162
+2011,TX,Harris,GA,Dekalb,189
+2011,TX,Dallas,GA,Dekalb,167
+2011,FL,Palm Beach,GA,Dekalb,140
+2011,OH,Cuyahoga,GA,Dekalb,151
+2011,OH,Franklin,GA,Dekalb,165
+2011,TN,Shelby,GA,Dekalb,150
+2011,NC,Wake,GA,Dekalb,135
+2011,SC,Richland,GA,Dekalb,133
+2011,CA,San Diego,GA,Dekalb,136
+2011,AZ,Maricopa,GA,Dekalb,134
+2011,NV,Clark,GA,Dekalb,121
+2011,WA,King,GA,Dekalb,122
+2011,DC,District of Columbia,GA,Dekalb,121
+2011,FL,Pinellas,GA,Dekalb,110
+2011,PA,Philadelphia,GA,Dekalb,125
+2011,SC,Charleston,GA,Dekalb,115
+2011,MS,Hinds,GA,Dekalb,108
+2011,FL,Leon,GA,Dekalb,104
+2011,LA,Orleans Parish,GA,Dekalb,117
+2011,VA,Fairfax,GA,Dekalb,107
+2011,NY,Bronx,GA,Dekalb,106
+2011,NJ,Essex,GA,Dekalb,113
+2011,IN,Marion,GA,Dekalb,128
+2011,OH,Hamilton,GA,Dekalb,110
+2011,MA,Middlesex,GA,Dekalb,83
+2011,NC,Guilford,GA,Dekalb,75
+2011,SC,Greenville,GA,Dekalb,89
+2011,CA,Alameda,GA,Dekalb,85
+2011,MI,Oakland,GA,Dekalb,82
+2011,KY,Jefferson,GA,Dekalb,64
+2011,NC,Durham,GA,Dekalb,93
+2011,PA,Allegheny,GA,Dekalb,89
+2011,TN,Knox,GA,Dekalb,75
+2011,MD,Montgomery,GA,Dekalb,72
+2011,MD,Prince George's,GA,Dekalb,88
+2011,WI,Milwaukee,GA,Dekalb,84
+2011,FL,Alachua,GA,Dekalb,67
+2011,MN,Hennepin,GA,Dekalb,78
+2011,NY,Nassau,GA,Dekalb,67
+2011,TN,Hamilton,GA,Dekalb,60
+2011,AL,Madison,GA,Dekalb,69
+2011,LA,East Baton Rouge Parish,GA,Dekalb,68
+2011,TX,Travis,GA,Dekalb,69
+2011,FL,Escambia,GA,Dekalb,59
+2011,MD,Baltimore city,GA,Dekalb,65
+2011,MA,Suffolk,GA,Dekalb,73
+2011,MO,St Louis,GA,Dekalb,73
+2011,NY,Erie,GA,Dekalb,66
+2011,NC,Cumberland,GA,Dekalb,56
+2011,TX,Tarrant,GA,Dekalb,77
+2011,AL,Mobile,GA,Dekalb,72
+2011,TX,Collin,GA,Dekalb,66
+2011,AL,Lee,GA,Dekalb,55
+2011,OH,Montgomery,GA,Dekalb,64
+2011,CA,San Francisco,GA,Dekalb,49
+2011,FL,Lee,GA,Dekalb,57
+2011,NJ,Hudson,GA,Dekalb,57
+2011,NY,Westchester,GA,Dekalb,60
+2011,CA,Orange,GA,Dekalb,62
+2011,CO,Denver,GA,Dekalb,62
+2011,FL,Seminole,GA,Dekalb,56
+2011,FL,Volusia,GA,Dekalb,48
+2011,TX,Bexar,GA,Dekalb,66
+2011,CT,New Haven,GA,Dekalb,53
+2011,VA,Virginia Beach city,GA,Dekalb,53
+2011,CT,Hartford,GA,Dekalb,62
+2011,FL,Polk,GA,Dekalb,54
+2011,IL,Dupage,GA,Dekalb,59
+2011,MO,Jackson,GA,Dekalb,55
+2011,NY,Monroe,GA,Dekalb,68
+2011,PA,Montgomery,GA,Dekalb,44
+2011,AL,Tuscaloosa,GA,Dekalb,42
+2011,CA,San Bernardino,GA,Dekalb,60
+2011,CT,Fairfield,GA,Dekalb,54
+2011,MD,Baltimore,GA,Dekalb,57
+2011,NC,Buncombe,GA,Dekalb,49
+2011,SC,Beaufort,GA,Dekalb,64
+2011,CA,Santa Clara,GA,Dekalb,48
+2011,IL,Lake,GA,Dekalb,67
+2011,NC,Orange,GA,Dekalb,45
+2011,AL,Shelby,GA,Dekalb,44
+2011,FL,Brevard,GA,Dekalb,39
+2011,NY,Suffolk,GA,Dekalb,51
+2011,OH,Lucas,GA,Dekalb,45
+2011,VA,Norfolk city,GA,Dekalb,43
+2011,NC,Forsyth,GA,Dekalb,57
+2011,OR,Multnomah,GA,Dekalb,36
+2011,VA,Henrico,GA,Dekalb,46
+2011,VA,Newport News city,GA,Dekalb,50
+2011,LA,Jefferson Parish,GA,Dekalb,48
+2011,MO,St Louis city,GA,Dekalb,38
+2011,NJ,Bergen,GA,Dekalb,46
+2011,OK,Oklahoma,GA,Dekalb,43
+2011,SC,Lexington,GA,Dekalb,37
+2011,UT,Salt Lake,GA,Dekalb,54
+2011,MA,Norfolk,GA,Dekalb,38
+2011,MI,Genesee,GA,Dekalb,49
+2011,VA,Hampton city,GA,Dekalb,43
+2011,HI,Honolulu,GA,Dekalb,43
+2011,NJ,Middlesex,GA,Dekalb,56
+2011,VA,Arlington,GA,Dekalb,28
+2011,MI,Washtenaw,GA,Dekalb,38
+2011,NJ,Burlington,GA,Dekalb,45
+2011,NC,New Hanover,GA,Dekalb,38
+2011,SC,Spartanburg,GA,Dekalb,36
+2011,TX,Bell,GA,Dekalb,35
+2011,AZ,Pima,GA,Dekalb,28
+2011,CA,Sacramento,GA,Dekalb,50
+2011,FL,Bay,GA,Dekalb,41
+2011,FL,Sarasota,GA,Dekalb,32
+2011,VA,Prince William,GA,Dekalb,32
+2011,WI,Dane,GA,Dekalb,43
+2011,CA,Riverside,GA,Dekalb,38
+2011,FL,Collier,GA,Dekalb,27
+2011,KY,Fayette,GA,Dekalb,34
+2011,VA,Richmond city,GA,Dekalb,27
+2011,DE,New Castle,GA,Dekalb,35
+2011,FL,Okaloosa,GA,Dekalb,28
+2011,FL,St Lucie,GA,Dekalb,28
+2011,IN,Allen,GA,Dekalb,35
+2011,IN,Lake,GA,Dekalb,39
+2011,KS,Johnson,GA,Dekalb,36
+2011,NY,Onondaga,GA,Dekalb,31
+2011,SC,Anderson,GA,Dekalb,31
+2011,AL,Russell,GA,Dekalb,35
+2011,AR,Pulaski,GA,Dekalb,24
+2011,FL,Marion,GA,Dekalb,31
+2011,FL,St Johns,GA,Dekalb,34
+2011,MN,Ramsey,GA,Dekalb,41
+2011,NM,Bernalillo,GA,Dekalb,26
+2011,AL,Coffee,GA,Dekalb,27
+2011,NJ,Union,GA,Dekalb,36
+2011,OH,Summit,GA,Dekalb,39
+2011,SC,Horry,GA,Dekalb,43
+2011,SC,York,GA,Dekalb,24
+2011,FR,Foreign - Puerto Rico,GA,Dekalb,27
+2011,KS,Sedgwick,GA,Dekalb,32
+2011,MA,Essex,GA,Dekalb,33
+2011,MI,Macomb,GA,Dekalb,26
+2011,NJ,Mercer,GA,Dekalb,29
+2011,NY,Albany,GA,Dekalb,34
+2011,CA,Contra Costa,GA,Dekalb,33
+2011,FL,Manatee,GA,Dekalb,33
+2011,RI,Providence,GA,Dekalb,26
+2011,SC,Aiken,GA,Dekalb,20
+2011,SC,Orangeburg,GA,Dekalb,24
+2011,TX,Fort Bend,GA,Dekalb,33
+2011,AL,Baldwin,GA,Dekalb,19
+2011,AL,Calhoun,GA,Dekalb,21
+2011,CA,San Mateo,GA,Dekalb,21
+2011,FL,Lake,GA,Dekalb,22
+2011,FL,Pasco,GA,Dekalb,23
+2011,MD,Anne Arundel,GA,Dekalb,25
+2011,MI,Ingham,GA,Dekalb,34
+2011,MI,Kent,GA,Dekalb,23
+2011,NE,Douglas,GA,Dekalb,26
+2011,PA,Erie,GA,Dekalb,19
+2011,SC,Florence,GA,Dekalb,25
+2011,TN,Rutherford,GA,Dekalb,24
+2011,CO,Boulder,GA,Dekalb,26
+2011,IA,Polk,GA,Dekalb,20
+2011,NJ,Monmouth,GA,Dekalb,19
+2011,PA,Bucks,GA,Dekalb,23
+2011,TX,Denton,GA,Dekalb,26
+2011,VA,Alexandria city,GA,Dekalb,21
+2011,CO,Arapahoe,GA,Dekalb,23
+2011,MD,Howard,GA,Dekalb,27
+2011,MN,Dakota,GA,Dekalb,33
+2011,MS,Rankin,GA,Dekalb,21
+2011,NJ,Somerset,GA,Dekalb,19
+2011,NY,Rockland,GA,Dekalb,22
+2011,OH,Butler,GA,Dekalb,19
+2011,PA,Dauphin,GA,Dekalb,27
+2011,PA,Delaware,GA,Dekalb,22
+2011,SC,Berkeley,GA,Dekalb,16
+2011,SC,Dorchester,GA,Dekalb,21
+2011,VA,Loudoun,GA,Dekalb,26
+2011,WA,Pierce,GA,Dekalb,21
+2011,CO,El Paso,GA,Dekalb,23
+2011,FL,Osceola,GA,Dekalb,20
+2011,LA,Caddo Parish,GA,Dekalb,21
+2011,MS,Madison,GA,Dekalb,20
+2011,NJ,Atlantic,GA,Dekalb,32
+2011,NY,Orange,GA,Dekalb,20
+2011,PA,Lehigh,GA,Dekalb,20
+2011,SC,Georgetown,GA,Dekalb,21
+2011,TN,Montgomery,GA,Dekalb,23
+2011,TX,Jefferson,GA,Dekalb,15
+2011,VA,Chesapeake city,GA,Dekalb,19
+2011,CA,Ventura,GA,Dekalb,25
+2011,FL,Indian River,GA,Dekalb,22
+2011,IL,Champaign,GA,Dekalb,18
+2011,MA,Plymouth,GA,Dekalb,26
+2011,NJ,Camden,GA,Dekalb,20
+2011,NJ,Morris,GA,Dekalb,18
+2011,NJ,Ocean,GA,Dekalb,16
+2011,NC,Onslow,GA,Dekalb,21
+2011,OK,Tulsa,GA,Dekalb,18
+2011,AK,Anchorage Municipality,GA,Dekalb,14
+2011,FL,Flagler,GA,Dekalb,14
+2011,IL,Will,GA,Dekalb,18
+2011,MA,Bristol,GA,Dekalb,15
+2011,MI,Kalamazoo,GA,Dekalb,15
+2011,MS,Forrest,GA,Dekalb,16
+2011,MS,Washington,GA,Dekalb,17
+2011,MO,Clay,GA,Dekalb,13
+2011,NC,Davidson,GA,Dekalb,18
+2011,SC,Pickens,GA,Dekalb,13
+2011,SC,Sumter,GA,Dekalb,16
+2011,TN,Sullivan,GA,Dekalb,14
+2011,TX,El Paso,GA,Dekalb,30
+2011,IL,Cook,GA,Fulton,728
+2011,CA,Los Angeles,GA,Fulton,598
+2011,FL,Miami Dade,GA,Fulton,599
+2011,FL,Broward,GA,Fulton,501
+2011,NC,Mecklenburg,GA,Fulton,472
+2011,FL,Hillsborough,GA,Fulton,394
+2011,NY,New York,GA,Fulton,344
+2011,FL,Orange,GA,Fulton,342
+2011,NY,Kings,GA,Fulton,331
+2011,TX,Dallas,GA,Fulton,334
+2011,TN,Davidson,GA,Fulton,308
+2011,AL,Jefferson,GA,Fulton,315
+2011,FL,Duval,GA,Fulton,304
+2011,FL,Palm Beach,GA,Fulton,273
+2011,TX,Harris,GA,Fulton,286
+2011,MI,Wayne,GA,Fulton,265
+2011,OH,Cuyahoga,GA,Fulton,272
+2011,PA,Philadelphia,GA,Fulton,250
+2011,TN,Shelby,GA,Fulton,251
+2011,NC,Wake,GA,Fulton,249
+2011,AZ,Maricopa,GA,Fulton,271
+2011,AL,Montgomery,GA,Fulton,208
+2011,DC,District of Columbia,GA,Fulton,182
+2011,FL,Leon,GA,Fulton,209
+2011,SC,Richland,GA,Fulton,219
+2011,NY,Queens,GA,Fulton,212
+2011,CA,San Diego,GA,Fulton,217
+2011,OH,Franklin,GA,Fulton,183
+2011,MI,Oakland,GA,Fulton,163
+2011,FL,Pinellas,GA,Fulton,173
+2011,SC,Greenville,GA,Fulton,187
+2011,SC,Charleston,GA,Fulton,172
+2011,MD,Prince George's,GA,Fulton,170
+2011,CA,Alameda,GA,Fulton,179
+2011,WA,King,GA,Fulton,175
+2011,MA,Middlesex,GA,Fulton,170
+2011,VA,Fairfax,GA,Fulton,178
+2011,OH,Hamilton,GA,Fulton,163
+2011,MA,Suffolk,GA,Fulton,124
+2011,AL,Lee,GA,Fulton,116
+2011,FL,Alachua,GA,Fulton,119
+2011,MD,Montgomery,GA,Fulton,149
+2011,NY,Bronx,GA,Fulton,164
+2011,NJ,Middlesex,GA,Fulton,165
+2011,CA,Orange,GA,Fulton,172
+2011,TN,Hamilton,GA,Fulton,124
+2011,FL,Seminole,GA,Fulton,141
+2011,MN,Hennepin,GA,Fulton,121
+2011,PA,Allegheny,GA,Fulton,137
+2011,MD,Baltimore city,GA,Fulton,118
+2011,NV,Clark,GA,Fulton,154
+2011,NC,Durham,GA,Fulton,102
+2011,IN,Marion,GA,Fulton,112
+2011,NC,Guilford,GA,Fulton,120
+2011,AL,Mobile,GA,Fulton,122
+2011,KY,Jefferson,GA,Fulton,131
+2011,LA,Orleans Parish,GA,Fulton,110
+2011,NY,Monroe,GA,Fulton,119
+2011,WI,Milwaukee,GA,Fulton,123
+2011,FL,Escambia,GA,Fulton,90
+2011,AL,Madison,GA,Fulton,115
+2011,MO,St Louis,GA,Fulton,123
+2011,NY,Nassau,GA,Fulton,101
+2011,TX,Travis,GA,Fulton,104
+2011,IL,Dupage,GA,Fulton,114
+2011,NJ,Bergen,GA,Fulton,119
+2011,TX,Collin,GA,Fulton,118
+2011,TN,Knox,GA,Fulton,98
+2011,CA,San Francisco,GA,Fulton,88
+2011,CA,Santa Clara,GA,Fulton,114
+2011,NJ,Essex,GA,Fulton,106
+2011,NJ,Hudson,GA,Fulton,91
+2011,TX,Tarrant,GA,Fulton,108
+2011,CT,Fairfield,GA,Fulton,125
+2011,MD,Baltimore,GA,Fulton,91
+2011,FL,Lee,GA,Fulton,104
+2011,FL,Volusia,GA,Fulton,93
+2011,DE,New Castle,GA,Fulton,96
+2011,LA,East Baton Rouge Parish,GA,Fulton,82
+2011,VA,Virginia Beach city,GA,Fulton,94
+2011,FL,Brevard,GA,Fulton,89
+2011,OH,Montgomery,GA,Fulton,107
+2011,VA,Arlington,GA,Fulton,75
+2011,MS,Hinds,GA,Fulton,93
+2011,NY,Erie,GA,Fulton,83
+2011,NY,Westchester,GA,Fulton,95
+2011,FL,Polk,GA,Fulton,84
+2011,NY,Suffolk,GA,Fulton,94
+2011,CT,Hartford,GA,Fulton,96
+2011,LA,Jefferson Parish,GA,Fulton,75
+2011,RI,Providence,GA,Fulton,75
+2011,AL,Shelby,GA,Fulton,84
+2011,CO,Denver,GA,Fulton,68
+2011,MD,Anne Arundel,GA,Fulton,74
+2011,TX,Bexar,GA,Fulton,77
+2011,AR,Pulaski,GA,Fulton,81
+2011,FL,Sarasota,GA,Fulton,70
+2011,CA,San Bernardino,GA,Fulton,79
+2011,MO,Jackson,GA,Fulton,80
+2011,MA,Norfolk,GA,Fulton,74
+2011,VA,Henrico,GA,Fulton,68
+2011,CA,Contra Costa,GA,Fulton,81
+2011,CT,New Haven,GA,Fulton,62
+2011,FL,Manatee,GA,Fulton,53
+2011,PA,Montgomery,GA,Fulton,70
+2011,TX,Denton,GA,Fulton,100
+2011,MO,St Louis city,GA,Fulton,59
+2011,NE,Douglas,GA,Fulton,76
+2011,IL,Lake,GA,Fulton,81
+2011,PA,Delaware,GA,Fulton,69
+2011,AL,Tuscaloosa,GA,Fulton,46
+2011,OR,Lane,GA,Fulton,38
+2011,SC,Lexington,GA,Fulton,70
+2011,FL,Collier,GA,Fulton,44
+2011,NC,Cumberland,GA,Fulton,58
+2011,NC,Forsyth,GA,Fulton,66
+2011,SC,Dorchester,GA,Fulton,56
+2011,VA,Norfolk city,GA,Fulton,60
+2011,CA,Riverside,GA,Fulton,59
+2011,FL,Okaloosa,GA,Fulton,46
+2011,MI,Macomb,GA,Fulton,55
+2011,NC,Buncombe,GA,Fulton,46
+2011,SC,Beaufort,GA,Fulton,54
+2011,NJ,Union,GA,Fulton,58
+2011,NY,Onondaga,GA,Fulton,58
+2011,VA,Hampton city,GA,Fulton,50
+2011,MI,Washtenaw,GA,Fulton,42
+2011,NC,Orange,GA,Fulton,42
+2011,OR,Multnomah,GA,Fulton,42
+2011,PA,Chester,GA,Fulton,67
+2011,VA,Loudoun,GA,Fulton,72
+2011,VA,Prince William,GA,Fulton,58
+2011,VA,Richmond city,GA,Fulton,62
+2011,CA,Sacramento,GA,Fulton,47
+2011,NJ,Somerset,GA,Fulton,56
+2011,TN,Rutherford,GA,Fulton,41
+2011,FL,St Johns,GA,Fulton,53
+2011,KS,Johnson,GA,Fulton,67
+2011,NC,New Hanover,GA,Fulton,43
+2011,FL,Pasco,GA,Fulton,51
+2011,IL,Kane,GA,Fulton,73
+2011,MD,Howard,GA,Fulton,58
+2011,NJ,Morris,GA,Fulton,56
+2011,WI,Dane,GA,Fulton,47
+2011,AL,Russell,GA,Fulton,41
+2011,HI,Honolulu,GA,Fulton,48
+2011,KY,Fayette,GA,Fulton,44
+2011,NC,Union,GA,Fulton,64
+2011,OH,Summit,GA,Fulton,46
+2011,OK,Oklahoma,GA,Fulton,52
+2011,SC,Anderson,GA,Fulton,35
+2011,VA,Alexandria city,GA,Fulton,34
+2011,IN,Lake,GA,Fulton,40
+2011,MA,Essex,GA,Fulton,45
+2011,NC,Davidson,GA,Fulton,34
+2011,OH,Lucas,GA,Fulton,40
+2011,SC,Spartanburg,GA,Fulton,41
+2011,TN,Williamson,GA,Fulton,49
+2011,VA,Newport News city,GA,Fulton,44
+2011,AZ,Pima,GA,Fulton,45
+2011,MN,Dakota,GA,Fulton,58
+2011,MN,Ramsey,GA,Fulton,37
+2011,NC,Onslow,GA,Fulton,42
+2011,CO,Arapahoe,GA,Fulton,56
+2011,IN,Hamilton,GA,Fulton,54
+2011,MI,Genesee,GA,Fulton,37
+2011,NJ,Mercer,GA,Fulton,42
+2011,SC,Aiken,GA,Fulton,34
+2011,TX,El Paso,GA,Fulton,35
+2011,AR,Benton,GA,Fulton,50
+2011,FL,Clay,GA,Fulton,47
+2011,FL,Osceola,GA,Fulton,50
+2011,IL,Will,GA,Fulton,50
+2011,KS,Sedgwick,GA,Fulton,47
+2011,MI,Kent,GA,Fulton,35
+2011,NM,Bernalillo,GA,Fulton,44
+2011,NC,Cabarrus,GA,Fulton,34
+2011,PA,Bucks,GA,Fulton,42
+2011,SC,Horry,GA,Fulton,36
+2011,MA,Worcester,GA,Fulton,37
+2011,NJ,Camden,GA,Fulton,42
+2011,OH,Butler,GA,Fulton,42
+2011,SC,York,GA,Fulton,33
+2011,UT,Salt Lake,GA,Fulton,44
+2011,WA,Pierce,GA,Fulton,32
+2011,FL,Bay,GA,Fulton,36
+2011,FL,Lake,GA,Fulton,41
+2011,FL,St Lucie,GA,Fulton,31
+2011,NJ,Burlington,GA,Fulton,40
+2011,TX,Fort Bend,GA,Fulton,47
+2011,AL,Calhoun,GA,Fulton,31
+2011,AR,Jefferson,GA,Fulton,25
+2011,CO,Boulder,GA,Fulton,38
+2011,CO,El Paso,GA,Fulton,44
+2011,IN,Tippecanoe,GA,Fulton,31
+2011,NH,Hillsborough,GA,Fulton,35
+2011,SC,Orangeburg,GA,Fulton,26
+2011,VA,Chesapeake city,GA,Fulton,32
+2011,CA,San Mateo,GA,Fulton,45
+2011,CA,Ventura,GA,Fulton,30
+2011,FL,Martin,GA,Fulton,25
+2011,LA,Caddo Parish,GA,Fulton,37
+2011,MS,Harrison,GA,Fulton,30
+2011,MS,Madison,GA,Fulton,28
+2011,NJ,Passaic,GA,Fulton,38
+2011,OK,Tulsa,GA,Fulton,34
+2011,IN,St Joseph,GA,Fulton,29
+2011,ME,Cumberland,GA,Fulton,32
+2011,MI,Ingham,GA,Fulton,24
+2011,OR,Washington,GA,Fulton,34
+2011,TX,Bell,GA,Fulton,32
+2011,VA,Albemarle,GA,Fulton,39
+2011,AL,Baldwin,GA,Fulton,25
+2011,IA,Polk,GA,Fulton,22
+2011,LA,Lafayette Parish,GA,Fulton,29
+2011,OH,Greene,GA,Fulton,32
+2011,OH,Warren,GA,Fulton,50
+2011,SC,Pickens,GA,Fulton,23
+2011,FL,Indian River,GA,Fulton,23
+2011,FL,Marion,GA,Fulton,27
+2011,IL,Peoria,GA,Fulton,25
+2011,IN,Allen,GA,Fulton,25
+2011,MO,St Charles,GA,Fulton,33
+2011,NJ,Monmouth,GA,Fulton,25
+2011,NY,Albany,GA,Fulton,29
+2011,SC,Berkeley,GA,Fulton,35
+2011,AL,Houston,GA,Fulton,23
+2011,FL,Flagler,GA,Fulton,20
+2011,NC,Pitt,GA,Fulton,21
+2011,NC,Rowan,GA,Fulton,21
+2011,PA,Dauphin,GA,Fulton,31
+2011,TN,Montgomery,GA,Fulton,21
+2011,TN,Sullivan,GA,Fulton,23
+2011,TX,Montgomery,GA,Fulton,27
+2011,CO,Adams,GA,Fulton,27
+2011,FL,Hernando,GA,Fulton,21
+2011,FL,Santa Rosa,GA,Fulton,26
+2011,IL,Champaign,GA,Fulton,24
+2011,IA,Johnson,GA,Fulton,18
+2011,NV,Washoe,GA,Fulton,26
+2011,NY,Orange,GA,Fulton,21
+2011,NY,Richmond,GA,Fulton,18
+2011,NC,Gaston,GA,Fulton,18
+2011,PA,Erie,GA,Fulton,19
+2011,PA,Luzerne,GA,Fulton,24
+2011,SC,Greenwood,GA,Fulton,26
+2011,SC,Oconee,GA,Fulton,23
+2011,VA,Montgomery,GA,Fulton,17
+2011,WA,Snohomish,GA,Fulton,25
+2011,AL,Etowah,GA,Fulton,18
+2011,CA,Santa Barbara,GA,Fulton,23
+2011,IL,St Clair,GA,Fulton,26
+2011,LA,St Tammany Parish,GA,Fulton,29
+2011,MD,Charles,GA,Fulton,20
+2011,NJ,Atlantic,GA,Fulton,25
+2011,NJ,Ocean,GA,Fulton,22
+2011,SC,Sumter,GA,Fulton,21
+2011,WY,Laramie,GA,Fulton,20
+2011,AL,Chambers,GA,Fulton,22
+2011,AL,Elmore,GA,Fulton,17
+2011,CT,New London,GA,Fulton,25
+2011,IA,Scott,GA,Fulton,20
+2011,MA,Bristol,GA,Fulton,17
+2011,MA,Hampden,GA,Fulton,16
+2011,MS,Lauderdale,GA,Fulton,20
+2011,MS,Rankin,GA,Fulton,27
+2011,OH,Delaware,GA,Fulton,29
+2011,OH,Lorain,GA,Fulton,27
+2011,OH,Mahoning,GA,Fulton,22
+2011,TN,Bradley,GA,Fulton,21
+2011,TX,Williamson,GA,Fulton,35
+2011,VA,Chesterfield,GA,Fulton,25
+2011,VA,Charlottesville city,GA,Fulton,19
+2011,WI,Waukesha,GA,Fulton,28
+2011,CO,Douglas,GA,Fulton,27
+2011,DE,Kent,GA,Fulton,17
+2011,IL,Madison,GA,Fulton,19
+2011,IL,Winnebago,GA,Fulton,20
+2011,MS,Desoto,GA,Fulton,23
+2011,MS,Lowndes,GA,Fulton,26
+2011,PA,Northampton,GA,Fulton,15
+2011,SC,Florence,GA,Fulton,24
+2011,UT,Utah,GA,Fulton,30
+2011,WV,Logan,GA,Fulton,12
+2011,FR,Foreign - Puerto Rico,GA,Fulton,18
+2011,AL,Dallas,GA,Fulton,22
+2011,CA,Fresno,GA,Fulton,17
+2011,CA,Kern,GA,Fulton,21
+2011,CO,Jefferson,GA,Fulton,20
+2011,CO,Larimer,GA,Fulton,15
+2011,FL,Monroe,GA,Fulton,14
+2011,IL,Mchenry,GA,Fulton,28
+2011,IN,Monroe,GA,Fulton,18
+2011,MS,Oktibbeha,GA,Fulton,14
+2011,NJ,Gloucester,GA,Fulton,16
+2011,NY,Saratoga,GA,Fulton,13
+2011,PA,Berks,GA,Fulton,19
+2011,TX,Brazos,GA,Fulton,13
+2011,TX,Hidalgo,GA,Fulton,16
+2011,VA,Roanoke,GA,Fulton,25
+2011,WA,Clark,GA,Fulton,20
+2011,AL,Autauga,GA,Fulton,14
+2011,AL,Coffee,GA,Fulton,14
+2011,AL,St Clair,GA,Fulton,15
+2011,CT,Litchfield,GA,Fulton,14
+2011,FL,Nassau,GA,Fulton,16
+2011,FL,Walton,GA,Fulton,15
+2011,IN,Vanderburgh,GA,Fulton,11
+2011,MI,Kalamazoo,GA,Fulton,20
+2011,NY,Ulster,GA,Fulton,19
+2011,OH,Portage,GA,Fulton,11
+2011,PA,Westmoreland,GA,Fulton,12
+2011,TN,Washington,GA,Fulton,13
+2011,FL,Broward,GA,Gwinnett,439
+2011,FL,Miami Dade,GA,Gwinnett,450
+2011,CA,Los Angeles,GA,Gwinnett,391
+2011,IL,Cook,GA,Gwinnett,336
+2011,NY,Queens,GA,Gwinnett,276
+2011,PA,Erie,GA,Gwinnett,148
+2011,FL,Orange,GA,Gwinnett,227
+2011,NY,Kings,GA,Gwinnett,233
+2011,FL,Hillsborough,GA,Gwinnett,208
+2011,NY,Bronx,GA,Gwinnett,234
+2011,FL,Duval,GA,Gwinnett,215
+2011,TX,Harris,GA,Gwinnett,247
+2011,NC,Mecklenburg,GA,Gwinnett,203
+2011,FL,Palm Beach,GA,Gwinnett,186
+2011,TX,Dallas,GA,Gwinnett,178
+2011,MI,Wayne,GA,Gwinnett,149
+2011,AL,Jefferson,GA,Gwinnett,171
+2011,TN,Shelby,GA,Gwinnett,158
+2011,OH,Montgomery,GA,Gwinnett,167
+2011,PA,Philadelphia,GA,Gwinnett,133
+2011,TN,Davidson,GA,Gwinnett,130
+2011,OH,Cuyahoga,GA,Gwinnett,127
+2011,AZ,Maricopa,GA,Gwinnett,136
+2011,SC,Greenville,GA,Gwinnett,139
+2011,NY,New York,GA,Gwinnett,107
+2011,NV,Clark,GA,Gwinnett,132
+2011,NJ,Essex,GA,Gwinnett,118
+2011,FL,Seminole,GA,Gwinnett,122
+2011,CA,Orange,GA,Gwinnett,111
+2011,NY,Nassau,GA,Gwinnett,121
+2011,NJ,Middlesex,GA,Gwinnett,124
+2011,VA,Fairfax,GA,Gwinnett,101
+2011,CA,San Diego,GA,Gwinnett,96
+2011,FL,Pinellas,GA,Gwinnett,105
+2011,MD,Prince George's,GA,Gwinnett,99
+2011,TX,Tarrant,GA,Gwinnett,105
+2011,NC,Wake,GA,Gwinnett,106
+2011,OH,Franklin,GA,Gwinnett,97
+2011,FL,Volusia,GA,Gwinnett,99
+2011,SC,Richland,GA,Gwinnett,84
+2011,IN,Marion,GA,Gwinnett,105
+2011,FL,Escambia,GA,Gwinnett,83
+2011,FL,Polk,GA,Gwinnett,84
+2011,CA,San Bernardino,GA,Gwinnett,99
+2011,FL,Leon,GA,Gwinnett,73
+2011,MI,Oakland,GA,Gwinnett,88
+2011,NY,Suffolk,GA,Gwinnett,84
+2011,MD,Montgomery,GA,Gwinnett,90
+2011,MD,Baltimore,GA,Gwinnett,86
+2011,NY,Erie,GA,Gwinnett,96
+2011,KY,Jefferson,GA,Gwinnett,77
+2011,NJ,Hudson,GA,Gwinnett,81
+2011,AL,Montgomery,GA,Gwinnett,65
+2011,FL,Brevard,GA,Gwinnett,66
+2011,NC,Onslow,GA,Gwinnett,81
+2011,WA,King,GA,Gwinnett,74
+2011,CT,Fairfield,GA,Gwinnett,74
+2011,CT,Hartford,GA,Gwinnett,65
+2011,TN,Hamilton,GA,Gwinnett,80
+2011,TX,Bexar,GA,Gwinnett,76
+2011,IL,Dupage,GA,Gwinnett,87
+2011,MS,Hinds,GA,Gwinnett,48
+2011,AL,Lee,GA,Gwinnett,63
+2011,CA,Riverside,GA,Gwinnett,72
+2011,MO,St Louis,GA,Gwinnett,60
+2011,NY,Westchester,GA,Gwinnett,68
+2011,NC,Guilford,GA,Gwinnett,72
+2011,VA,Norfolk city,GA,Gwinnett,59
+2011,WI,Milwaukee,GA,Gwinnett,68
+2011,NC,Forsyth,GA,Gwinnett,66
+2011,NJ,Union,GA,Gwinnett,66
+2011,SC,Charleston,GA,Gwinnett,49
+2011,VA,Virginia Beach city,GA,Gwinnett,72
+2011,LA,Jefferson Parish,GA,Gwinnett,60
+2011,PA,Allegheny,GA,Gwinnett,50
+2011,SC,Horry,GA,Gwinnett,60
+2011,TN,Knox,GA,Gwinnett,65
+2011,VA,Prince William,GA,Gwinnett,61
+2011,FL,Lee,GA,Gwinnett,64
+2011,FL,Pasco,GA,Gwinnett,51
+2011,MA,Middlesex,GA,Gwinnett,67
+2011,NJ,Bergen,GA,Gwinnett,61
+2011,OH,Hamilton,GA,Gwinnett,66
+2011,TX,Denton,GA,Gwinnett,66
+2011,NC,Buncombe,GA,Gwinnett,50
+2011,SC,Lexington,GA,Gwinnett,61
+2011,AL,Mobile,GA,Gwinnett,57
+2011,CO,El Paso,GA,Gwinnett,62
+2011,IN,Lake,GA,Gwinnett,64
+2011,MN,Hennepin,GA,Gwinnett,59
+2011,TX,Bell,GA,Gwinnett,64
+2011,MD,Baltimore city,GA,Gwinnett,46
+2011,OH,Warren,GA,Gwinnett,64
+2011,PA,Montgomery,GA,Gwinnett,59
+2011,TX,Travis,GA,Gwinnett,52
+2011,FL,Alachua,GA,Gwinnett,54
+2011,AL,Madison,GA,Gwinnett,40
+2011,CT,New Haven,GA,Gwinnett,67
+2011,FL,Bay,GA,Gwinnett,51
+2011,AZ,Pima,GA,Gwinnett,52
+2011,CA,Sacramento,GA,Gwinnett,66
+2011,CA,Santa Clara,GA,Gwinnett,48
+2011,LA,East Baton Rouge Parish,GA,Gwinnett,41
+2011,NC,Cumberland,GA,Gwinnett,42
+2011,RI,Providence,GA,Gwinnett,51
+2011,SC,Beaufort,GA,Gwinnett,45
+2011,HI,Honolulu,GA,Gwinnett,55
+2011,MO,Jackson,GA,Gwinnett,39
+2011,NJ,Passaic,GA,Gwinnett,49
+2011,TX,Collin,GA,Gwinnett,50
+2011,FR,Foreign - Puerto Rico,GA,Gwinnett,66
+2011,MI,Macomb,GA,Gwinnett,53
+2011,NJ,Somerset,GA,Gwinnett,48
+2011,NY,Onondaga,GA,Gwinnett,49
+2011,OH,Summit,GA,Gwinnett,51
+2011,VA,Newport News city,GA,Gwinnett,46
+2011,FL,Sarasota,GA,Gwinnett,42
+2011,MD,Anne Arundel,GA,Gwinnett,42
+2011,NY,Monroe,GA,Gwinnett,43
+2011,OK,Oklahoma,GA,Gwinnett,45
+2011,FL,Osceola,GA,Gwinnett,53
+2011,LA,Orleans Parish,GA,Gwinnett,25
+2011,OH,Butler,GA,Gwinnett,37
+2011,CO,Arapahoe,GA,Gwinnett,37
+2011,FL,Collier,GA,Gwinnett,37
+2011,FL,Okaloosa,GA,Gwinnett,32
+2011,MA,Suffolk,GA,Gwinnett,33
+2011,MA,Worcester,GA,Gwinnett,31
+2011,MO,St Louis city,GA,Gwinnett,32
+2011,OK,Tulsa,GA,Gwinnett,33
+2011,VA,Henrico,GA,Gwinnett,45
+2011,AL,Tuscaloosa,GA,Gwinnett,25
+2011,AR,Pulaski,GA,Gwinnett,45
+2011,IL,Lake,GA,Gwinnett,45
+2011,MA,Norfolk,GA,Gwinnett,46
+2011,MI,Kent,GA,Gwinnett,37
+2011,NJ,Camden,GA,Gwinnett,35
+2011,NC,Durham,GA,Gwinnett,28
+2011,SC,Aiken,GA,Gwinnett,41
+2011,TN,Montgomery,GA,Gwinnett,42
+2011,TX,El Paso,GA,Gwinnett,43
+2011,AL,Baldwin,GA,Gwinnett,36
+2011,AL,Shelby,GA,Gwinnett,37
+2011,FL,Marion,GA,Gwinnett,28
+2011,NC,Gaston,GA,Gwinnett,37
+2011,VA,Hampton city,GA,Gwinnett,49
+2011,CA,Alameda,GA,Gwinnett,39
+2011,CO,Denver,GA,Gwinnett,25
+2011,DC,District of Columbia,GA,Gwinnett,24
+2011,FL,Lake,GA,Gwinnett,44
+2011,IL,Will,GA,Gwinnett,34
+2011,KS,Johnson,GA,Gwinnett,31
+2011,MA,Essex,GA,Gwinnett,28
+2011,SC,Berkeley,GA,Gwinnett,29
+2011,AL,Calhoun,GA,Gwinnett,21
+2011,MI,Genesee,GA,Gwinnett,32
+2011,MI,Washtenaw,GA,Gwinnett,30
+2011,NY,Orange,GA,Gwinnett,31
+2011,NY,Richmond,GA,Gwinnett,23
+2011,PA,York,GA,Gwinnett,26
+2011,SC,Spartanburg,GA,Gwinnett,29
+2011,CA,Contra Costa,GA,Gwinnett,27
+2011,IL,Kane,GA,Gwinnett,41
+2011,LA,Caddo Parish,GA,Gwinnett,28
+2011,MI,Kalamazoo,GA,Gwinnett,30
+2011,NJ,Mercer,GA,Gwinnett,32
+2011,NJ,Monmouth,GA,Gwinnett,29
+2011,NJ,Morris,GA,Gwinnett,30
+2011,PA,Centre,GA,Gwinnett,24
+2011,SC,Anderson,GA,Gwinnett,28
+2011,FL,Flagler,GA,Gwinnett,29
+2011,IN,St Joseph,GA,Gwinnett,31
+2011,MD,Howard,GA,Gwinnett,23
+2011,MA,Plymouth,GA,Gwinnett,23
+2011,NC,Iredell,GA,Gwinnett,28
+2011,NC,Macon,GA,Gwinnett,25
+2011,OH,Mahoning,GA,Gwinnett,20
+2011,SC,Dorchester,GA,Gwinnett,28
+2011,TN,Rutherford,GA,Gwinnett,28
+2011,TX,Cameron,GA,Gwinnett,32
+2011,TX,Fort Bend,GA,Gwinnett,23
+2011,CA,San Francisco,GA,Gwinnett,16
+2011,FL,Clay,GA,Gwinnett,23
+2011,FL,Manatee,GA,Gwinnett,16
+2011,IL,Winnebago,GA,Gwinnett,30
+2011,IN,Hamilton,GA,Gwinnett,19
+2011,PA,Bucks,GA,Gwinnett,20
+2011,SC,York,GA,Gwinnett,26
+2011,TX,Montgomery,GA,Gwinnett,28
+2011,UT,Utah,GA,Gwinnett,32
+2011,WA,Pierce,GA,Gwinnett,22
+2011,AL,Houston,GA,Gwinnett,21
+2011,CA,Kern,GA,Gwinnett,33
+2011,DE,New Castle,GA,Gwinnett,19
+2011,FL,Highlands,GA,Gwinnett,24
+2011,FL,St Lucie,GA,Gwinnett,22
+2011,FL,Santa Rosa,GA,Gwinnett,14
+2011,IN,Allen,GA,Gwinnett,20
+2011,KS,Sedgwick,GA,Gwinnett,18
+2011,KY,Fayette,GA,Gwinnett,15
+2011,MA,Hampden,GA,Gwinnett,19
+2011,MS,Rankin,GA,Gwinnett,21
+2011,NH,Hillsborough,GA,Gwinnett,23
+2011,NM,Bernalillo,GA,Gwinnett,16
+2011,NC,New Hanover,GA,Gwinnett,24
+2011,SC,Florence,GA,Gwinnett,17
+2011,SC,Sumter,GA,Gwinnett,23
+2011,UT,Salt Lake,GA,Gwinnett,33
+2011,VA,Arlington,GA,Gwinnett,18
+2011,VA,Loudoun,GA,Gwinnett,22
+2011,WA,Snohomish,GA,Gwinnett,13

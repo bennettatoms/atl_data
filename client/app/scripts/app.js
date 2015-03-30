@@ -15,7 +15,9 @@ angular
     'ngResource',
     'ngRoute',
     'ngSanitize',
-    'ngTouch'
+    'ngTouch',
+    'highcharts-ng',
+    'angularCharts'
   ])
   .config(function ($routeProvider) {
     $routeProvider
@@ -30,6 +32,14 @@ angular
       .when('/movers', {
         templateUrl: 'views/movers.html',
         controller: 'MoversCtrl'
+      })
+      .when('/chord', {
+        templateUrl: 'views/chord.html',
+        controller: 'ChordCtrl'
+      })
+      .when('/bldg_permits', {
+        templateUrl: 'views/bldg_pmt.html',
+        controller: 'BldgPmtCtrl'
       })
       .otherwise({
         redirectTo: '/'

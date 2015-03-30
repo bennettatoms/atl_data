@@ -2,6 +2,7 @@ Rails.application.routes.draw do
   
   scope '/api' do
     resources :movers, except: [:new, :edit]
+    resources :bldg_permits, except: [:new, :edit]
   end
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
