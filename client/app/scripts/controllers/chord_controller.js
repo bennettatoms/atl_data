@@ -1,9 +1,7 @@
 'use strict';
 
-angular.module('clientApp', []);
-
 angular.module('clientApp')
-.controller('ChordCtrl', ['$scope', 
+.controller('ChordCtrl', ['$scope',
 function ($scope) {
 
   $scope.master = {}; // MASTER DATA STORED BY 'YEAR'
@@ -53,7 +51,7 @@ function ($scope) {
   };
 
   // IMPORT THE CSV DATA
-  d3.csv('../../../lib/tasks/2011_migrations_square.csv', function (err, data) {
+  d3.csv('/#/2011_migrations_square.csv', function (err, data) {
 
     data.forEach(function (d) {
       d.year  = +d.year;

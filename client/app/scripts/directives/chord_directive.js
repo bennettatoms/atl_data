@@ -1,7 +1,7 @@
 'use strict';
 
-angular.module('clientApp').directive('chordDiagram', ['$window', 'matrixFactory',
-
+angular.module('clientApp')
+.directive('chordDiagram', ['$window', 'matrixFactory',
 function ($window, matrixFactory) {
 
   var link = function ($scope, $el, $attr) {

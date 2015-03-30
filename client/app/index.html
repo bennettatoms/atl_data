@@ -71,7 +71,10 @@
     </script>
 
     <!-- build:js(.) scripts/vendor.js -->
-    <script src="http://d3js.org/d3.v3.min.js"></script>
+    <script src="http://code.highcharts.com/highcharts.src.js"></script>
+    <script src="http://code.highcharts.com/adapters/standalone-framework.js"></script>
+
+
     <!-- bower:js -->
     <script src="bower_components/jquery/dist/jquery.js"></script>
     <script src="bower_components/angular/angular.js"></script>
@@ -82,7 +85,10 @@
     <script src="bower_components/angular-route/angular-route.js"></script>
     <script src="bower_components/angular-sanitize/angular-sanitize.js"></script>
     <script src="bower_components/angular-touch/angular-touch.js"></script>
+    <script src="bower_components/d3/d3.js"></script>
     <script src="bower_components/underscore/underscore.js"></script>
+    <script src="bower_components/highcharts-ng/dist/highcharts-ng.js"></script>
+    <script src="bower_components/angular-charts/dist/angular-charts.js"></script>
     <!-- endbower -->
     <!-- endbuild -->
 
@@ -91,8 +97,13 @@
         <script src="scripts/controllers/main.js"></script>
         <script src="scripts/controllers/about.js"></script>
         <script src="scripts/controllers/movers.js"></script>
+        <script src="scripts/controllers/chord_controller.js"></script>
+        <script src="scripts/controllers/bldg_pmt_ctrl.js"></script>
         <script src="scripts/services/movers.js"></script>
-
+        <script src="scripts/services/matrix_factory.js"></script>
+        <script src="scripts/services/bldg_pmt_service.js"></script>
+        <script src="scripts/directives/chord_directive.js"></script>
+        <script src="scripts/directives/bldg_pmt_chart_directive.js"></script>
         <!-- endbuild -->
 </body>
 </html>
