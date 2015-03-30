@@ -37,7 +37,7 @@ angular
         templateUrl: 'views/chord.html',
         controller: 'ChordCtrl'
       })
-      .when('/building_permits', {
+      .when('/bldg_permits', {
         templateUrl: 'views/bldg_pmt.html',
         controller: 'BldgPmtCtrl'
       })

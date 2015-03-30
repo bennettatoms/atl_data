@@ -3,7 +3,7 @@
 angular.module('clientApp')
 .service('BldgPmtService', ['$http', function($http) {
 
-  // this.getBldgPmts = function() {
-  //   return $http.get('api/building_permits');
-  // };
+  this.getBuildingPermits = function() {
+    return $http.get('api/bldg_permits');
+  };
 }]);
