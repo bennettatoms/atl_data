@@ -1,7 +1,4 @@
-'use strict';
-
-angular.module('clientApp')
-.factory('matrixFactory', [function () {
+angular.module('clientApp').factory('matrixFactory', [function () {
 
   var chordMatrix = function () {
 
