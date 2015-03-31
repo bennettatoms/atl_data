@@ -55,7 +55,7 @@ angular.module('clientApp')
       data: [12372, 11274, 10362, 9617, 10463, 9938, 9033, 4408, 1959, 719, 1239, 873, 2469, 3347, 3072]
     }]
   };
-  
+
   $scope.permitChartConfig = permitChartConfig;
   
   $('#container').highcharts(permitChartConfig);
