@@ -1,4 +1,5 @@
-'use strict';
+// Code here will be linted with JSHint.
+/* jshint ignore:start */
 angular.module('clientApp').controller('ChordCtrl', ['$scope', 
 function ($scope) {
 
@@ -69,3 +70,4 @@ function ($scope) {
   $scope.$watch('filters', $scope.update, true);
 
 }]);
+/* jshint ignore:end */

@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('clientApp')
-.controller('pieChartCtrl', function ($scope) {
+.controller('pieChartCtrl', ['$scope', function ($scope) {
   $scope.myPieChartConfig = {
     options: {
       chart: {
@@ -25,5 +25,5 @@ angular.module('clientApp')
         ['Others',   0.7]
       ]
     }]
-  }
-})
+  };
+}]);
