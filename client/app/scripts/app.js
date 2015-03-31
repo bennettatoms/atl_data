@@ -41,6 +41,10 @@ angular
         templateUrl: 'views/bldg_pmt.html',
         controller: 'BldgPmtCtrl'
       })
+      .when('/pie_chart', {
+        templateUrl: 'views/pie_chart.html',
+        controller: 'pieChartCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });
