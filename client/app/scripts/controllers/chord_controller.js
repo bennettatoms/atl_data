@@ -3,11 +3,10 @@
 angular.module('clientApp')
 .controller('ChordCtrl', ['$scope',
 function ($scope) {
-
   $scope.master = {}; // MASTER DATA STORED BY 'YEAR'
 
   $scope.selected_year = 2011;
-  $scope.years = d3.range(2011);
+  // $scope.years = d3.range(2011);
 
   $scope.filters = {};
   $scope.hasFilters = false;
@@ -21,7 +20,7 @@ function ($scope) {
   $scope.updateTooltip = function (data) {
     $scope.tooltip = data;
     $scope.$apply();
-  }
+  };
 
   $scope.addFilter = function (name) {
     $scope.hasFilters = true;
@@ -51,8 +50,8 @@ function ($scope) {
   };
 
   // IMPORT THE CSV DATA
-  d3.csv('/#/2011_migrations_square.csv', function (err, data) {
-
+  d3.csv('../../data/2011_migrations_square.csv', function (err, data) {
+    console.log(data);
     data.forEach(function (d) {
       d.year  = +d.year;
       d.inbound = +d.inbound;
@@ -62,7 +61,7 @@ function ($scope) {
         $scope.master[d.year] = []; // STORED BY YEAR
       }
       $scope.master[d.year].push(d);
-    })
+    });
     $scope.update();
   });
 

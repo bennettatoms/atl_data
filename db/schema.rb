@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20150330182703) do
+ActiveRecord::Schema.define(version: 20150330195130) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -26,11 +26,10 @@ ActiveRecord::Schema.define(version: 20150330182703) do
 
   create_table "movers", force: :cascade do |t|
     t.integer "year"
-    t.string  "origin_state"
-    t.string  "origin_county"
-    t.string  "dest_state"
-    t.string  "dest_county"
-    t.integer "num_movers"
+    t.string  "atl_county"
+    t.string  "state"
+    t.integer "inbound"
+    t.integer "outbound"
   end
 
 end
