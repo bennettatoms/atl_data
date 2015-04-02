@@ -3,17 +3,58 @@
 angular.module('clientApp')
 .controller('permitPieCtrl', ['$scope', function ($scope) {
 
-  d3.json('../../data/permits.json', function(err, data){
-    console.log('puppies');
-    console.log(data);
-    $scope.dataStructure = data;
-    console.log($scope.dataStructure);
-  }); 
 }])
 
-.directive('pieChart', function(){
-  function link(scope, element, attr) {
-  
+.directive('pieChart', function() {
+  function link(scope, element, attrs) {
+
+    console.log('Using d3 to get data from ' + attrs.url);
+
+    var dataStructure;
+
+    d3.json(attrs.url, function(err, data) {
+      console.log('err: ' + err);
+      console.log('puppies');
+      console.log('data: ' + data);
+      dataStructure = data;
+      console.log(dataStructure[0]);
+
+      $( '#slider' ).slider({
+        value: 0,
+        min: 0,
+        max: 14,
+        step: 1,
+        slide: function( event, ui ) {
+            update(ui.value);
+            console.log(ui.value);
+          }
+      })
+      .each(function() {
+
+        //
+        // Add labels to slider whose values 
+        // are specified by min, max and whose
+        // step is set to 1
+        //
+
+        // Get the options for this slider
+        // var opt = $(this).data().uiSlider.options;
+        
+        // Get the number of possible values
+        // var vals = opt.max - opt.min;
+        var vals = 14;
+        
+        // Space out values
+        for (var i = 0; i <= vals; i++) {        
+          var el = $('<label>' + dataStructure[i].label + '</label>').css('left',(i/vals*100)+'%');
+          $( '#slider' ).append(el); 
+        }    
+      });
+
+      update(0);
+
+    });  // end of d3.json call
+    
     // CREATE VIS & GROUPS 
     var w = 650;
     var h = 500;
@@ -71,7 +112,7 @@ angular.module('clientApp')
     // TO RUN EACH TIME NEW DATA IS GENERATED
     function update(number) {
 
-      data = dataStructure[number].data;
+      var data = dataStructure[number].data;
 
       oldPieData = filteredPieData;
       pieData = donut(data);
@@ -94,7 +135,7 @@ angular.module('clientApp')
       textOffset = 1.46*(Math.sqrt(sliceProportion)/1000) - 33.54;
         
         // DRAW ARC PATHS
-        paths = arc_group.selectAll('path').data(filteredPieData);
+        var paths = arc_group.selectAll('path').data(filteredPieData);
         paths.enter().append('svg:path')
           .attr('stroke', 'white')
           .attr('stroke-width', 0.5)
@@ -122,7 +163,7 @@ angular.module('clientApp')
           .text('TOTAL');
 
         // PLACE TOTAL VALUE AMOUNT IN CENTER HOLE
-        totalLabel = center_group.selectAll('text').data(filteredPieData)
+        totalLabel = center_group.selectAll('text').data(filteredPieData);
         totalLabel.enter().append('svg:text')
           .attr('class', 'label')
           .attr('dy', 0)
@@ -264,8 +305,8 @@ angular.module('clientApp')
     }
 
     function removePieTween(d, i) {
-      s0 = 2 * Math.PI;
-      e0 = 2 * Math.PI;
+      var s0 = 2 * Math.PI;
+      var e0 = 2 * Math.PI;
       var i = d3.interpolate({startAngle: d.startAngle, endAngle: d.endAngle}, {startAngle: s0, endAngle: e0});
       return function(t) {
         var b = i(t);
@@ -292,44 +333,10 @@ angular.module('clientApp')
         return 'translate(' + Math.cos(val) * (r+textOffset) + ',' + Math.sin(val) * (r+textOffset) + ')';
       };
     }
-
-    $( '#slider' ).slider({
-        value: 0,
-        min: 0,
-        max: 14,
-        step: 1,
-        slide: function( event, ui ) {
-            update(ui.value);
-            console.log(ui.value);
-          }
-    })
-    .each(function() {
-
-      //
-      // Add labels to slider whose values 
-      // are specified by min, max and whose
-      // step is set to 1
-      //
-
-      // Get the options for this slider
-      var opt = $(this).data().uiSlider.options;
-      
-      // Get the number of possible values
-      var vals = opt.max - opt.min;
-      
-      // Space out values
-      for (var i = 0; i <= vals; i++) {        
-        var el = $('<label>'+dataStructure[i].label+'</label>').css('left',(i/vals*100)+'%');
-        $( '#slider' ).append(el); 
-      }    
-    });
-
-    update(0);
   }
   return {
     link: link, 
-    restrict: 'AE',
-    scope: { data: '=' }
+    restrict: 'AE'
   };
   
 });

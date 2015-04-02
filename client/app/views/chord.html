@@ -47,9 +47,9 @@ aside {
     </div>
   </div>
 
-  <div class="row" style="position:relative;">
+  <div class="row" style="position:relative;" width="100%">
 
-    <aside class="large-2 small-2 columns panel years">
+    <aside class="col-lg-2 col-sm-2 large-2 small-2 columns panel years">
       <h5>Years</h5>
       <ul class="side-nav">
         <li ng-repeat="year in years">
@@ -59,14 +59,14 @@ aside {
       </ul>
     </aside>
 
-    <div class="large-7 small-6 columns" role="content">
+    <div class="col-lg-7 col-sm-6 large-7 small-6 columns" role="content">
       <article>
         <chord-diagram></chord-diagram>
         <h6 class="text-center">Atlanta Migrations <span>{{ selected_year }}</span></h6>
       </article>
     </div>
 
-    <aside class="large-3 small-4 columns">
+    <aside class="col-lg-3 col-sm-4 large-3 small-4 columns">
       <h5>Filters</h5>
       <button class="button tiny right" ng-click="filters = {}; hasFilters = false;">
         clear
@@ -86,13 +86,13 @@ aside {
 
     <fieldset id="tooltip" class="row secondary">
       <div class="large-12 small-12 columns">
-        <h6>{{ tooltip.sname }} migrated from  {{ tooltip.tname }} : {{ qFormat(tooltip.svalue) }}</h6>
+        <h6>{{ qFormat(tooltip.svalue) }} migrated from {{ tooltip.tname }} to {{ tooltip.sname }} County.</h6>
         {{ pFormat(tooltip.svalue/tooltip.stotal) }} of {{ tooltip.sname }}'s Total ( {{ qFormat(tooltip.stotal) }})
         {{ pFormat(tooltip.svalue/tooltip.mtotal) }} of Total of {{ qFormat(tooltip.mtotal) }}
       </div>
       <div class="large-12 small-12 columns">
-        <h6>{{ tooltip.tname }} migrated from  {{ tooltip.sname }} : {{ qFormat(tooltip.tvalue) }}</h6>
-        {{ pFormat(tooltip.tvalue/tooltip.ttotal) }} of {{ tooltip.tname }}'s Total ( {{ qFormat(tooltip.ttotal) }})
+        <h6>{{ qFormat(tooltip.tvalue) }} migrated from  {{ tooltip.sname }} County to {{ tooltip.tname }}. </h6>
+        {{ pFormat(tooltip.tvalue/tooltip.ttotal) }} of {{ tooltip.tname }}'s metro ( {{ qFormat(tooltip.ttotal) }})
         {{ pFormat(tooltip.tvalue/tooltip.mtotal) }} of Total of {{ qFormat(tooltip.mtotal) }}
       </div>
     </fieldset>
