@@ -1,3 +1,5 @@
+// Code here will be linted with JSHint.
+/* jshint ignore:start */
 angular.module('clientApp').directive('chordDiagram', ['$window', 'matrixFactory',
 
 function ($window, matrixFactory) {
@@ -197,7 +199,7 @@ function ($window, matrixFactory) {
   };
 
 }]);
-
+/* jshint ignore:end */
 
 
 

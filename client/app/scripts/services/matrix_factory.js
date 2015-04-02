@@ -1,3 +1,6 @@
+// Code here will be linted with JSHint.
+/* jshint ignore:start */
+
 angular.module('clientApp').factory('matrixFactory', [function () {
 
   var chordMatrix = function () {
@@ -219,3 +222,4 @@ angular.module('clientApp').factory('matrixFactory', [function () {
     chordMatrix: chordMatrix
   };
 }]);
+/* jshint ignore:end */
