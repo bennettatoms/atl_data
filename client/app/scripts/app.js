@@ -43,7 +43,7 @@ angular
       })
       .when('/pie_chart', {
         templateUrl: 'views/pie_chart.html',
-        controller: 'pieChartCtrl'
+        controller: 'permitPieCtrl'
       })
       .when('/population', {
         templateUrl: 'views/population.html',

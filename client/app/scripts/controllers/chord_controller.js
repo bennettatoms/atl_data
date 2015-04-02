@@ -37,7 +37,7 @@ function ($scope) {
     if (data && $scope.hasFilters) {
       $scope.drawChords(data.filter(function (d) {
         var fl = $scope.filters;
-        var v1 = d.importer1, v2 = d.importer2;
+        var v1 = d.atl_county, v2 = d.state;
 
         if ((fl[v1] && fl[v1].hide) || (fl[v2] && fl[v2].hide)) {
           return false;
@@ -49,7 +49,7 @@ function ($scope) {
     }
   };
 
-  // IMPORT THE CSV DATA
+  // IMPORT THE API DATA
   d3.json('api/movers', function (err, data) {
 
     console.log(data);
