@@ -21,6 +21,7 @@
     "angular": false,
     "$": false,
     "d3": false,
-    "paths": false
+    "paths": false,
+    "alert": false
   }
 }

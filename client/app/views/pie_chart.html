@@ -53,11 +53,6 @@ body {
   <div id="slider" style="width:500px;margin-left:auto;margin-right:auto;margin-top:10px;margin-bottom:50px"></div>
 </div> 
 
-<!-- <div ng-init="chart=[10,20,30]">
-  <input type="range" ng-model="chart[0]">
-  <input type="range" ng-model="chart[1]">
-  <input type="range" ng-model="chart[2]">
- -->
-<!-- <div>  
-  <donutchart data="data"></donutchart> 
-</div> -->
+<div ui-view></div>
+
+<button type="button" ng-click="goToBar();">Show Permits Bar Chart</button>
