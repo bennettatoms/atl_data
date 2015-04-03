@@ -12,6 +12,21 @@ angular.module('clientApp')
   $scope.goToPop = function() {
     $state.go('home.population');
   };
+  
+  $scope.hideChordButton = false;
+
+  function checkState(stateName) {
+    if (stateName === 'home.migrations') {
+      $scope.hideChordButton = true;
+    }
+  }
+
+  checkState($state.$current.name);
+
+
+  $scope.showChord = function() {
+    $state === 'home.migrations';
+  };
 
   // $rootScope.fate = "Your fate is based on statistics from resources listed below:";
   $scope.goToDev = function() {
