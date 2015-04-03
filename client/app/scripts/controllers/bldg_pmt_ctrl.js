@@ -1,7 +1,7 @@
 'use strict';
 
 angular.module('clientApp')
-.controller('BldgPmtCtrl', ['$scope', function ($scope) {
+.controller('BldgPmtCtrl', ['$scope', '$timeout', function ($scope, $timeout) {
   var permitChartConfig = {
     title: {
       text: 'Annual Building Permits by County'
@@ -57,7 +57,10 @@ angular.module('clientApp')
   };
 
   $scope.permitChartConfig = permitChartConfig;
+
+  $timeout(function() {
+    $('#container').highcharts(permitChartConfig);  
+  }, 300);
   
-  $('#container').highcharts(permitChartConfig);
 }]);
 

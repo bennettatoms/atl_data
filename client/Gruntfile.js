@@ -398,6 +398,7 @@ module.exports = function (grunt) {
             '*.html',
             'views/{,*/}*.html',
             'images/{,*/}*',
+            'data/**/*',
             'styles/fonts/{,*/}*.*'
           ]
         }, {
@@ -495,7 +496,7 @@ module.exports = function (grunt) {
 
   grunt.registerTask('default', [
     'newer:jshint',
-    'test',
+    // 'test',
     'build'
   ]);
 

@@ -1,0 +1,42 @@
+[
+  {
+    id: 1,
+    year: 2000,
+    county: "Clayton",
+    total_buildings: 2389,
+    total_units: 3347,
+    value: 294519374
+  },
+  {
+    id: 2,
+    year: 2000,
+    county: "Cobb",
+    total_buildings: 5517,
+    total_units: 6642,
+    value: 736202069
+  },
+  {
+    id: 3,
+    year: 2000,
+    county: "Dekalb",
+    total_buildings: 4375,
+    total_units: 6145,
+    value: 696192550
+  },
+  {
+    id: 4,
+    year: 2000,
+    county: "Fulton",
+    total_buildings: 3645,
+    total_units: 9621,
+    value: 839135079
+  },
+  {
+    id: 5,
+    year: 2000,
+    county: "Gwinnett",
+    total_buildings: 9044,
+    total_units: 12372,
+    value: 1044856093
+  }
+]
