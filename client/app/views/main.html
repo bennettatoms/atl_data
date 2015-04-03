@@ -24,7 +24,7 @@
   </audio> -->
 
   <!-- <div id="bg1" data-0="background-position:0px 0px;" data-end="background-position:-500px -10000px;"></div> -->
-  <div  id="bg2" data-0="background-position:0px 0px;" data-end="background-position:-500px -8000px;"></div>
+  <img src="images/bubbles2.jpg"  id="bg2" data-0="background-position:0px 0px;" data-end="background-position:-500px -8000px;" width="100%">
   <div  id="bg3" data-0="background-position:0px 0px;" data-end="background-position:-500px -4000px;"></div>
 
   <div id="progress" data-0="width:0%;background:hsl(200, 100%, 50%);" data-end="width:100%;background:hsl(920, 100%, 50%);">
@@ -41,41 +41,22 @@
 
 
 
-   <div class="row" id="migration">
-      <div class="col-sm-12 text-center">
-        <header>
-          <h1>Migration</h1>
-        </header>
-        <div class="home-view-container">
-          <div class="home-ui-view" ui-view></div>
-        </div>
-        
-
-        <div class="row graphs">
-          <div class="graph-buttons">
-            <button class="btn btn-default" ng-click="goToChord();">Migrations Chord Diagram</button>
-            <button class="btn btn-default" ng-click="selectGraph('graph2')">Population Projection</button>
-          </div>
-      
-          <div ng-switch on="selectedGraph">
-            <div ng-switch-when="graph1">
-              <div class="graph1 text-center" ng-controller="ChordCtrl">
-                <div id="graph1" style="width:100%; height:600px; margin: 0 auto;">
-                  <div ui-view></div>
-                </div>
-              </div>
-            </div>
-
-            <div ng-switch-when="graph2">
-              <div class="graph2 text-center" ng-controller="populationCtrl">
-                <div id="graph2" style="width:100%; height:400px; margin: 0 auto;">
-                </div>
-              </div>
-            </div>
-          </div>
+  <div class="row" id="migration">
+    <div class="col-sm-12 text-center">
+      <header>
+        <h1>Metro Area Migration Patterns</h1>
+      </header>
+    
+      <div class="row graphs">
+        <div class="graph-buttons">
+          <button class="btn btn-default" ng-click="goToChord();">Migrations Chord Diagram</button>
         </div>
       </div>
-    </div>      
+      <div class="home-view-container">
+        <div class="home-ui-view" ui-view></div>
+      </div>
+    </div>
+  </div>      
 
 
 
@@ -127,34 +108,37 @@
 
 
 
-  <div class="row" id="the-statistics">
+  <div class="row" id="development">
     <div class="col-sm-12 text-center">
       <header>
-        <h1>Development</h1>
+        <h1>Development -- Metro Area Building Permits Since 2000</h1>
       </header>
-
-      <div class="row graphs">
-        <div class="graph-buttons">
-          <button class="btn btn-default" ng-click="goToDev();">Building Permits Since 2000</button>
-        </div>
+        <div class="row graphs">
+          <div class="graph-buttons">
+            <button class="btn btn-default" ng-click="selectGraph('permitPie')">Dynamic Donut</button>
+            <button class="btn btn-default" ng-click="selectGraph('permitBar')">Bar Graph</button>
+          </div>
       
-        <div ng-switch on="graph3">
-          <div ng-switch-when="graph3">
-            <div class="graph3 text-center" ng-controller="permitPieCtrl">
-              <div id="graph3" style="width:100%; height:600px; margin: 0 auto;">
-                <div ui-view></div>
+          <div ng-switch on="selectedGraph">
+            <div ng-switch-when="permitPie">
+              <div class="permitPie text-center" ng-controller="permitPieCtrl">
+                <div id="slidercontainer permitPie" style="width:100%; height:600px; text-align:center margin: 0 auto;">
+                  <pie-chart id="pie-chart" url="/data/permits.json"></pie-chart>
+                  <div id="slider" style="width:500px;margin-left:auto;margin-right:auto;margin-top:10px;margin-bottom:50px"></div>
+                </div> 
               </div>
             </div>
-          </div>
 
-          <div ng-switch-when="graph4">
-            <div class="graph4 text-center" ng-controller="BldgPmtCtrl">
-              <div id="graph4" style="width:100%; height:400px; margin: 0 auto;">
+            <div ng-switch-when="permitBar">
+              <div class="permitBar text-center" ng-controller="BldgPmtCtrl">
+                <div id="permitBar" style="width:80%; height:600px; margin: 0 auto;">
+                  <highchart id="container" config="permitChartConfig"></highchart>
+                </div>
               </div>
             </div>
-          </div>
-        </div>
-      </div>
+          </div> 
+        </div> 
+      </div>     
     </div> 
   </div>     
 
