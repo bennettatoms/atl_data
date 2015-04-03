@@ -12,8 +12,10 @@
     <!-- endbower -->
     <!-- endbuild -->
     <!-- build:css(.tmp) styles/main.css -->
-    <link rel="stylesheet" href="styles/main.css">
-    <link rel="stylesheet" href="bower_components/rickshaw/rickshaw.css">
+    <link href="styles/fixed-positioning.css" rel="stylesheet" type="text/css" />
+    <link href="styles/animate.css" rel="stylesheet" type="text/css" />
+    <link href='http://fonts.googleapis.com/css?family=Alegreya+Sans+SC:100' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="styles/custom.css">
     <!-- endbuild -->
   </head>
   <body ng-app="clientApp">
@@ -50,12 +52,12 @@
     </div>
 
     <div class="container">
-    <div ng-view=""></div>
+      <div ui-view></div>
     </div>
 
     <div class="footer">
       <div class="container">
-        <p><span class="glyphicon glyphicon-heart"></span> from the Yeoman team</p>
+        
       </div>
     </div>
 
@@ -86,8 +88,8 @@
     <script src="bower_components/underscore/underscore.js"></script>
     <script src="bower_components/highcharts-ng/dist/highcharts-ng.js"></script>
     <script src="bower_components/angular-charts/dist/angular-charts.js"></script>
-    <!-- endbower -->
-    <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+    <script src="bower_components/angular-ui-router/release/angular-ui-router.js"></script>
+     <script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
     <script src="http://code.highcharts.com/highcharts.src.js"></script>
     <script src="http://code.highcharts.com/adapters/standalone-framework.js"></script>
     <!-- endbuild -->
@@ -95,8 +97,6 @@
         <!-- build:js({.tmp,app}) scripts/scripts.js -->
         <script src="scripts/app.js"></script>
         <script src="scripts/controllers/main.js"></script>
-        <script src="scripts/controllers/about.js"></script>
-        <script src="scripts/controllers/movers.js"></script>
         <script src="scripts/controllers/chord_controller.js"></script>
         <script src="scripts/controllers/bldg_pmt_ctrl.js"></script>
         <script src="scripts/controllers/permit_pie_ctrl.js"></script>

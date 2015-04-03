@@ -1,23 +1,170 @@
-<div class="jumbotron">
-  <h1>'Allo, 'Allo!</h1>
-  <p class="lead">
-    <img src="images/yeoman.png" alt="I'm Yeoman"><br>
-    Always a pleasure scaffolding your apps.
-  </p>
-  <p><a class="btn btn-lg btn-success" ng-href="#/">Splendid!<span class="glyphicon glyphicon-ok"></span></a></p>
-</div>
 
-<div class="row marketing">
-  <h4>HTML5 Boilerplate</h4>
-  <p>
-    HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites.
-  </p>
 
-  <h4>Angular</h4>
-  <p>
-    AngularJS is a toolset for building the framework most suited to your application development.
-  </p>
 
-  <h4>Karma</h4>
-  <p>Spectacular Test Runner for JavaScript.</p>
-</div>
+<!-- 
+    <audio id="audio" preload="auto" tabindex="0" controls="" type="audio/mpeg">
+        <source type="audio/mp3" src="http://www.archive.org/download/bolero_69/Bolero.mp3">
+        Sorry, your browser does not support HTML5 audio.
+    </audio>
+    <ul id="playlist">
+        <li class="active"><a href="http://www.archive.org/download/bolero_69/Bolero.mp3">Ravel Bolero</a></li>
+        <li><a href="http://www.archive.org/download/MoonlightSonata_755/Beethoven-MoonlightSonata.mp3">Moonlight Sonata - Beethoven</a></li>
+        <li><a href="http://www.archive.org/download/CanonInD_261/CanoninD.mp3">Canon in D Pachabel</a></li>
+        <li><a href="http://www.archive.org/download/PatrikbkarlChamberSymph/PatrikbkarlChamberSymph_vbr_mp3.zip">patrikbkarl chamber symph</a></li>
+    </ul> -->
+
+
+<!--  <audio controls>
+    <source src="images/outkast.mp3" type="audio/mpeg">
+    <source src="images/gladysknight.mp3" type="audio/mpeg">
+    <source src="images/raycharles.mp3" type="audio/mpeg">
+    <source src="images/gnarlsbarkley.mp3" type="audio/mpeg">
+    <source src="images/statesboroblues.mp3" type="audio/mpeg"> 
+    You need Chrome cuz your browser doesn't support audio, and that ain't cool.
+  </audio> -->
+
+  <!-- <div id="bg1" data-0="background-position:0px 0px;" data-end="background-position:-500px -10000px;"></div> -->
+  <img src="images/bubbles2.jpg" id="bg2" width="100%">
+  <div id="" ></div>
+
+  <div id="">
+    <p>THANKS FOR STOPPING BY!</p>
+  </div>
+
+  <div id="">
+    <img src="images/logo.png">
+    <h2>perspectives on our evolving city</h2>
+    <h5 class="arrows">▼</h5>
+  </div>
+
+
+
+  <div class="row" id="migration">
+    <div class="col-sm-12 text-center">
+      <header>
+        <h1>Metro Area Migration Patterns</h1>
+      </header>
+    
+      <div class="row graphs">
+        <div class="graph-buttons">
+          <button class="btn btn-default" ng-click="goToChord();" ng-hide="hideChordButton">Migrations Chord Diagram</button>
+        </div>
+      </div>
+      <div class="home-view-container">
+        <div class="home-ui-view" ui-view></div>
+      </div>
+    </div>
+  </div>      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div>
+    
+    <video width="360" height="240" autoplay loop muted>
+      <source src="images/12mid.mp4" type="video/mp4">
+      Your browser doesn't support HTML5 video. Get with it fool and upgrade to Chrome!
+    </video>
+    <h4>Turning the corner on the Great Recession</h4>
+    <p>lorem ipsum dosum ipsum loremlorem ipsum dosum ipsum loremlorem ipsum dosum ipsum loremlorem ipsum dosum ipsum loremlorem ipsum dosum ipsum loremlorem ipsum dosum ipsum loremlorem ipsum dosum ipsum loremlorem ipsum dosum ipsum loremlorem ipsum dosum ipsum loremlorem ipsum dosum ipsum loremlorem ipsum dosum ipsum lorem</p>
+    <!-- <video width="320" height="240" controls muted>
+      <source src="images/GSUlaw.mp4" type="video/mp4">
+      Your browser doesn't support HTML5 video. Get with it fool and upgrade to Chrome!
+    </video>
+    <p>GSU Law School</p> -->
+    
+  </div>
+    <div id="rtp">
+      <p>add another cool fact about Atlanta here</p>
+    </div>
+    
+  <div id="properties">
+    <h2 style="color:white">Established in 1837, metro Atlanta is now home to over 5.5 million people.<br>That's greater than the population of 24 states.</h2>
+  </div>
+
+  <div id="" >
+    <div id="">
+      <h2>Awesome graphs here</h2>
+      <!-- <p>Oh yeah.</p> -->
+      <p>let's see where are they coming from <span>and</span> where we all are going...</p>
+      <p>another cool fact here</p>
+    </div>
+
+
+
+  <div class="row" id="development">
+    <div class="col-sm-12 text-center">
+      <header>
+        <h1>Development -- Metro Area Building Permits Since 2000</h1>
+      </header>
+        <div class="row graphs">
+          <div class="graph-buttons">
+            <button class="btn btn-default" ng-click="selectGraph('permitPie')">Dynamic Donut</button>
+            <button class="btn btn-default" ng-click="selectGraph('permitBar')">Bar Graph</button>
+          </div>
+      
+          <div ng-switch on="selectedGraph">
+            <div ng-switch-when="permitPie">
+              <div class="permitPie text-center" ng-controller="permitPieCtrl">
+                <div id="slidercontainer permitPie" style="width:100%; height:600px; text-align:center margin: 0 auto;">
+                  <pie-chart id="pie-chart" url="/data/permits.json"></pie-chart>
+                  <div id="slider" style="width:500px;margin-left:auto;margin-right:auto;margin-top:10px;margin-bottom:50px"></div>
+                </div> 
+              </div>
+            </div>
+
+            <div ng-switch-when="permitBar">
+              <div class="permitBar text-center" ng-controller="BldgPmtCtrl">
+                <div id="permitBar" style="width:80%; height:600px; margin: 0 auto;">
+                  <highchart id="container" config="permitChartConfig"></highchart>
+                </div>
+              </div>
+            </div>
+          </div> 
+        </div> 
+      </div>     
+    </div> 
+  </div>     
+
+
+
+
+
+
+
+
+
+
+
+    <div class="drop" >
+    <img src="images/skyl3.jpg">  
+    </div>
+  </div>
+
+  <div id="download" >
+    <!-- <img src="images/skyl2.jpg"> -->
+  </div>
+    <!-- <p>by the way, you can also animate colors (you did notice this, didn't you?)</p> -->
+
+  <div id="scrollbar" ></div>
+
+
+  <!--[if lt IE 9]>
+  <script type="text/javascript" src="dist/skrollr.ie.min.js"></script>
+  <![endif]-->
+  
+<!--<script type="text/javascript" src="../scripts/require.js"></script>-->

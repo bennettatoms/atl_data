@@ -2,7 +2,7 @@
 
 ##Overview
 ---
-**Elevate** is a web application that demonstrates with striking data visualizations the economic and demographic trajectory of the city of Atlanta. Elevate was created by Bennett Adams and Michael Gurliaccio.
+**ElevATL** is a web application that demonstrates with striking data visualizations the economic and demographic trajectory of the city of Atlanta. Elevate was created by Bennett Adams and Michael Gurliaccio.
 <br />
 ##Links
 ---

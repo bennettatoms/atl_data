@@ -17,39 +17,34 @@ angular
     'ngSanitize',
     'ngTouch',
     'highcharts-ng',
-    'angularCharts'
+    'ui.router'
   ])
-  .config(function ($routeProvider) {
-    $routeProvider
-      .when('/', {
-        templateUrl: 'views/main.html',
-        controller: 'MainCtrl'
-      })
-      .when('/about', {
-        templateUrl: 'views/about.html',
-        controller: 'AboutCtrl'
-      })
-      .when('/movers', {
-        templateUrl: 'views/movers.html',
-        controller: 'MoversCtrl'
-      })
-      .when('/chord', {
-        templateUrl: 'views/chord.html',
-        controller: 'ChordCtrl'
-      })
-      .when('/bldg_permits', {
-        templateUrl: 'views/bldg_pmt.html',
-        controller: 'BldgPmtCtrl'
-      })
-      .when('/pie_chart', {
-        templateUrl: 'views/pie_chart.html',
-        controller: 'permitPieCtrl'
-      })
-      .when('/population', {
-        templateUrl: 'views/population.html',
-        controller: 'populationCtrl'
-      })
-      .otherwise({
-        redirectTo: '/'
-      });
-  });
+
+  .config(['$stateProvider', '$urlRouterProvider', 
+        function ($stateProvider, $urlRouterProvider) {
+
+  $stateProvider
+    .state('home', {
+      url: '/',
+      templateUrl: 'views/main.html',
+      controller: 'mainCtrl'
+    })
+      // the default route when someone hits dashboard    <!-- endbower -->
+
+    .state('home.migrations', {
+      url: 'migrations',
+      templateUrl: 'views/chord.html',
+      controller: 'ChordCtrl'
+    })
+    .state('home.population', {
+      url: 'population',
+      templateUrl: 'views/population.html',
+      controller: 'populationCtrl'
+    });
+ // default fall back route
+    $urlRouterProvider.otherwise('/');
+
+}]);
+
+
+
