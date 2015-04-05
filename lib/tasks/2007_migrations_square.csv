@@ -1,0 +1,201 @@
+year,atl_county,state,inbound,outbound
+2007,Clayton,Florida,1346,478
+2007,Clayton,California,448,175
+2007,Clayton,New York,767,194
+2007,Clayton,Texas,214,234
+2007,Clayton,Illinois,144,94
+2007,Clayton,North Carolina,203,130
+2007,Clayton,Michigan,110,49
+2007,Clayton,Tennessee,182,105
+2007,Clayton,Louisiana,192,428
+2007,Clayton,Alabama,225,150
+2007,Clayton,Arizona,10,46
+2007,Clayton,Maryland,178,55
+2007,Clayton,South Carolina,130,81
+2007,Clayton,Mississippi,20,10
+2007,Clayton,Ohio,177,54
+2007,Clayton,Pennsylvania,134,43
+2007,Clayton,Minnesota,23,20
+2007,Clayton,Indiana,66,10
+2007,Clayton,Nevada,28,70
+2007,Clayton,Massachusetts,71,10
+2007,Clayton,Virginia,147,46
+2007,Clayton,New Jersey,234,10
+2007,Clayton,Wisconsin,34,10
+2007,Clayton,Hawaii,10,27
+2007,Clayton,Washington,23,10
+2007,Clayton,Connecticut,26,10
+2007,Clayton,Kentucky,13,80
+2007,Clayton,Washington DC,33,10
+2007,Clayton,Missouri,34,10
+2007,Clayton,Rhode Island,24,10
+2007,Cobb,Florida,4282,2470
+2007,Cobb,California,1456,894
+2007,Cobb,New York,1718,621
+2007,Cobb,Texas,953,1193
+2007,Cobb,Illinois,642,457
+2007,Cobb,North Carolina,804,842
+2007,Cobb,Michigan,638,116
+2007,Cobb,Tennessee,627,698
+2007,Cobb,Louisiana,529,594
+2007,Cobb,Alabama,819,688
+2007,Cobb,Arizona,195,218
+2007,Cobb,Maryland,569,283
+2007,Cobb,South Carolina,620,752
+2007,Cobb,Mississippi,170,195
+2007,Cobb,Ohio,724,308
+2007,Cobb,Pennsylvania,401,208
+2007,Cobb,Minnesota,109,71
+2007,Cobb,Indiana,206,142
+2007,Cobb,Nevada,108,120
+2007,Cobb,Massachusetts,474,147
+2007,Cobb,Virginia,742,523
+2007,Cobb,New Jersey,845,185
+2007,Cobb,Wisconsin,153,42
+2007,Cobb,Hawaii,61,54
+2007,Cobb,Washington,150,144
+2007,Cobb,Colorado,214,219
+2007,Cobb,Connecticut,225,156
+2007,Cobb,Oregon,52,40
+2007,Cobb,Kentucky,130,156
+2007,Cobb,Missouri,213,191
+2007,Cobb,Delaware,46,31
+2007,Cobb,Oklahoma,76,65
+2007,Cobb,Arkansas,61,10
+2007,Cobb,Nebraska,38,28
+2007,Cobb,New Mexico,23,17
+2007,Cobb,Rhode Island,61,26
+2007,Cobb,Utah,51,56
+2007,Cobb,Kansas,83,83
+2007,Cobb,Iowa,17,10
+2007,Cobb,New Hampshire,24,10
+2007,Cobb,Washington DC,59,34
+2007,Dekalb,Florida,2995,1840
+2007,Dekalb,California,1161,820
+2007,Dekalb,New York,2060,934
+2007,Dekalb,Texas,774,820
+2007,Dekalb,Illinois,581,426
+2007,Dekalb,North Carolina,811,762
+2007,Dekalb,Michigan,554,248
+2007,Dekalb,Tennessee,580,612
+2007,Dekalb,Louisiana,485,794
+2007,Dekalb,Alabama,733,562
+2007,Dekalb,Arizona,113,180
+2007,Dekalb,Maryland,690,422
+2007,Dekalb,South Carolina,665,595
+2007,Dekalb,Mississippi,106,122
+2007,Dekalb,Ohio,534,309
+2007,Dekalb,Pennsylvania,435,241
+2007,Dekalb,Minnesota,133,108
+2007,Dekalb,Indiana,171,85
+2007,Dekalb,Nevada,51,143
+2007,Dekalb,Massachusetts,426,179
+2007,Dekalb,Virginia,707,500
+2007,Dekalb,New Jersey,686,380
+2007,Dekalb,Wisconsin,105,104
+2007,Dekalb,Hawaii,53,38
+2007,Dekalb,Washington,160,166
+2007,Dekalb,Colorado,188,169
+2007,Dekalb,Connecticut,204,129
+2007,Dekalb,Oregon,35,60
+2007,Dekalb,Kentucky,83,122
+2007,Dekalb,Missouri,143,158
+2007,Dekalb,Delaware,50,51
+2007,Dekalb,Oklahoma,56,25
+2007,Dekalb,Arkansas,34,21
+2007,Dekalb,Nebraska,28,20
+2007,Dekalb,New Mexico,22,22
+2007,Dekalb,Rhode Island,82,21
+2007,Dekalb,Utah,22,33
+2007,Dekalb,Kansas,58,19
+2007,Dekalb,Maine,18,10
+2007,Dekalb,Washington DC,93,108
+2007,Dekalb,Idaho,10,22
+2007,Fulton,Florida,5062,2627
+2007,Fulton,California,2178,1368
+2007,Fulton,New York,2195,998
+2007,Fulton,Texas,1290,1414
+2007,Fulton,Illinois,1008,709
+2007,Fulton,North Carolina,1304,1088
+2007,Fulton,Michigan,800,218
+2007,Fulton,Tennessee,795,764
+2007,Fulton,Louisiana,760,920
+2007,Fulton,Alabama,1177,721
+2007,Fulton,Arizona,247,240
+2007,Fulton,Maryland,828,248
+2007,Fulton,South Carolina,811,836
+2007,Fulton,Mississippi,225,121
+2007,Fulton,Ohio,813,413
+2007,Fulton,Pennsylvania,570,373
+2007,Fulton,Minnesota,208,144
+2007,Fulton,Indiana,286,146
+2007,Fulton,Nevada,114,117
+2007,Fulton,Massachusetts,607,357
+2007,Fulton,Virginia,1088,742
+2007,Fulton,New Jersey,1035,330
+2007,Fulton,Wisconsin,175,62
+2007,Fulton,Hawaii,39,52
+2007,Fulton,Washington,188,285
+2007,Fulton,Colorado,222,279
+2007,Fulton,Connecticut,392,213
+2007,Fulton,Oregon,81,80
+2007,Fulton,Kentucky,182,121
+2007,Fulton,Missouri,277,148
+2007,Fulton,Delaware,86,51
+2007,Fulton,Oklahoma,54,51
+2007,Fulton,Arkansas,50,38
+2007,Fulton,Nebraska,42,31
+2007,Fulton,New Mexico,28,37
+2007,Fulton,Rhode Island,51,23
+2007,Fulton,Utah,83,52
+2007,Fulton,Kansas,86,83
+2007,Fulton,Maine,21,25
+2007,Fulton,Idaho,10,19
+2007,Fulton,Iowa,39,19
+2007,Fulton,New Hampshire,35,20
+2007,Fulton,Vermont,15,10
+2007,Fulton,West Virginia,14,10
+2007,Fulton,Washington DC,213,173
+2007,Gwinnett,Florida,5871,2500
+2007,Gwinnett,California,2070,792
+2007,Gwinnett,New York,3840,757
+2007,Gwinnett,Texas,1062,1206
+2007,Gwinnett,Illinois,709,441
+2007,Gwinnett,North Carolina,958,930
+2007,Gwinnett,Michigan,549,191
+2007,Gwinnett,Tennessee,534,582
+2007,Gwinnett,Louisiana,377,459
+2007,Gwinnett,Alabama,657,625
+2007,Gwinnett,Arizona,198,233
+2007,Gwinnett,Maryland,907,348
+2007,Gwinnett,South Carolina,827,887
+2007,Gwinnett,Mississippi,117,104
+2007,Gwinnett,Ohio,471,308
+2007,Gwinnett,Pennsylvania,616,156
+2007,Gwinnett,Minnesota,96,65
+2007,Gwinnett,Indiana,204,181
+2007,Gwinnett,Nevada,127,159
+2007,Gwinnett,Massachusetts,503,161
+2007,Gwinnett,Virginia,850,392
+2007,Gwinnett,New Jersey,1612,287
+2007,Gwinnett,Wisconsin,89,29
+2007,Gwinnett,Hawaii,37,24
+2007,Gwinnett,Washington,212,196
+2007,Gwinnett,Colorado,185,99
+2007,Gwinnett,Connecticut,430,100
+2007,Gwinnett,Oregon,19,45
+2007,Gwinnett,Kentucky,117,109
+2007,Gwinnett,Missouri,134,170
+2007,Gwinnett,Delaware,41,37
+2007,Gwinnett,Oklahoma,93,65
+2007,Gwinnett,Arkansas,27,22
+2007,Gwinnett,New Mexico,32,32
+2007,Gwinnett,Rhode Island,80,17
+2007,Gwinnett,Utah,79,83
+2007,Gwinnett,Kansas,60,69
+2007,Gwinnett,Maine,22,10
+2007,Gwinnett,Iowa,49,10
+2007,Gwinnett,New Hampshire,27,10
+2007,Gwinnett,Alaska,39,10
+2007,Gwinnett,Washington DC,45,28
+2007,Gwinnett,Idaho,23,10
