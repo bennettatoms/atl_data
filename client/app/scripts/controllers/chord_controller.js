@@ -6,7 +6,7 @@ function ($scope) {
   $scope.master = {}; // MASTER DATA STORED BY YEAR
 
   $scope.selected_year = 2011;
-  $scope.years = d3.range(2011, 2006, -1);
+  $scope.years = d3.range(2011, 2005, -1);
 
   $scope.filters = {};
   $scope.hasFilters = false;
