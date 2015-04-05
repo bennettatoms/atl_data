@@ -6,7 +6,7 @@ function ($window, matrixFactory) {
 
   var link = function ($scope, $el, $attr) {
 
-    var size = [750, 750]; // SVG SIZE WIDTH, HEIGHT
+    var size = [600, 600]; // SVG SIZE WIDTH, HEIGHT
     var marg = [50, 50, 50, 50]; // TOP, RIGHT, BOTTOM, LEFT
     var dims = []; // USABLE DIMENSIONS
     dims[0] = size[0] - marg[1] - marg[3]; // WIDTH

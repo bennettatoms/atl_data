@@ -32,6 +32,9 @@ input[type="radio"] {
   height: 600px;
   overflow: scroll;
 }
+.tip-text h6 {
+  font-size: 12pt;
+}
 
 aside {
   margin: 0px;
@@ -41,15 +44,15 @@ aside {
 <div ng-cloak>
   <button type="button" ng-click="goToPop();">Show Population Projection</button>
   <div class="row">
-    <div class="large-12 columns">
-      <h1>Atlanta Migrations <small>(2011)</small></h1>
+    <div class="">
+      <h1>Atlanta Migrations by Year</h1>
       <hr/>
     </div>
   </div>
 
   <div class="row" style="position:relative;" width="100%">
 
-    <aside class="col-lg-2 col-sm-2 large-2 small-2 columns panel years">
+    <aside class="panel years">
       <h5>Years</h5>
       <ul class="side-nav">
         <li ng-repeat="year in years">
@@ -59,14 +62,14 @@ aside {
       </ul>
     </aside>
 
-    <div class="col-lg-7 col-sm-6 large-7 small-6 columns" role="content">
+    <div class="" role="content">
       <article>
         <chord-diagram></chord-diagram>
         <h6 class="text-center">Atlanta Migrations <span>{{ selected_year }}</span></h6>
       </article>
     </div>
 
-    <aside class="col-lg-3 col-sm-4 large-3 small-4 columns">
+    <aside class="">
       <h5>Filters</h5>
       <button class="button tiny right" ng-click="filters = {}; hasFilters = false;">
         clear
@@ -85,10 +88,10 @@ aside {
     </aside>
 
     <fieldset id="tooltip" class="row secondary">
-      <div class="large-12 small-12 columns">
+      <div class="tip-text">
         <h6>{{ qFormat(tooltip.svalue) }} people migrated from {{ tooltip.tname }} into {{ tooltip.sname }} County, {{ pFormat(tooltip.svalue/tooltip.stotal) }} of {{ tooltip.sname }} County's total influx, and {{ pFormat(tooltip.svalue/tooltip.ttotal) }} of {{ tooltip.tname }}'s outflux to the metro area.</h6>
       </div>
-      <div class="large-12 small-12 columns">
+      <div class="tip-text">
         <h6>{{ qFormat(tooltip.tvalue) }} migrated from {{ tooltip.sname }} County into {{ tooltip.tname }}, for a net migration of {{ qFormat(tooltip.svalue - tooltip.tvalue) }} into {{ qFormat(tooltip.svalue - tooltip.tvalue) > 0 ? "metro Atlanta" : tooltip.tname }}.</h6>
       </div>
     </fieldset>

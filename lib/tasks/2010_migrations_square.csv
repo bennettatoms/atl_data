@@ -1,0 +1,196 @@
+year,atl_county,state,inbound,outbound
+2010,Clayton,Florida,639,621
+2010,Clayton,California,203,138
+2010,Clayton,New York,337,243
+2010,Clayton,Texas,214,309
+2010,Clayton,Illinois,155,93
+2010,Clayton,North Carolina,148,188
+2010,Clayton,Michigan,143,56
+2010,Clayton,Tennessee,123,109
+2010,Clayton,Louisiana,57,191
+2010,Clayton,Alabama,175,200
+2010,Clayton,Arizona,32,30
+2010,Clayton,Maryland,58,103
+2010,Clayton,South Carolina,84,76
+2010,Clayton,Mississippi,47,21
+2010,Clayton,Ohio,168,81
+2010,Clayton,Pennsylvania,57,39
+2010,Clayton,Minnesota,23,10
+2010,Clayton,Indiana,43,10
+2010,Clayton,Nevada,27,53
+2010,Clayton,Massachusetts,10,72
+2010,Clayton,Virginia,75,95
+2010,Clayton,New Jersey,70,51
+2010,Clayton,Wisconsin,10,21
+2010,Clayton,Hawaii,10,32
+2010,Clayton,Colorado,17,10
+2010,Clayton,Connecticut,29,10
+2010,Clayton,Washington DC,15,10
+2010,Clayton,Missouri,23,10
+2010,Cobb,Florida,2436,2394
+2010,Cobb,California,833,722
+2010,Cobb,New York,803,695
+2010,Cobb,Texas,791,1284
+2010,Cobb,Illinois,515,351
+2010,Cobb,North Carolina,726,685
+2010,Cobb,Michigan,458,223
+2010,Cobb,Tennessee,610,553
+2010,Cobb,Louisiana,230,265
+2010,Cobb,Alabama,606,604
+2010,Cobb,Arizona,160,200
+2010,Cobb,Maryland,332,390
+2010,Cobb,South Carolina,494,457
+2010,Cobb,Mississippi,80,115
+2010,Cobb,Ohio,444,235
+2010,Cobb,Pennsylvania,282,247
+2010,Cobb,Minnesota,220,57
+2010,Cobb,Indiana,150,118
+2010,Cobb,Nevada,97,75
+2010,Cobb,Massachusetts,233,191
+2010,Cobb,Virginia,471,503
+2010,Cobb,New Jersey,426,289
+2010,Cobb,Wisconsin,108,63
+2010,Cobb,Hawaii,57,50
+2010,Cobb,Washington,115,159
+2010,Cobb,Colorado,153,208
+2010,Cobb,Connecticut,135,113
+2010,Cobb,Oregon,10,41
+2010,Cobb,Kentucky,85,119
+2010,Cobb,Missouri,108,112
+2010,Cobb,Delaware,45,42
+2010,Cobb,Oklahoma,44,120
+2010,Cobb,Arkansas,21,44
+2010,Cobb,Nebraska,37,26
+2010,Cobb,New Mexico,24,29
+2010,Cobb,Rhode Island,41,18
+2010,Cobb,Utah,26,82
+2010,Cobb,Kansas,146,31
+2010,Cobb,Iowa,19,46
+2010,Cobb,New Hampshire,19,10
+2010,Cobb,Alaska,10,34
+2010,Cobb,Washington DC,18,68
+2010,Dekalb,Florida,2066,1845
+2010,Dekalb,California,859,841
+2010,Dekalb,New York,1097,1028
+2010,Dekalb,Texas,613,923
+2010,Dekalb,Illinois,481,320
+2010,Dekalb,North Carolina,747,690
+2010,Dekalb,Michigan,457,219
+2010,Dekalb,Tennessee,514,526
+2010,Dekalb,Louisiana,264,320
+2010,Dekalb,Alabama,604,605
+2010,Dekalb,Arizona,154,158
+2010,Dekalb,Maryland,336,445
+2010,Dekalb,South Carolina,511,571
+2010,Dekalb,Mississippi,76,126
+2010,Dekalb,Ohio,429,297
+2010,Dekalb,Pennsylvania,331,305
+2010,Dekalb,Minnesota,164,86
+2010,Dekalb,Indiana,135,97
+2010,Dekalb,Nevada,75,107
+2010,Dekalb,Massachusetts,303,195
+2010,Dekalb,Virginia,485,549
+2010,Dekalb,New Jersey,404,260
+2010,Dekalb,Wisconsin,102,60
+2010,Dekalb,Hawaii,31,42
+2010,Dekalb,Washington,135,150
+2010,Dekalb,Colorado,145,174
+2010,Dekalb,Connecticut,160,132
+2010,Dekalb,Oregon,42,46
+2010,Dekalb,Kentucky,98,112
+2010,Dekalb,Missouri,140,118
+2010,Dekalb,Delaware,60,28
+2010,Dekalb,Oklahoma,26,65
+2010,Dekalb,Arkansas,35,56
+2010,Dekalb,Nebraska,10,37
+2010,Dekalb,New Mexico,33,34
+2010,Dekalb,Rhode Island,19,20
+2010,Dekalb,Utah,20,20
+2010,Dekalb,Kansas,50,10
+2010,Dekalb,Maine,10,31
+2010,Dekalb,Iowa,10,36
+2010,Dekalb,Alaska,15,10
+2010,Dekalb,Washington DC,99,130
+2010,Fulton,Florida,3515,2963
+2010,Fulton,California,1468,1616
+2010,Fulton,New York,1551,1210
+2010,Fulton,Texas,5133,1416
+2010,Fulton,Illinois,957,636
+2010,Fulton,North Carolina,1289,1008
+2010,Fulton,Michigan,826,301
+2010,Fulton,Tennessee,739,732
+2010,Fulton,Louisiana,355,391
+2010,Fulton,Alabama,973,721
+2010,Fulton,Arizona,248,217
+2010,Fulton,Maryland,476,562
+2010,Fulton,South Carolina,815,722
+2010,Fulton,Mississippi,129,171
+2010,Fulton,Ohio,723,426
+2010,Fulton,Pennsylvania,637,417
+2010,Fulton,Minnesota,337,110
+2010,Fulton,Indiana,201,169
+2010,Fulton,Nevada,126,101
+2010,Fulton,Massachusetts,429,336
+2010,Fulton,Virginia,873,733
+2010,Fulton,New Jersey,883,571
+2010,Fulton,Wisconsin,155,95
+2010,Fulton,Hawaii,71,55
+2010,Fulton,Washington,170,276
+2010,Fulton,Colorado,196,252
+2010,Fulton,Connecticut,325,177
+2010,Fulton,Oregon,58,84
+2010,Fulton,Kentucky,166,180
+2010,Fulton,Missouri,274,171
+2010,Fulton,Delaware,67,47
+2010,Fulton,Oklahoma,73,54
+2010,Fulton,Arkansas,120,70
+2010,Fulton,Nebraska,76,26
+2010,Fulton,New Mexico,18,28
+2010,Fulton,Rhode Island,49,19
+2010,Fulton,Utah,79,36
+2010,Fulton,Kansas,106,43
+2010,Fulton,Maine,15,10
+2010,Fulton,Iowa,65,67
+2010,Fulton,New Hampshire,41,14
+2010,Fulton,Alaska,10,17
+2010,Fulton,Washington DC,142,235
+2010,Gwinnett,Florida,2673,2577
+2010,Gwinnett,California,1029,924
+2010,Gwinnett,New York,1477,1116
+2010,Gwinnett,Texas,749,1445
+2010,Gwinnett,Illinois,436,300
+2010,Gwinnett,North Carolina,663,701
+2010,Gwinnett,Michigan,470,187
+2010,Gwinnett,Tennessee,456,462
+2010,Gwinnett,Louisiana,121,278
+2010,Gwinnett,Alabama,502,683
+2010,Gwinnett,Arizona,134,163
+2010,Gwinnett,Maryland,390,386
+2010,Gwinnett,South Carolina,538,627
+2010,Gwinnett,Mississippi,76,134
+2010,Gwinnett,Ohio,562,289
+2010,Gwinnett,Pennsylvania,233,225
+2010,Gwinnett,Minnesota,73,79
+2010,Gwinnett,Indiana,132,135
+2010,Gwinnett,Nevada,66,106
+2010,Gwinnett,Massachusetts,173,178
+2010,Gwinnett,Virginia,396,464
+2010,Gwinnett,New Jersey,611,432
+2010,Gwinnett,Wisconsin,88,24
+2010,Gwinnett,Hawaii,42,62
+2010,Gwinnett,Washington,110,158
+2010,Gwinnett,Colorado,111,144
+2010,Gwinnett,Connecticut,201,126
+2010,Gwinnett,Oregon,19,10
+2010,Gwinnett,Kentucky,106,156
+2010,Gwinnett,Missouri,118,126
+2010,Gwinnett,Delaware,52,17
+2010,Gwinnett,Oklahoma,49,127
+2010,Gwinnett,Arkansas,25,10
+2010,Gwinnett,New Mexico,10,14
+2010,Gwinnett,Rhode Island,51,27
+2010,Gwinnett,Utah,63,89
+2010,Gwinnett,Iowa,10,36
+2010,Gwinnett,Alaska,10,35
+2010,Gwinnett,Washington DC,25,29
+2010,Gwinnett,Kansas,59,73

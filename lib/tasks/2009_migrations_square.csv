@@ -1,0 +1,200 @@
+year,atl_county,state,inbound,outbound
+2009,Clayton,Florida,979,678
+2009,Clayton,California,264,180
+2009,Clayton,New York,347,307
+2009,Clayton,Texas,190,415
+2009,Clayton,Illinois,128,108
+2009,Clayton,North Carolina,209,206
+2009,Clayton,Michigan,160,61
+2009,Clayton,Tennessee,90,148
+2009,Clayton,Louisiana,62,175
+2009,Clayton,Alabama,233,242
+2009,Clayton,Arizona,27,46
+2009,Clayton,Maryland,151,78
+2009,Clayton,South Carolina,63,117
+2009,Clayton,Mississippi,45,10
+2009,Clayton,Ohio,168,96
+2009,Clayton,Pennsylvania,57,50
+2009,Clayton,Minnesota,19,10
+2009,Clayton,Indiana,62,41
+2009,Clayton,Nevada,71,32
+2009,Clayton,Massachusetts,28,10
+2009,Clayton,Virginia,130,89
+2009,Clayton,New Jersey,96,55
+2009,Clayton,Wisconsin,26,30
+2009,Clayton,Hawaii,31,35
+2009,Clayton,Washington,10,62
+2009,Clayton,Connecticut,53,10
+2009,Clayton,Kentucky,10,25
+2009,Clayton,Washington DC,10,20
+2009,Clayton,Missouri,18,10
+2009,Clayton,Oklahoma,10,24
+2009,Cobb,Florida,3011,2298
+2009,Cobb,California,997,855
+2009,Cobb,New York,1192,716
+2009,Cobb,Texas,707,1498
+2009,Cobb,Illinois,587,490
+2009,Cobb,North Carolina,750,825
+2009,Cobb,Michigan,633,258
+2009,Cobb,Tennessee,602,653
+2009,Cobb,Louisiana,205,404
+2009,Cobb,Alabama,605,705
+2009,Cobb,Arizona,230,252
+2009,Cobb,Maryland,396,343
+2009,Cobb,South Carolina,580,648
+2009,Cobb,Mississippi,108,143
+2009,Cobb,Ohio,472,232
+2009,Cobb,Pennsylvania,314,226
+2009,Cobb,Minnesota,145,62
+2009,Cobb,Indiana,169,140
+2009,Cobb,Nevada,120,88
+2009,Cobb,Massachusetts,304,232
+2009,Cobb,Virginia,553,479
+2009,Cobb,New Jersey,492,284
+2009,Cobb,Wisconsin,101,72
+2009,Cobb,Hawaii,50,36
+2009,Cobb,Washington,129,170
+2009,Cobb,Colorado,121,214
+2009,Cobb,Connecticut,177,130
+2009,Cobb,Oregon,18,24
+2009,Cobb,Kentucky,94,114
+2009,Cobb,Missouri,154,76
+2009,Cobb,Delaware,37,45
+2009,Cobb,Oklahoma,59,82
+2009,Cobb,Arkansas,49,46
+2009,Cobb,Nebraska,31,19
+2009,Cobb,New Mexico,31,10
+2009,Cobb,Rhode Island,46,34
+2009,Cobb,Utah,32,46
+2009,Cobb,Kansas,69,39
+2009,Cobb,Iowa,25,32
+2009,Cobb,New Hampshire,16,10
+2009,Cobb,Alaska,19,27
+2009,Cobb,Washington DC,32,53
+2009,Cobb,Maine,14,10
+2009,Dekalb,Florida,2342,1838
+2009,Dekalb,California,986,878
+2009,Dekalb,New York,1287,1092
+2009,Dekalb,Texas,701,955
+2009,Dekalb,Illinois,523,410
+2009,Dekalb,North Carolina,713,857
+2009,Dekalb,Michigan,508,244
+2009,Dekalb,Tennessee,505,448
+2009,Dekalb,Louisiana,233,454
+2009,Dekalb,Alabama,637,569
+2009,Dekalb,Arizona,168,141
+2009,Dekalb,Maryland,447,420
+2009,Dekalb,South Carolina,619,602
+2009,Dekalb,Mississippi,120,51
+2009,Dekalb,Ohio,484,278
+2009,Dekalb,Pennsylvania,361,293
+2009,Dekalb,Minnesota,117,120
+2009,Dekalb,Indiana,139,175
+2009,Dekalb,Nevada,86,117
+2009,Dekalb,Massachusetts,219,254
+2009,Dekalb,Virginia,629,499
+2009,Dekalb,New Jersey,502,292
+2009,Dekalb,Wisconsin,116,67
+2009,Dekalb,Hawaii,49,34
+2009,Dekalb,Washington,116,183
+2009,Dekalb,Colorado,122,199
+2009,Dekalb,Connecticut,183,149
+2009,Dekalb,Oregon,25,43
+2009,Dekalb,Kentucky,78,116
+2009,Dekalb,Missouri,153,157
+2009,Dekalb,Delaware,43,36
+2009,Dekalb,Oklahoma,36,82
+2009,Dekalb,Arkansas,35,53
+2009,Dekalb,Nebraska,42,43
+2009,Dekalb,New Mexico,10,16
+2009,Dekalb,Rhode Island,30,36
+2009,Dekalb,Utah,20,15
+2009,Dekalb,Kansas,10,36
+2009,Dekalb,Maine,22,32
+2009,Dekalb,Iowa,24,57
+2009,Dekalb,Alaska,20,10
+2009,Dekalb,Washington DC,77,133
+2009,Dekalb,New Hampshire,17,10
+2009,Fulton,Florida,4187,2716
+2009,Fulton,California,1618,1644
+2009,Fulton,New York,1684,1271
+2009,Fulton,Texas,1159,1457
+2009,Fulton,Illinois,975,620
+2009,Fulton,North Carolina,1301,994
+2009,Fulton,Michigan,792,221
+2009,Fulton,Tennessee,892,800
+2009,Fulton,Louisiana,277,482
+2009,Fulton,Alabama,1089,784
+2009,Fulton,Arizona,301,254
+2009,Fulton,Maryland,723,482
+2009,Fulton,South Carolina,841,811
+2009,Fulton,Mississippi,157,83
+2009,Fulton,Ohio,792,459
+2009,Fulton,Pennsylvania,604,385
+2009,Fulton,Minnesota,176,149
+2009,Fulton,Indiana,248,185
+2009,Fulton,Nevada,145,113
+2009,Fulton,Massachusetts,369,382
+2009,Fulton,Virginia,874,733
+2009,Fulton,New Jersey,784,541
+2009,Fulton,Wisconsin,172,83
+2009,Fulton,Hawaii,71,60
+2009,Fulton,Washington,274,290
+2009,Fulton,Colorado,229,325
+2009,Fulton,Connecticut,331,212
+2009,Fulton,Oregon,42,90
+2009,Fulton,Kentucky,197,134
+2009,Fulton,Missouri,275,186
+2009,Fulton,Delaware,59,56
+2009,Fulton,Oklahoma,89,65
+2009,Fulton,Arkansas,74,78
+2009,Fulton,Nebraska,39,38
+2009,Fulton,New Mexico,23,40
+2009,Fulton,Rhode Island,33,30
+2009,Fulton,Utah,55,32
+2009,Fulton,Kansas,93,75
+2009,Fulton,Iowa,31,74
+2009,Fulton,New Hampshire,19,10
+2009,Fulton,Washington DC,144,202
+2009,Gwinnett,Florida,3565,2620
+2009,Gwinnett,California,1213,987
+2009,Gwinnett,New York,1807,1083
+2009,Gwinnett,Texas,742,1416
+2009,Gwinnett,Illinois,398,333
+2009,Gwinnett,North Carolina,742,744
+2009,Gwinnett,Michigan,518,182
+2009,Gwinnett,Tennessee,507,559
+2009,Gwinnett,Louisiana,131,340
+2009,Gwinnett,Alabama,516,612
+2009,Gwinnett,Arizona,167,156
+2009,Gwinnett,Maryland,458,374
+2009,Gwinnett,South Carolina,601,842
+2009,Gwinnett,Mississippi,92,108
+2009,Gwinnett,Ohio,374,254
+2009,Gwinnett,Pennsylvania,360,292
+2009,Gwinnett,Minnesota,109,106
+2009,Gwinnett,Indiana,120,100
+2009,Gwinnett,Nevada,147,136
+2009,Gwinnett,Massachusetts,281,261
+2009,Gwinnett,Virginia,538,429
+2009,Gwinnett,New Jersey,838,318
+2009,Gwinnett,Wisconsin,103,78
+2009,Gwinnett,Hawaii,38,45
+2009,Gwinnett,Washington,108,190
+2009,Gwinnett,Colorado,120,192
+2009,Gwinnett,Connecticut,270,157
+2009,Gwinnett,Oregon,22,38
+2009,Gwinnett,Kentucky,82,75
+2009,Gwinnett,Missouri,149,151
+2009,Gwinnett,Delaware,53,47
+2009,Gwinnett,Oklahoma,50,126
+2009,Gwinnett,Arkansas,29,78
+2009,Gwinnett,Nebraska,25,23
+2009,Gwinnett,New Mexico,26,18
+2009,Gwinnett,Rhode Island,55,44
+2009,Gwinnett,Utah,104,44
+2009,Gwinnett,Kansas,39,10
+2009,Gwinnett,Iowa,10,15
+2009,Gwinnett,Alaska,10,15
+2009,Gwinnett,Washington DC,26,48
+2009,Gwinnett,Idaho,10,18

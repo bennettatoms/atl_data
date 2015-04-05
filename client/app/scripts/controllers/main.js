@@ -3,7 +3,7 @@
 angular.module('clientApp')
 .controller('mainCtrl', ['$scope', '$state', function ($scope, $state) {
  
-  $scope.selectedGraph = 'graph1';     
+  $scope.selectedGraph = 'permitBlurb';     
   
   $scope.goToChord = function() {
     $state.go('home.migrations');
