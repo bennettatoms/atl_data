@@ -31,14 +31,11 @@ module.exports = function(config) {
       'bower_components/d3/d3.js',
       'bower_components/underscore/underscore.js',
       'bower_components/highcharts-ng/dist/highcharts-ng.js',
-      'bower_components/angular-charts/dist/angular-charts.js',
       'bower_components/angular-ui-router/release/angular-ui-router.js',
-      'bower_components/skrollr/src/skrollr.js',
-      'bower_components/angular-skrollr/dist/angular-skrollr.js',
       'bower_components/angular-mocks/angular-mocks.js',
       // endbower
       'app/scripts/**/*.js',
-      'test/mock/**/*.js',
+      // 'test/mock/**/*.js',
       'test/spec/**/*.js'
     ],
 

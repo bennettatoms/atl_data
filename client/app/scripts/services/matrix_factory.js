@@ -15,7 +15,9 @@ angular.module('clientApp').factory('matrixFactory', [function () {
     var matrix = {};
 
     matrix.update = function () {
-      _matrix = [], objs = [], entry = {};
+      _matrix = [];
+      var objs = [];
+      var entry = {};
 
       layoutCache = {groups: {}, chords: {}};
 
