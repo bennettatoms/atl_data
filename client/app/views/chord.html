@@ -89,10 +89,9 @@ aside {
 
     <fieldset id="tooltip" class="row secondary">
       <div class="tip-text">
-        <h6>{{ qFormat(tooltip.svalue) }} people migrated from {{ tooltip.tname }} into {{ tooltip.sname }} County, {{ pFormat(tooltip.svalue/tooltip.stotal) }} of {{ tooltip.sname }} County's total influx, and {{ pFormat(tooltip.svalue/tooltip.ttotal) }} of {{ tooltip.tname }}'s outflux to the metro area.</h6>
-      </div>
-      <div class="tip-text">
-        <h6>{{ qFormat(tooltip.tvalue) }} migrated from {{ tooltip.sname }} County into {{ tooltip.tname }}, for a net migration of {{ qFormat(tooltip.svalue - tooltip.tvalue) }} into {{ qFormat(tooltip.svalue - tooltip.tvalue) > 0 ? "metro Atlanta" : tooltip.tname }}.</h6>
+        <h6>In {{ tooltip.sdata['data'][0]['year'] }}, {{ qFormat(tooltip.svalue) }} people migrated from {{ tooltip.tname }} into {{ tooltip.sname }}.
+        <br>
+        {{ qFormat(tooltip.tvalue) }} migrated from {{ tooltip.sname }}  into {{ tooltip.tname }}, for a net migration of {{ qFormat(tooltip.svalue - tooltip.tvalue) }} into {{ tooltip.sname }}.</h6>
       </div>
     </fieldset>
 
