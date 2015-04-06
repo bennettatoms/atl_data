@@ -14,15 +14,26 @@ angular.module('clientApp')
   };
   
   $scope.hideChordButton = false;
+  $scope.showIntro = true;
+  $scope.hidePopButton = true;
 
-  function checkState(stateName) {
+  (function checkState(stateName) {
     if (stateName === 'home.migrations') {
       $scope.hideChordButton = true;
+      $scope.showIntro = false;
+      $scope.hidePopButton = false;
+      $scope.update;
+    } else if (stateName === 'home.population') {
+      $scope.hideChordButton = false;
+      $scope.showIntro = false;
+      $scope.hidePopButton = true;
+      $scope.update;
     }
-  }
+    console.log($state.$current.name);
+  })();
 
-  checkState($state.$current.name);
-
+  // checkState($state.$current.name);
+  
 
   $scope.showChord = function() {
     $state === 'home.migrations';

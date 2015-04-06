@@ -44,7 +44,10 @@ angular
  // default fall back route
     $urlRouterProvider.otherwise('/');
 
-}]);
+}])
+  .run(function ($state,$rootScope) {
+    $rootScope.$state = $state;
+});
 
 
 

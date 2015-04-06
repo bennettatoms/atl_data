@@ -1,29 +1,4 @@
 
-
-
-<!-- 
-    <audio id="audio" preload="auto" tabindex="0" controls="" type="audio/mpeg">
-        <source type="audio/mp3" src="http://www.archive.org/download/bolero_69/Bolero.mp3">
-        Sorry, your browser does not support HTML5 audio.
-    </audio>
-    <ul id="playlist">
-        <li class="active"><a href="http://www.archive.org/download/bolero_69/Bolero.mp3">Ravel Bolero</a></li>
-        <li><a href="http://www.archive.org/download/MoonlightSonata_755/Beethoven-MoonlightSonata.mp3">Moonlight Sonata - Beethoven</a></li>
-        <li><a href="http://www.archive.org/download/CanonInD_261/CanoninD.mp3">Canon in D Pachabel</a></li>
-        <li><a href="http://www.archive.org/download/PatrikbkarlChamberSymph/PatrikbkarlChamberSymph_vbr_mp3.zip">patrikbkarl chamber symph</a></li>
-    </ul> -->
-
-
-<!--  <audio controls>
-    <source src="images/outkast.mp3" type="audio/mpeg">
-    <source src="images/gladysknight.mp3" type="audio/mpeg">
-    <source src="images/raycharles.mp3" type="audio/mpeg">
-    <source src="images/gnarlsbarkley.mp3" type="audio/mpeg">
-    <source src="images/statesboroblues.mp3" type="audio/mpeg"> 
-    You need Chrome cuz your browser doesn't support audio, and that ain't cool.
-  </audio> -->
-
-  <!-- <div id="bg1" data-0="background-position:0px 0px;" data-end="background-position:-500px -10000px;"></div> -->
   <img src="images/bubbles2.jpg" id="bg2" width="100%">
   <div id="" ></div>
 
@@ -41,13 +16,19 @@
 
   <div class="row" id="migration">
     <div class="col-sm-12 text-center">
-      <header>
-        <h1>Metro Area Migration Patterns</h1>
-      </header>
-    
+      <div >
+        <header>
+          <h1>Metro Area Migration and Population</h1>
+        </header>
+        <p>Atlanta is a vibrant and ever-evolving city whose population has been growing apace for decades, through downturns and up. Those who choose relocate to Atlanta are attracted by a number of factors, chief among which is the rare combination of thriving commerce and economic opportunity with below-national-average cost of living.</p>
+        <br>
+        <p>We've chosen to focus on the five counties that comprise the geographic, economic, and cultural heart of the city of Atlanta: Fulton, Dekalb, Gwinnett, Cobb, and Clayton. These five counties tally more than 3.6 million inhabitants, well over half of the vastly larger 20-county metro area.</p>
+        <br>
+        <p>The following data visualization presents domestic migration figures into and out of the metro area every year from 2006 to 2011 (the latest year for which there is available data). The subsequent graph shows historical and projected future population growth for these five counties over the next quarter century.</p>
+      </div>
       <div class="row graphs">
         <div class="graph-buttons">
-          <button class="btn btn-default" ng-click="goToChord();" ng-hide="hideChordButton">Migrations Chord Diagram</button>
+          <button class="btn btn-default" ng-click="goToChord();" data-ng-hide="$state.includes('home.migrations')">Migration Chord Diagram</button>
         </div>
       </div>
       <div class="home-view-container">
@@ -56,25 +37,7 @@
     </div>
   </div>      
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  <div>
-    
+  <div>   
     <video width="360" height="240" autoplay loop muted>
       <source src="images/12mid.mp4" type="video/mp4">
       Your browser doesn't support HTML5 video. Get with it fool and upgrade to Chrome!
@@ -124,6 +87,8 @@
                 <br>
                 <p>In recent years, the Great Recession severely dampened development in Atlanta, but as you can see from the next two visualizations, momentum is building for another era of strong growth in the metro area.</p>
                 <img src="images/buildings_by_era.png" id="building-decades" width="50%">
+                <p><strong>Source:</strong> <a href="http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml" target="_blank">United States Census Bureau: American Factfinder</a></p>
+
               </div>
 
 
@@ -142,6 +107,7 @@
                 <pie-chart id="pie-chart" url="/data/permits.json"></pie-chart>
                 <div id="slider" style="width:500px;margin-left:auto;margin-right:auto;margin-top:10px;margin-bottom:50px"></div>
               </div> 
+              <p><strong>Source:</strong> <a href="http://www.terry.uga.edu/about/centers-institutes/selig/housing" target="_blank">University of Georgia Terry College of Business Housing Data</a></p>
             </div>
           </div>
 
@@ -153,6 +119,7 @@
               <div id="permitBar" style="width:80%; height:600px; margin: 0 auto;">
                 <highchart id="container" config="permitChartConfig"></highchart>
               </div>
+              <p><strong>Source:</strong> <a href="http://www.terry.uga.edu/about/centers-institutes/selig/housing" target="_blank">University of Georgia Terry College of Business Housing Data</a></p>
             </div>
           </div>
         </div> 

@@ -2,19 +2,19 @@
 
 ##Overview
 ---
-**ElevATL** is a web application that demonstrates with striking data visualizations the economic and demographic trajectory of the city of Atlanta. Elevate was created by Bennett Adams and Michael Gurliaccio.
+**Elevate(ATL)** is a web application that demonstrates with striking data visualizations the economic and demographic trajectory of the city of Atlanta. Elevate was created by Bennett Adams and Michael Gurliaccio.
 <br />
 ##Links
 ---
 * [Heroku]()
-* [Trello](https://trello.com/b/TI6qNTvi/atl-data-viz-app) Board
+* [Trello Board](https://trello.com/b/TI6qNTvi/atl-data-viz-app) 
 * [Moqups]()
 * [GitHub](https://github.com/bennettatoms/atl_data)
 
 
 ##Technologies Used
 ---
-* Back end design and development: [Ruby 2.1.2](https://www.ruby-lang.org/en/), [Rails 4.2.0](http://weblog.rubyonrails.org/), and [PostgresQL](http://www.mongodb.org/)
+* Back end design and development: [Ruby 2.1.2](https://www.ruby-lang.org/en/), [Rails 4.2.0](http://weblog.rubyonrails.org/), and [PostgresQL](http://www.postgresql.org/)
 * Graphs: [D3.js](http://d3js.org/) and [Highcharts](http://www.highcharts.com/)
 * Front-end design and development:[Twitter Bootstrap](http://getbootstrap.com/), and [AngularJS](https://angularjs.org/)
 * Deployment: [Heroku](https://devcenter.heroku.com/)
@@ -24,20 +24,21 @@
 * As a user, I understand the mission of the website from the welcome page.
 * As a user, I want navigation of the website to be clear and intuitive.
 * As a user, I want data visualized in a way that's interactive and easy to understand.
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* As a user, I want some kind of information to introduce the subject matter of a data visualization.
+* As a user, I want to be able to seamlessly load multiple windows/charts without having to navigate to a different address or refresh the page.
+* As a user, I want to see inforamtion presented in a variety of ways, i.e. not the same type of chart over and over again.
+* As a user, I want to be able to access the page/information without having to sign up/log in/share personal information.
+* As a user, I want data visualized in a way that's interactive and easy to understand.
+* As a user, when I click the different data visualization buttons, I see an entirely new graph/chart.
+* As a user, I want to have access to links to the statistical sources cited in the data visualizations.
 <br />
 
 ---
-##Statistic Sources
+##Statistics Sources
 
 * Internal Revenue Service: [SOI Tax Stats - County-to-County Migration](http://www.irs.gov/uac/SOI-Tax-Stats-County-to-County-Migration-Data-Files)
 * University of Georgia Terry College of Business: [Housing Market Data](http://www.terry.uga.edu/about/centers-institutes/selig/housing#cite-text-0-0)
 * United States Census Bureau/American Community Survey: [American Fact Finder](http://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml)
 * Atlanta Regional Commission: [Population and Housing Data](http://www.atlantaregional.com/info-center/arc-region/population-housing-data)
 * Atlanta Convention and Visitors Bureau [Video Media](http://news.atlanta.net/research)
+* Metro Atlanta Chamber of Commerce: [Executive Profile](http://www.metroatlantachamber.com/docs/resources/metro-atlanta-an-executive-profile-.pdf?sfvrsn=0)
