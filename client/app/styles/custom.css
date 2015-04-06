@@ -36,7 +36,7 @@ p {
   font-family: 'Alegreya Sans SC', sans-serif;
   font-size: 1em;
   color:white;
-  padding-left: 270px;
+  /*padding-left: 270px;*/
   text-align: left;
   /*margin:1em 0;*/
   /*line-height:1em;*/
@@ -75,8 +75,10 @@ h3 {
   color:white;
   font-size:1.5em;
   /*margin:1em 0;*/
-  /*text-align: center;*/
+  text-align: center;
   font-family: 'Alegreya Sans SC', sans-serif;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 h4 {
@@ -86,6 +88,128 @@ h4 {
   text-align: left;
   padding-left: 270px;
   /*margin:1em 0;*/
+}
+
+highchart #container {
+  height: 500px;
+}
+
+.graph-buttons {
+  text-align: center;
+}
+
+.panelyears {
+  float: left;
+  padding-left: 10%;
+}
+
+.filters {
+  float: right;
+  padding-right: 10%;
+  text-align: right;
+}
+
+.dia {
+  color: blue;
+
+}
+
+.chart {
+  max-width: 75%;
+}
+
+#irs {
+  padding-left: 25px;
+  color: white;
+}
+
+#dev {
+  text-align: center;
+  background-image: url(/images/Black-Gradient2.jpg);
+  background-size: cover;
+  width: 100%;
+  /*display: inline-block;*/
+  height: 800px;
+}
+
+.devcopy p {
+  width: 92%;
+  text-align: left;
+  padding-left: 20px;
+  font-size: 24px;
+}
+
+.graph-buttons {
+  display: block;
+  text-align: center;
+  padding: 15px;
+
+}
+
+.graph_btn{
+  width: 90%;
+  height: 100px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-size: 24px;
+  border-radius: 35px;
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+.buildingsera {
+  padding-right: 20px;
+}
+
+.column-center {
+  display: inline-block;
+  width: 15%;
+}
+
+.column-left{
+  float: left;
+  width: 30%;
+}
+
+.column-right{
+  float: right;
+  width: 50%;
+  padding-right: 25px;
+}
+
+.vizgraphs {
+  margin-top: -20px;
+}
+
+#building-decades {
+  width: 99%;
+  height: 90%;
+}
+
+#pop {
+  color: white;
+  background: blue;
+  border-radius: 55px;
+  text-align: center;
+}
+
+#pop:hover {
+    color: black;
+    background: lightblue;
+    box-shadow: 0px 0px 2px #777;
+}
+
+#chord {
+  text-align: center;
+  color: white;
+  background: blue;
+  border-radius: 55px;
+
+}
+
+#chord:hover {
+    color: black;
+    background: lightblue;
+    box-shadow: 0px 0px 2px #777;
 }
 
 #progress {
@@ -271,7 +395,7 @@ aside {
 #pie-chart {
   background-color: #ffffff;
   /*border: 1px solid gray;*/
-  font: 10px sans-serif;
+  /*font: 10px sans-serif;*/
   height: 400px;
   text-shadow: none;
   width: 650px;
@@ -279,25 +403,31 @@ aside {
   margin-right:auto;
 }
 #pie-chart .total{
+  fill: white;
   font-size: 18px;
   font-weight: bold;
+
 }
 #pie-chart .units{
-  fill: gray;
+  fill: white;
   font-size: 12px;
+  
 }
 #pie-chart .label{
-  fill: #CCC;
+  fill: white;
+  
   font-size: 12px;
   font-weight: bold;
 }
 #pie-chart .value{
+  fill: white;
   font-size: 20px;
   font-weight: bold;
 }
 
 #slider label {
   position: absolute;
+  color: white;
   width: 20px;
   margin-left: -20px;
   text-align: center;

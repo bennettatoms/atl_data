@@ -155,11 +155,11 @@ angular.module('clientApp')
 
         total_text.append('svg:text')
           .attr('class', 'label')
-          .attr('dy', -30)
+          .attr('dy', -10)
           .attr('text-anchor', 'middle')
           .attr('opacity', '0.5')
           .style('font-size', '2em')
-          .style('fill', 'black')
+          .style('fill', 'white')
           .text('TOTAL');
 
         // PLACE TOTAL VALUE AMOUNT IN CENTER HOLE
@@ -169,7 +169,7 @@ angular.module('clientApp')
           .attr('dy', 0)
           .attr('text-anchor', 'middle') // text-align: right
           .style('font-size', '2em')
-          .style('fill', 'black')
+          .style('fill', 'white')
           .text('');
 
         totalLabel.transition().duration(tweenDuration).attrTween('transform', textTween);
@@ -179,9 +179,12 @@ angular.module('clientApp')
         // DISPLAY THE FIVE-COUNTY TOTAL VALUE
         totalValue = center_group.append('svg:text')
           .attr('class', 'total')
-          .attr('dy', 15)
+          .attr('dy', 25)
+          .style('font-size', '1.5em')
           .attr('text-anchor', 'middle') // text-align: right
+          .style('fill', 'white')
           .text('$' + (sliceProportion/1000000000).toFixed(3) + 'B');
+
 
         // DRAW LABELS WITH PERCENTAGE VALUES
         valueLabels = label_group.selectAll('text.value').data(filteredPieData)
@@ -199,6 +202,7 @@ angular.module('clientApp')
               return 'end';
             }
           })
+
           .text(function(d){
             var percentage = (d.value/sliceProportion)*100;
             return percentage.toFixed(1) + '%';
