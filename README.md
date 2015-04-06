@@ -8,7 +8,7 @@
 ---
 * [Heroku]()
 * [Trello Board](https://trello.com/b/TI6qNTvi/atl-data-viz-app) 
-* [Moqups]()
+* [Moqups](https://moqups.com/#!/edit/gurliaccio/a4Sr4F4P)
 * [GitHub](https://github.com/bennettatoms/atl_data)
 
 
@@ -26,14 +26,18 @@
 * As a user, I want data visualized in a way that's interactive and easy to understand.
 * As a user, I want some kind of information to introduce the subject matter of a data visualization.
 * As a user, I want to be able to seamlessly load multiple windows/charts without having to navigate to a different address or refresh the page.
-* As a user, I want to see inforamtion presented in a variety of ways, i.e. not the same type of chart over and over again.
+* As a user, I want to see information presented in a variety of ways, i.e. not the same type of chart over and over again.
 * As a user, I want to be able to access the page/information without having to sign up/log in/share personal information.
 * As a user, I want data visualized in a way that's interactive and easy to understand.
 * As a user, when I click the different data visualization buttons, I see an entirely new graph/chart.
 * As a user, I want to have access to links to the statistical sources cited in the data visualizations.
 <br />
 
+##Wireframe Examples
 ---
+![Chord Diagram Mockup](http://i.imgur.com/MRKDVmy.jpg =700x500)
+![Development Section Mockup](http://i.imgur.com/XfY2B6u.jpg =700x500)
+
 ##Statistics Sources
 
 * Internal Revenue Service: [SOI Tax Stats - County-to-County Migration](http://www.irs.gov/uac/SOI-Tax-Stats-County-to-County-Migration-Data-Files)
