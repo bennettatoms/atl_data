@@ -50,16 +50,8 @@ q {
 h1 {
   color:white;
   font-size:4em;
-  /*margin:0;*/
+  text-align: center;
   font-family: 'Alegreya Sans SC', sans-serif;
-}
-
-h1 > small {
-  /*text-align:right;*/
-  /*display:inline-block;
-  font-size:.71em;
-  text-indent:15em;
-  color:#444;*/
 }
 
 h2 {
@@ -118,6 +110,8 @@ highchart #container {
   max-width: 75%;
 }
 
+
+
 #irs {
   padding-left: 25px;
   color: white;
@@ -129,7 +123,12 @@ highchart #container {
   background-size: cover;
   width: 100%;
   /*display: inline-block;*/
-  height: 800px;
+  height: 810px;
+  margin-top: -43px;
+}
+
+.buildingsera p {
+  margin-bottom: 10px;
 }
 
 .devcopy p {
@@ -147,17 +146,24 @@ highchart #container {
 }
 
 .graph_btn{
+  color: white;
   width: 90%;
-  height: 100px;
+  height: 80px;
   margin-bottom: 20px;
   margin-top: 20px;
   font-size: 24px;
   border-radius: 35px;
   font-family: 'Alegreya Sans SC', sans-serif;
+  background: #67C8FF;
 }
 
+.graph_btn:hover {
+    color: black;
+    background-color: lightblue;
+  }
+
 .buildingsera {
-  padding-right: 20px;
+  padding-right: 15px;
 }
 
 .column-center {
@@ -172,8 +178,37 @@ highchart #container {
 
 .column-right{
   float: right;
-  width: 50%;
-  padding-right: 25px;
+  width: 48%;
+  padding-right: 15px;
+}
+
+.skyline {
+  background-repeat: no-repeat;
+  background-image: url(/images/skyl5.jpg);
+  background-size: contain;
+  width: 100%;
+  height: 850px;
+  margin-top: -42px;
+}
+
+.skyline h1 {
+  text-align: center;
+  color: black;
+}
+
+.skyline h5 {
+  text-align: center;
+  color: white;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  padding-top: 800px;
+}
+
+.skyline p {
+  color: black;
+  font-size: 1.5em;
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
 }
 
 .vizgraphs {
@@ -201,8 +236,10 @@ highchart #container {
 #chord {
   text-align: center;
   color: white;
-  background: blue;
+  background: #67C8FF;
   border-radius: 55px;
+  width: 30em;  
+  height: 3em;
 
 }
 
@@ -210,6 +247,8 @@ highchart #container {
     color: black;
     background: lightblue;
     box-shadow: 0px 0px 2px #777;
+    width: 30em;  
+    height: 3em;
 }
 
 #progress {
@@ -231,7 +270,6 @@ highchart #container {
   border-radius:3px;
 }
 
-.skrollr-desktop #scrollbar {display:none;}
 
 #bg1, #bg2, #bg3 {
   z-index:50;
@@ -262,89 +300,7 @@ highchart #container {
   margin-right:-40%;
 }
 
-#intro {
-  width:75%;
-  left:50%;
-  top:1em;
-  margin-left:-40%;
-  padding:2em;
-  /*background:#b2b2b2;*/
-  text-align:center;
-  border-radius:1em;
 
-  -webkit-transform-origin:0 0;
-  -moz-transform-origin:0 0;
-  -ms-transform-origin:0 0;
-  -o-transform-origin:0 0;
-  transform-origin:0 0;
-
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-#intro .arrows {
-  font-size:4em;
-  color:#32CD32;
-}
-
-#transform {
-  width:70%;
-  left:50%;
-  top:20%;
-  margin-left:-45%;
-  text-align:center;
-  font-size:150%;
-  left: 500px;
-
-  .transform-origin(50%, 50%);
-}
-
-#properties {
-  width:100%;
-  height:100%;
-  padding-top:10%;
-  text-align:center;
-  font-family: 'Alegreya Sans SC', sans-serif;
-
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-#easing_wrapper {
-  width:100%;
-  height:100%;
-}
-
-#easing {
-  top:10%;
-  width:50%;
-  z-index:101;
-}
-
-.drop {
-  /*background:#09f;*/
-  /*font-weight:bold;*/
-  /*padding:1em;*/
-}
-
-#download {
-  width:80%;
-  left:10%;
-  height:80%;
-  padding:3em;
-  border:0 solid #222;
-
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-#playlist,audio{background:#666;width:400px;padding:20px;}
-.active a{color:#5DB0E6;text-decoration:none;}
-li a{color:#eeeedd;background:#333;padding:5px;display:block;}
-li a:hover{text-decoration:none;}
 
 /* BEGIN CHORD DIAGRAM SECTION */
 
