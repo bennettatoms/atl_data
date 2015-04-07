@@ -2,11 +2,17 @@
 
 ##Overview
 ---
-**Elevate(ATL)** is a web application that demonstrates with striking data visualizations the economic and demographic trajectory of the city of Atlanta. Elevate was created by Bennett Adams and Michael Gurliaccio.
+**ElevATL** is a web application that demonstrates with striking data visualizations the economic and demographic trajectory of the city of Atlanta. ElevATL was created by Bennett Adams and Michael Gurliaccio.
 <br />
+##The ElevATL Team
+---
+[Bennett Adams](https://github.com/bennettatoms) ([LinkedIn](https://www.linkedin.com/pub/bennett-adams/8/181/3b9))
+
+[Michael Gurliaccio](https://github.com/gurliaccio) ([LinkedIn](https://www.linkedin.com/in/firebad))
+
 ##Links
 ---
-* [Heroku]()
+* [ElevATL](http://45.55.171.96:3000/)
 * [Trello Board](https://trello.com/b/TI6qNTvi/atl-data-viz-app) 
 * [Moqups](https://moqups.com/#!/edit/gurliaccio/a4Sr4F4P)
 * [GitHub](https://github.com/bennettatoms/atl_data)
@@ -14,10 +20,11 @@
 
 ##Technologies Used
 ---
-* Back end design and development: [Ruby 2.1.2](https://www.ruby-lang.org/en/), [Rails 4.2.0](http://weblog.rubyonrails.org/), and [PostgresQL](http://www.postgresql.org/)
 * Graphs: [D3.js](http://d3js.org/) and [Highcharts](http://www.highcharts.com/)
-* Front-end design and development:[Twitter Bootstrap](http://getbootstrap.com/), and [AngularJS](https://angularjs.org/)
-* Deployment: [Heroku](https://devcenter.heroku.com/)
+* Front-end design and development: [AngularJS](https://angularjs.org/), JavaScript, HTML5, CSS3
+* Back end design and development: [Ruby 2.1.2](https://www.ruby-lang.org/en/), [Rails 4.2.0](http://weblog.rubyonrails.org/), and [PostgresQL](http://www.postgresql.org/), Active Record
+* Package Management/Scaffolding: [Yeoman](http://yeoman.io/), [Node Package Manager](https://www.npmjs.com/), [Bower](http://bower.io/), [Grunt](http://gruntjs.com/)
+* Deployment: [Digital Ocean](https://www.digitalocean.com/)
 
 ##User Story Examples
 ---
