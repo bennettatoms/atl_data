@@ -82,6 +82,10 @@ h4 {
   /*margin:1em 0;*/
 }
 
+#migrate h2 {
+  color: black;
+}
+
 highchart #container {
   height: 500px;
 }
@@ -95,22 +99,14 @@ highchart #container {
   padding-left: 10%;
 }
 
-.filters {
-  float: right;
-  padding-right: 10%;
-  text-align: right;
-}
-
 .dia {
   color: blue;
-
 }
 
 .chart {
-  max-width: 75%;
+  max-width: 60%;
+  max-height: 880px;
 }
-
-
 
 #irs {
   padding-left: 25px;
@@ -125,6 +121,10 @@ highchart #container {
   /*display: inline-block;*/
   height: 810px;
   margin-top: -43px;
+}
+
+.vid {
+  margin-top: -60px;
 }
 
 .buildingsera p {
@@ -142,7 +142,6 @@ highchart #container {
   display: block;
   text-align: center;
   padding: 15px;
-
 }
 
 .graph_btn{
@@ -160,15 +159,27 @@ highchart #container {
 .graph_btn:hover {
     color: black;
     background-color: lightblue;
-  }
+}
 
 .buildingsera {
   padding-right: 15px;
 }
 
+.buildingsera p {
+  margin-left: 100px;
+}
+
+.permitPie p {
+  margin-left: 75px;
+}
+
+.permitBar p {
+  margin-left: 80px;
+}
+
 .column-center {
   display: inline-block;
-  width: 15%;
+  width: 20%;
 }
 
 .column-left{
@@ -209,6 +220,7 @@ highchart #container {
   text-align: center;
   padding-left: 100px;
   padding-right: 100px;
+  margin-top: -25px;
 }
 
 .vizgraphs {
@@ -218,6 +230,21 @@ highchart #container {
 #building-decades {
   width: 99%;
   height: 90%;
+}
+
+.contact {
+  text-align: center;
+  margin-top: -80px;
+}
+
+.contact-bennett {
+  display: inline-block;
+  margin-right: 30px;
+}
+
+.contact-michael {
+  display: inline-block;
+  padding-left: 150px;
 }
 
 #pop {
@@ -240,7 +267,6 @@ highchart #container {
   border-radius: 55px;
   width: 30em;  
   height: 3em;
-
 }
 
 #chord:hover {
@@ -341,6 +367,25 @@ input[type="radio"] {
   font-size: 12pt;
 }
 
+.side-nav-left {
+  float: left;
+}
+
+.side-nav-right {
+  float: right;
+}
+
+.filters {
+  float: right;
+  padding-right: 10%;
+  text-align: right;
+}
+
+.filters h3 {
+  color: black;
+  text-align: right;
+}
+
 aside {
   margin: 0px;
 }
@@ -358,23 +403,26 @@ aside {
   margin-left: auto;
   margin-right:auto;
 }
+
 #pie-chart .total{
   fill: white;
   font-size: 18px;
   font-weight: bold;
-
 }
+
 #pie-chart .units{
   fill: white;
   font-size: 12px;
   
 }
+
 #pie-chart .label{
   fill: white;
   
   font-size: 12px;
   font-weight: bold;
 }
+
 #pie-chart .value{
   fill: white;
   font-size: 20px;

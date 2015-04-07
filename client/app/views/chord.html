@@ -4,7 +4,7 @@
   <div class="dia" style="position:relative;" width="100%">
     <aside class="panelyears">
       <h3 class="text-center">Atlanta Migrations <span>{{ selected_year }}</span></h3>
-      <ul class="side-nav">
+      <ul class="side-nav-left">
         <li ng-repeat="year in years">
           <label for="year_{{ year }}">{{ year }}</label>
           <input ng-model="$parent.selected_year" type="radio" name="years" ng-value="year" id="year_{{ year }}">
@@ -20,7 +20,7 @@
       <div class="panel">
         <div ng-if="hasFilters === false" style="margin: 15px; opacity: 0.5;">
       </div>
-        <ul class="side-nav">
+        <ul class="side-nav-right">
           <li ng-repeat="filter in filters">
             <input ng-model="filter.hide" id="{{ filter.name }}" type="checkbox">
             <label for="{{ filter.name }}">{{ filter.name }}</label>

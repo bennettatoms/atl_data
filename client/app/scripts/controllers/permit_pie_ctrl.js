@@ -76,7 +76,8 @@ angular.module('clientApp')
     });
 
     // D3 helper function to create colors from an ordinal scale
-    var color = d3.scale.category10();
+    var color = d3.scale.ordinal()
+      .range(['#9b59b6', '#e74c3c', '#e67e22', '#2980b9', '#1abc9c']);
 
     // D3 helper function to draw arcs, populates parameter 'd' in path object
     var arc = d3.svg.arc()
