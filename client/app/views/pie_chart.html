@@ -1,58 +1,11 @@
-<style type="text/css">
-body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin: auto;
-  position: relative;
-  font-weight: 300;
-}
-
-#pie-chart {
-  background-color: #ffffff;
-  /*border: 1px solid gray;*/
-  font: 10px sans-serif;
-  height: 400px;
-  text-shadow: none;
-  width: 650px;
-  margin-left: auto;
-  margin-right:auto;
-}
-#pie-chart .total{
-  font-size: 18px;
-  font-weight: bold;
-}
-#pie-chart .units{
-  fill: gray;
-  font-size: 12px;
-}
-#pie-chart .label{
-  fill: #CCC;
-  font-size: 12px;
-  font-weight: bold;
-}
-#pie-chart .value{
-  font-size: 18px;
-  font-weight: bold;
-}
-
-#slider label {
-    position: absolute;
-    width: 20px;
-    margin-left: -20px;
-    text-align: center;
-    margin-top: 30px;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    transform: translate(0,100%) rotate(-45deg);
-    transform-origin: 0 0;
-}
-</style>
-
 
 
 <div id="slidercontainer" style="width:100%;text-align:center">
   <pie-chart id="pie-chart" url="/data/permits.json"></pie-chart>
-  <div id="slider" style="width:500px;margin-left:auto;margin-right:auto;margin-top:10px;margin-bottom:50px"></div>
+  <div id="slider" style="width:48%;margin-left:auto;margin-right:auto;margin-top:10px;margin-bottom:50px"></div>
 </div> 
 
 <div ui-view></div>
-
+<!-- 
 <button type="button" ng-click="goToBar();">Show Permits Bar Chart</button>
+ -->

@@ -64,7 +64,7 @@ angular.module('clientApp')
     var tweenDuration = 1050;
 
     // OBJECTS TO BE POPULATED WITH DATA LATER
-    var lines, valueLabels, nameLabels, totalLabel, totalValue;
+    var valueLabels, nameLabels, totalLabel, totalValue;
     var pieData = [];    
     var oldPieData = [];
     var filteredPieData = [];
@@ -119,14 +119,14 @@ angular.module('clientApp')
       pieData = donut(data);
 
       var sliceProportion = 0; //size of this slice
-      filteredPieData = pieData.filter(filterData);
-      function filterData(element, index, array) {
+      
+      function filterData(element, index) {
         element.name = data[index].county;
         element.value = data[index].dollarValue;
         sliceProportion += element.value;
         return (element.value > 0);
       }
-      
+      filteredPieData = pieData.filter(filterData);
       // MAKE RADIUS OF DONUT DYNAMICALLY CHANGE PROPORTIONAL TO TOTAL ANNUAL VALUE OF PERMITS
       var newDonutWidth = ir + (Math.sqrt(sliceProportion))/500;  
           
@@ -302,19 +302,19 @@ angular.module('clientApp')
         s0 = 0;
         e0 = 0;
       }
-      var i = d3.interpolate({startAngle: s0, endAngle: e0}, {startAngle: d.startAngle, endAngle: d.endAngle});
+      var j = d3.interpolate({startAngle: s0, endAngle: e0}, {startAngle: d.startAngle, endAngle: d.endAngle});
       return function(t) {
-        var b = i(t);
+        var b = j(t);
         return arc(b);
       };
     }
 
-    function removePieTween(d, i) {
+    function removePieTween(d, k) {
       var s0 = 2 * Math.PI;
       var e0 = 2 * Math.PI;
-      var i = d3.interpolate({startAngle: d.startAngle, endAngle: d.endAngle}, {startAngle: s0, endAngle: e0});
+      k = d3.interpolate({startAngle: d.startAngle, endAngle: d.endAngle}, {startAngle: s0, endAngle: e0});
       return function(t) {
-        var b = i(t);
+        var b = k(t);
         return arc(b);
       };
     }

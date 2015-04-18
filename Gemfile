@@ -8,7 +8,7 @@ gem 'rails-api'
 gem 'spring', :group => :development
 
 gem 'awesome_print', :group => :development
-
+gem 'rails_12factor', :group => :production
 
 gem 'pg'
 gem 'httparty'

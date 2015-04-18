@@ -1,6 +1,5 @@
-<style> 
-#top {
-    background-image: url(images/bubbles2.jpg);
+<style>#top {
+    background-image: url(images/bubbles2.470e54a3.jpg);
     
     background-size: 100% 100%;
     background-repeat: no-repeat;
@@ -28,118 +27,10 @@
 }
 
 .mig {
-  background-image: url(images/Black-Gradient.jpg);
+  background-image: url(images/Black-Gradient.d27c8055.jpg);
   text-align: center;
   padding-top: 50px;
   /*padding-bottom: 100px;*/
-}
-
-</style>
-
-<audio autoplay loop>
-    <source src="images/mix.mp3" type="audio/mpeg">
-    You need Chrome! Your browser doesn't support audio, and that ain't cool.
-</audio>
-
-<div id="top">
-    <br><br><br><br><br><br><br><br><img src="images/logo.png">
-    <h2>perspectives on our evolving city</h2>
-    <h2 class="arrows" style="color: #0038ff">▼</h2>
-</div>
-
-<div class="row" id="migrate_text">
-  <div class="mig">
-    <h1>Metro Area Migration and Population</h1>
-    <h3>Atlanta is a vibrant and ever-evolving city whose population has been growing apace for decades, through downturns and up. Those who choose relocate to Atlanta are attracted by a number of factors, chief among which is the rare combination of thriving commerce and economic opportunity with below-national-average cost of living.</h3>
-    <br>
-    <h3>We've chosen to focus on the five counties that comprise the geographic, economic, and cultural heart of the city of Atlanta: Fulton, Dekalb, Gwinnett, Cobb, and Clayton. These five counties tally more than 3.6 million inhabitants, well over half of the vastly larger 20-county metro area.</h3>
-    <br>
-    <h3>The following data visualization presents domestic migration figures into and out of the metro area every year from 2006 to 2011 (the latest year for which there is available data). The subsequent graph shows historical and projected future population growth for these five counties over the next quarter century.</h3>
-    <div class="row graphs">
-      <div class="graph-buttons">
-        <button id="chord" class="btn btn-default" ng-click="goToChord();" data-ng-hide="$state.includes('home.migrations')">Migration Chord Diagram</button>
-      </div>
-    </div>
-
-    <div class="home-view-container">
-      <div class="home-ui-view" ui-view></div>
-    </div>
-  </div>      
-</div>
-
-  <div id="dev">   
-    <h1>Development</h1>
-    <div class="vid column-left">
-      <video width="400" height="300" autoplay loop muted>
-        <source src="images/12mid.mp4" type="video/mp4">
-        Your browser doesn't support HTML5 video. Get with it and upgrade to Chrome!
-      </video>
-      <div class="devcopy">
-        <p>Atlanta is a city steeped in history, having emerged from Civil War ruin to sit at the heart of the Civil Rights movement a century later. And the story of the city can be told through her buildings.</p>
-        <br>
-        <p>In recent years, the Great Recession severely dampened development in Atlanta, but as you can see from the next two visualizations, momentum is building for another era of strong growth in the metro area.</p>
-      </div>
-    </div>
-    <div class="column-center" id="development">
-      <div class="graph-buttons">
-        <button class="graph_btn" ng-click="selectGraph('permitPie')">Dollars to Donuts</button>
-        <button class="graph_btn" ng-click="selectGraph('permitBar')">Housing Units Line Graph</button>
-        <button class="graph_btn" ng-click="selectGraph('permitBlurb')">Buildings by Era</button>
-      </div>
-    </div>
-    <div class="vizgraphs column-right">
-      <div ng-switch on="selectedGraph" class="viz">
-        <div ng-switch-when="permitBlurb">
-          <div class="buildingsera">
-            <img src="images/buildings_by_era.png" id="building-decades">
-            <p><strong>Source:</strong> <a style="color:white" href="http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml" target="_blank">United States Census Bureau: American Factfinder</a></p>
-          </div>
-        </div>
-
-        <div ng-switch-when="permitPie">
-          <header>
-            <h3>Metro Area Building Permits Since 2000</h1>
-          </header>
-          <div class="permitPie text-center" ng-controller="permitPieCtrl">
-            <div id="slidercontainer permitPie" style="width:100%; height:600px; text-align:center margin: 0 auto;">
-              <pie-chart id="pie-chart" url="/data/permits.json"></pie-chart>
-              <div id="slider" style="width:90%;margin-left:auto;margin-right:auto;margin-top:10px;margin-bottom:50px"></div>
-            </div> 
-            <p><strong>Source:</strong> <a style="color:white" href="http://www.terry.uga.edu/about/centers-institutes/selig/housing" target="_blank">University of Georgia Terry College of Business Housing Data</a></p>
-          </div>
-        </div>
-
-        <div ng-switch-when="permitBar">
-          <header>
-            <h3>Metro Area Building Permits Since 2000</h1>
-          </header>
-          <div class="permitBar text-center" ng-controller="BldgPmtCtrl">
-            <div id="permitBar" style="width:95%; margin: 0 auto;">
-              <highchart id="container" config="permitChartConfig"></highchart>
-            </div>
-            <p><strong>Source:</strong> <a style="color:white" href="http://www.terry.uga.edu/about/centers-institutes/selig/housing" target="_blank">University of Georgia Terry College of Business Housing Data</a></p>
-          </div>
-        </div>
-      </div> 
-    </div>     
-  </div>
-
-  <div class="skyline" >
-    <h1 style="text-align:center">Our Economy</h1>
-    <p>Already home to 18 Fortune 500 companies and 27 Fortune 1000 companies, Atlanta's diverse economy is the 44th largest in the world. With big-city amenities, a low cost of living, and the world’s busiest airport, Atlanta is emerging as a key player in the fast-growing industries of biotech, healthcare IT, marketing automation, e-security, and mobile technology.<br><br>But our successes don't end there.<br><br>Georgia's growing film industry, for example, generated more than $5 billion last year alone. As a result of our start-up friendly environment, forward-thinking initiatives like the Beltline, and a never-ending supply of bright students, Atlanta seems to be on everyone's mind.</p>
-  </div>
-  <div class="contact"> 
-    <div class="contact-bennett">
-      <a class="bennett-contact-github" href="https://github.com/bennettatoms" target="_blank"><img src="http://fritzo.org/github-icon.png" style="width:24px;height:24px;"></a>
-      <a class="bennett-contact-linkedin" href="https://www.linkedin.com/pub/bennett-adams/8/181/3b9" target="_blank"><img src="http://www.spotlightcreative.com/media/uploaded/l/0e2010073_linkedin-icon.gif" style="width:24px;height:24px;"></a>
-    </div>
-    <span>       </span>
-    <div class="contact-michael">
-      <a class="michael-contact-github" href="https://github.com/gurliaccio" target="_blank"><img src="http://fritzo.org/github-icon.png" style="width:24px;height:24px;"></a>
-      <a class="michael-contact-linkedin" href="https://www.linkedin.com/in/firebad" target="_blank"><img src="http://www.spotlightcreative.com/media/uploaded/l/0e2010073_linkedin-icon.gif" style="width:24px;height:24px;"></a>
-    </div>
-  </div>
-
-  <!--[if lt IE 9]>
+}</style> <audio autoplay loop> <source src="images/mix.mp3" type="audio/mpeg"> You need Chrome! Your browser doesn't support audio, and that ain't cool. </audio> <div id="top"> <br><br><br><br><br><br><br><br><img src="images/logo.9551df4b.png"> <h2>perspectives on our evolving city</h2> <h2 class="arrows" style="color: #0038ff">▼</h2> </div> <div class="row" id="migrate_text"> <div class="mig"> <h1>Metro Area Migration and Population</h1> <h3>Atlanta is a vibrant and ever-evolving city whose population has been growing apace for decades, through downturns and up. Those who choose relocate to Atlanta are attracted by a number of factors, chief among which is the rare combination of thriving commerce and economic opportunity with below-national-average cost of living.</h3> <br> <h3>We've chosen to focus on the five counties that comprise the geographic, economic, and cultural heart of the city of Atlanta: Fulton, Dekalb, Gwinnett, Cobb, and Clayton. These five counties tally more than 3.6 million inhabitants, well over half of the vastly larger 20-county metro area.</h3> <br> <h3>The following data visualization presents domestic migration figures into and out of the metro area every year from 2006 to 2011 (the latest year for which there is available data). The subsequent graph shows historical and projected future population growth for these five counties over the next quarter century.</h3> <div class="row graphs"> <div class="graph-buttons"> <button id="chord" class="btn btn-default" ng-click="goToChord();" data-ng-hide="$state.includes('home.migrations')">Migration Chord Diagram</button> </div> </div> <div class="home-view-container"> <div class="home-ui-view" ui-view></div> </div> </div> </div> <div id="dev"> <h1>Development</h1> <div class="vid column-left"> <video width="400" height="300" autoplay loop muted> <source src="images/12mid.mp4" type="video/mp4"> Your browser doesn't support HTML5 video. Get with it and upgrade to Chrome! </video> <div class="devcopy"> <p>Atlanta is a city steeped in history, having emerged from Civil War ruin to sit at the heart of the Civil Rights movement a century later. And the story of the city can be told through her buildings.</p> <br> <p>In recent years, the Great Recession severely dampened development in Atlanta, but as you can see from the next two visualizations, momentum is building for another era of strong growth in the metro area.</p> </div> </div> <div class="column-center" id="development"> <div class="graph-buttons"> <button class="graph_btn" ng-click="selectGraph('permitPie')">Dollars to Donuts</button> <button class="graph_btn" ng-click="selectGraph('permitBar')">Housing Units Line Graph</button> <button class="graph_btn" ng-click="selectGraph('permitBlurb')">Buildings by Era</button> </div> </div> <div class="vizgraphs column-right"> <div ng-switch on="selectedGraph" class="viz"> <div ng-switch-when="permitBlurb"> <div class="buildingsera"> <img src="images/buildings_by_era.86461f2a.png" id="building-decades"> <p><strong>Source:</strong> <a style="color:white" href="http://factfinder.census.gov/faces/nav/jsf/pages/index.xhtml" target="_blank">United States Census Bureau: American Factfinder</a></p> </div> </div> <div ng-switch-when="permitPie"> <header> <h3>Metro Area Building Permits Since 2000 </h3></header> <div class="permitPie text-center" ng-controller="permitPieCtrl"> <div id="slidercontainer permitPie" style="width:100%; height:600px; text-align:center margin: 0 auto"> <pie-chart id="pie-chart" url="/data/permits.json"></pie-chart> <div id="slider" style="width:90%;margin-left:auto;margin-right:auto;margin-top:10px;margin-bottom:50px"></div> </div> <p><strong>Source:</strong> <a style="color:white" href="http://www.terry.uga.edu/about/centers-institutes/selig/housing" target="_blank">University of Georgia Terry College of Business Housing Data</a></p> </div> </div> <div ng-switch-when="permitBar"> <header> <h3>Metro Area Building Permits Since 2000 </h3></header> <div class="permitBar text-center" ng-controller="BldgPmtCtrl"> <div id="permitBar" style="width:95%; margin: 0 auto"> <highchart id="container" config="permitChartConfig"></highchart> </div> <p><strong>Source:</strong> <a style="color:white" href="http://www.terry.uga.edu/about/centers-institutes/selig/housing" target="_blank">University of Georgia Terry College of Business Housing Data</a></p> </div> </div> </div> </div> </div> <div class="skyline"> <h1 style="text-align:center">Our Economy</h1> <p>Already home to 18 Fortune 500 companies and 27 Fortune 1000 companies, Atlanta's diverse economy is the 44th largest in the world. With big-city amenities, a low cost of living, and the world’s busiest airport, Atlanta is emerging as a key player in the fast-growing industries of biotech, healthcare IT, marketing automation, e-security, and mobile technology.<br><br>But our successes don't end there.<br><br>Georgia's growing film industry, for example, generated more than $5 billion last year alone. As a result of our start-up friendly environment, forward-thinking initiatives like the Beltline, and a never-ending supply of bright students, Atlanta seems to be on everyone's mind.</p> </div> <div class="contact"> <div class="contact-bennett"> <a class="bennett-contact-github" href="https://github.com/bennettatoms" target="_blank"><img src="http://fritzo.org/github-icon.png" style="width:24px;height:24px"></a> <a class="bennett-contact-linkedin" href="https://www.linkedin.com/pub/bennett-adams/8/181/3b9" target="_blank"><img src="http://www.spotlightcreative.com/media/uploaded/l/0e2010073_linkedin-icon.gif" style="width:24px;height:24px"></a> </div> <span> </span> <div class="contact-michael"> <a class="michael-contact-github" href="https://github.com/gurliaccio" target="_blank"><img src="http://fritzo.org/github-icon.png" style="width:24px;height:24px"></a> <a class="michael-contact-linkedin" href="https://www.linkedin.com/in/firebad" target="_blank"><img src="http://www.spotlightcreative.com/media/uploaded/l/0e2010073_linkedin-icon.gif" style="width:24px;height:24px"></a> </div> </div> <!--[if lt IE 9]>
   <script type="text/javascript" src="dist/skrollr.ie.min.js"></script>
   <![endif]-->
