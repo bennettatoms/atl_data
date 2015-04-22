@@ -31,7 +31,7 @@
 * As a user, I understand the mission of the website from the welcome page.
 * As a user, I want navigation of the website to be clear and intuitive.
 * As a user, I want data visualized in a way that's interactive and easy to understand.
-* As a user, I want some kind of information to introduce the subject matter of a data visualization.
+* As a user, I want information to introduce the subject matter of a data visualization.
 * As a user, I want to be able to seamlessly load multiple windows/charts without having to navigate to a different address or refresh the page.
 * As a user, I want to see information presented in a variety of ways, i.e. not the same type of chart over and over again.
 * As a user, I want to be able to access the page/information without having to sign up/log in/share personal information.
