@@ -12,7 +12,7 @@
 
 ##Links
 ---
-* [ElevATL](http://45.55.171.96:9000/)
+* [ElevATL](http://elevatl.herokuapp.com/)
 * [Trello Board](https://trello.com/b/TI6qNTvi/atl-data-viz-app) 
 * [Moqups](https://moqups.com/#!/edit/gurliaccio/a4Sr4F4P)
 * [GitHub](https://github.com/bennettatoms/atl_data)
@@ -24,7 +24,7 @@
 * Front-end design and development: [AngularJS](https://angularjs.org/), JavaScript, HTML5, CSS3
 * Back end design and development: [Ruby 2.1.2](https://www.ruby-lang.org/en/), [Rails 4.2.0](http://weblog.rubyonrails.org/), and [PostgresQL](http://www.postgresql.org/), Active Record
 * Package Management/Scaffolding: [Yeoman](http://yeoman.io/), [Node Package Manager](https://www.npmjs.com/), [Bower](http://bower.io/), [Grunt](http://gruntjs.com/)
-* Deployment: [Digital Ocean](https://www.digitalocean.com/)
+* Deployment: [Heroku](https://www.heroku.com/)
 
 ##User Story Examples
 ---
