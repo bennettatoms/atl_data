@@ -1,0 +1,451 @@
+html, body, div, span, p, a, del, em, img, ol, ul, li, fieldset, form, label {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  /*display: block;*/
+}
+
+html, body {
+  line-height: 1;
+  min-height:100%;
+  font-family:Artial, Verdana, sans-serif;
+}
+
+body {
+  background: #eeeeee;
+  background: -webkit-linear-gradient(top, #eeeeee, #cccccc 100%);
+  background: -moz-linear-gradient(top, #eeeeee, #cccccc 100%);
+  background: -o-linear-gradient(top, #eeeeee, #cccccc 100%);
+  background: -ms-linear-gradient(top, #eeeeee, #cccccc 100%);
+  background: linear-gradient(top, #eeeeee, #cccccc 100%);
+  background-attachment:fixed;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+p {
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-size: 1em;
+  color:white;
+  /*padding-left: 270px;*/
+  text-align: left;
+  /*margin:1em 0;*/
+  /*line-height:1em;*/
+}
+
+q {
+  font-style:italic;
+  color:#333;
+}
+
+h1 {
+  color:white;
+  font-size:4em;
+  text-align: center;
+  font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+h2 {
+  color:white;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-size:2em;
+  margin:2em 0 1em 0;
+}
+
+h2:first-child {margin-top:0;}
+
+h3 {
+  color:white;
+  font-size:1.5em;
+  /*margin:1em 0;*/
+  text-align: center;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+h4 {
+  color:white;
+  font-size:1em;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  text-align: left;
+  padding-left: 270px;
+  /*margin:1em 0;*/
+}
+
+#migrate h2 {
+  color: black;
+}
+
+highchart #container {
+  height: 500px;
+}
+
+.graph-buttons {
+  text-align: center;
+}
+
+.panelyears {
+  float: left;
+  padding-left: 10%;
+}
+
+.dia {
+  color: blue;
+}
+
+.chart {
+  max-width: 60%;
+  max-height: 880px;
+}
+
+#irs {
+  padding-left: 25px;
+  color: white;
+}
+
+#dev {
+  text-align: center;
+  background-image: url(/images/Black-Gradient2.jpg);
+  background-size: cover;
+  width: 100%;
+  /*display: inline-block;*/
+  height: 810px;
+  margin-top: -43px;
+}
+
+.vid {
+  margin-top: -60px;
+}
+
+.buildingsera p {
+  margin-bottom: 10px;
+}
+
+.devcopy p {
+  width: 92%;
+  text-align: left;
+  padding-left: 20px;
+  font-size: 24px;
+}
+
+.graph-buttons {
+  display: block;
+  text-align: center;
+  padding: 15px;
+}
+
+.graph_btn{
+  color: white;
+  width: 90%;
+  height: 80px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  font-size: 24px;
+  border-radius: 35px;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  background: #67C8FF;
+}
+
+.graph_btn:hover {
+    color: black;
+    background-color: lightblue;
+}
+
+.buildingsera {
+  padding-right: 15px;
+}
+
+.buildingsera p {
+  margin-left: 100px;
+}
+
+.permitPie p {
+  margin-left: 75px;
+}
+
+.permitBar p {
+  margin-left: 80px;
+}
+
+.column-center {
+  display: inline-block;
+  width: 20%;
+}
+
+.column-left{
+  float: left;
+  width: 30%;
+}
+
+.column-right{
+  float: right;
+  width: 48%;
+  padding-right: 15px;
+}
+
+.skyline {
+  background-repeat: no-repeat;
+  background-image: url(/images/skyl5.jpg);
+  background-size: contain;
+  width: 100%;
+  height: 850px;
+  margin-top: -42px;
+}
+
+.skyline h1 {
+  text-align: center;
+  color: black;
+}
+
+.skyline h5 {
+  text-align: center;
+  color: white;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  padding-top: 800px;
+}
+
+.skyline p {
+  color: black;
+  font-size: 1.5em;
+  text-align: center;
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-top: -25px;
+}
+
+.vizgraphs {
+  margin-top: -20px;
+}
+
+#building-decades {
+  width: 99%;
+  height: 90%;
+}
+
+.contact {
+  text-align: center;
+  margin-top: -80px;
+}
+
+.contact-bennett {
+  display: inline-block;
+  margin-right: 30px;
+}
+
+.contact-michael {
+  display: inline-block;
+  padding-left: 150px;
+}
+
+#pop {
+  color: white;
+  background: blue;
+  border-radius: 55px;
+  text-align: center;
+}
+
+#pop:hover {
+    color: black;
+    background: lightblue;
+    box-shadow: 0px 0px 2px #777;
+}
+
+#chord {
+  text-align: center;
+  color: white;
+  background: #67C8FF;
+  border-radius: 55px;
+  width: 30em;  
+  height: 3em;
+}
+
+#chord:hover {
+    color: black;
+    background: lightblue;
+    box-shadow: 0px 0px 2px #777;
+    width: 30em;  
+    height: 3em;
+}
+
+#progress {
+  height:2%;
+  background:#444;
+  bottom:0;
+  z-index:200;
+}
+
+#scrollbar {
+  position:fixed;
+  right:2px;
+  height:50px;
+  width:6px;
+  background:#444;
+  background:rgba(0,0,0,0.6);
+  border:1px solid rgba(255,255,255,0.6);
+  z-index:300;
+  border-radius:3px;
+}
+
+
+#bg1, #bg2, #bg3 {
+  z-index:50;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  /*background:url(images/bubbles.jpg) no-repeat;*/
+}
+
+#bg2 {
+  z-index:49;
+  background-image:url(/images/bubbles2.470e54a3.jpg);
+  background-size: 1500px 900px;
+  background-repeat: no-repeat;
+}
+
+#bg3 {
+  z-index:48;
+  background-image:url(/images/bubbles3.3d96cbaa.jpg);
+  background-size: 3000px 1200px;
+  background-repeat: no-repeat;
+}
+
+#rtp {
+  top: 10px;
+  float:right;
+  margin-right:-40%;
+}
+
+/* BEGIN CHORD DIAGRAM SECTION */
+
+#tooltip {
+  background-color: white;
+  pointer-events: none;
+  font-size: 12px;
+  z-index: 1000;
+  color: grey;
+  position: fixed;
+  width: 500px;
+  border-radius: 6px;
+  opacity: 0;
+  bottom: 10%;
+  right: 5%;
+  box-shadow: 5px 5px 2.5px #666;
+}
+
+path.chord {
+  -webkit-backface-visibility: hidden;
+  fill-opacity: .67;
+  stroke: none;
+}
+
+text, .group path {
+  cursor: pointer;
+}
+
+input[type="radio"] {
+  margin: 0px;
+}
+
+.years {
+  height: 600px;
+  overflow: scroll;
+}
+
+.tip-text h6 {
+  font-size: 12pt;
+}
+
+.side-nav-left {
+  float: left;
+}
+
+.side-nav-right {
+  float: right;
+}
+
+.filters {
+  float: right;
+  padding-right: 10%;
+  text-align: right;
+}
+
+.filters h3 {
+  color: black;
+  text-align: right;
+}
+
+aside {
+  margin: 0px;
+}
+
+/* END CHORD DIAGRAM SECTION */
+/* BEGIN PIE CHART SECTION */
+
+#slidercontainer {
+  width: 90%;
+}
+
+#pie-chart {
+  background-color: #ffffff;
+  /*border: 1px solid gray;*/
+  /*font: 10px sans-serif;*/
+  height: 400px;
+  text-shadow: none;
+  width: 650px;
+  margin-left: auto;
+  margin-right:auto;
+}
+
+#pie-chart .total{
+  fill: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+#pie-chart .units{
+  fill: white;
+  font-size: 12px; 
+}
+
+#pie-chart .label{
+  fill: white;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+#pie-chart .value{
+  fill: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+#slider {
+  width: 48%;
+  margin-left: 50%;
+}
+
+#slider label {
+  position: absolute;
+  color: white;
+  /*width: 20px;
+  margin-left: 0px;*/
+  text-align: center;
+  margin-top: 30px;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  transform: translate(0,100%) rotate(-45deg);
+    transform-origin: 0 0;
+}
+
+/* END PIE CHART SECTION */
+
+
