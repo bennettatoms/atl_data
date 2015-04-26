@@ -2,7 +2,7 @@ require 'csv'
 
 task :push_csv_to_db => :environment do
   desc "Push csv data into database table"
-  file_name = 'lib/tasks/2006_migrations_square.csv'
+  # file_name = 'lib/tasks/2006_migrations_square.csv'
   # file_name = 'lib/tasks/2010_migrations_square.csv'
   # file_name = 'lib/tasks/2009_migrations_square.csv'
   # file_name = 'lib/tasks/2008_migrations_square.csv'

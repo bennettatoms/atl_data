@@ -59,6 +59,8 @@ h2 {
   font-family: 'Alegreya Sans SC', sans-serif;
   font-size:2em;
   margin:2em 0 1em 0;
+  -webkit-animation-delay: 2s; /* Chrome, Safari, Opera */
+    animation-delay: 2s;
 }
 
 h2:first-child {margin-top:0;}
@@ -115,7 +117,9 @@ highchart #container {
 
 #dev {
   text-align: center;
-  background-image: url(/images/Black-Gradient2.jpg);
+  /*background-image: url(/images/Black-Gradient2.jpg);*/
+  transition: background-color 0.5s ease;
+  background-color: black;
   background-size: cover;
   width: 100%;
   /*display: inline-block;*/
@@ -123,6 +127,38 @@ highchart #container {
   margin-top: -43px;
 }
 
+#dev:hover {
+  background-color: #03c03c;
+}
+
+.mig {
+  /*background-image: url(images/Black-Gradient.jpg);*/
+  text-align: center;
+  padding-top: 50px;
+  transition: background-color 0.5s ease;
+  background-color: #148dfa;
+}
+
+.mig:hover {
+ background-color: black; 
+}
+
+.mig2 {
+  -webkit-animation-delay: 6s; /* Chrome, Safari, Opera */
+    animation-delay: 6s;
+}
+
+.mig3 {
+  -webkit-animation-delay: 6s; /* Chrome, Safari, Opera */
+    animation-delay: 6s;
+}
+
+.audio {
+    position: fixed;
+    top: 30px;
+    left: 5px;
+    z-index: 2;
+}
 .vid {
   margin-top: -60px;
 }
@@ -195,10 +231,10 @@ highchart #container {
 
 .skyline {
   background-repeat: no-repeat;
-  background-image: url(/images/skyl5.jpg);
+  background-image: url(/images/skyl6.jpg);
   background-size: contain;
   width: 100%;
-  height: 850px;
+  height: 750px;
   margin-top: -42px;
 }
 
@@ -239,12 +275,12 @@ highchart #container {
 
 .contact-bennett {
   display: inline-block;
-  margin-right: 30px;
+  margin-right: 280px;
 }
 
 .contact-michael {
   display: inline-block;
-  padding-left: 150px;
+  padding-left: 80px;
 }
 
 #pop {
@@ -325,8 +361,6 @@ highchart #container {
   float:right;
   margin-right:-40%;
 }
-
-
 
 /* BEGIN CHORD DIAGRAM SECTION */
 
