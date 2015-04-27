@@ -1,60 +1,46 @@
 <style> 
 #top {
-    background-image: url(images/bubbles2.jpg);
-    
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    text-align: center;
-    padding-bottom: 500px;
-}
-
-#migrate {
-    background-color: white;
-    /*margin-bottom:10px;*/
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    text-align: center;
-    /*padding-bottom: 50px;*/
-}
-
-#migrate_text {
-  /*background-color: black;*/
+  background-image: url(images/bubbles2.jpg); 
   background-size: 100% 100%;
   background-repeat: no-repeat;
   text-align: center;
-  /*padding-bottom: 100px;*/
-  /*height: 500px;*/
-  
+  padding-bottom: 500px;
 }
 
-.mig {
-  background-image: url(images/Black-Gradient.jpg);
+#migrate {
+  background-color: white;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
   text-align: center;
-  padding-top: 50px;
-  /*padding-bottom: 100px;*/
+}
+
+#migrate_text {
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  text-align: center;
 }
 
 </style>
 
-<audio autoplay loop>
+<audio autoplay class="audio" controls autoplay>
     <source src="images/mix.mp3" type="audio/mpeg">
     You need Chrome! Your browser doesn't support audio, and that ain't cool.
 </audio>
 
-<div id="top">
+<div id="top" class="animated fadeIn">
     <br><br><br><br><br><br><br><br><img src="images/logo.png">
-    <h2>perspectives on our evolving city</h2>
+    <h2 class="animated fadeIn">perspectives on our evolving city</h2>
     <h2 class="arrows" style="color: #0038ff">▼</h2>
 </div>
 
 <div class="row" id="migrate_text">
   <div class="mig">
-    <h1>Metro Area Migration and Population</h1>
-    <h3>Atlanta is a vibrant and ever-evolving city whose population has been growing apace for decades, through downturns and up. Those who choose relocate to Atlanta are attracted by a number of factors, chief among which is the rare combination of thriving commerce and economic opportunity with below-national-average cost of living.</h3>
+    <h1 class="mig2 animated fadeIn">Metro Area Migration and Population</h1>
+    <h3 class="mig3 animated fadeIn">Atlanta is a vibrant and ever-evolving city whose population has been growing apace for decades, through downturns and up. Those who choose relocate to Atlanta are attracted by a number of factors, chief among which is the rare combination of thriving commerce and economic opportunity with below-national-average cost of living.</h3>
     <br>
-    <h3>We've chosen to focus on the five counties that comprise the geographic, economic, and cultural heart of the city of Atlanta: Fulton, Dekalb, Gwinnett, Cobb, and Clayton. These five counties tally more than 3.6 million inhabitants, well over half of the vastly larger 20-county metro area.</h3>
+    <h3 class="mig3 animated fadeIn">We've chosen to focus on the five counties that comprise the geographic, economic, and cultural heart of the city of Atlanta: Fulton, Dekalb, Gwinnett, Cobb, and Clayton. These five counties tally more than 3.6 million inhabitants, well over half of the vastly larger 20-county metro area.</h3>
     <br>
-    <h3>The following data visualization presents domestic migration figures into and out of the metro area every year from 2006 to 2011 (the latest year for which there is available data). The subsequent graph shows historical and projected future population growth for these five counties over the next quarter century.</h3>
+    <h3 class="mig3 animated fadeIn">The following data visualization presents domestic migration figures into and out of the metro area every year from 2006 to 2011 (the latest year for which there is available data). The subsequent graph shows historical and projected future population growth for these five counties over the next quarter century.</h3>
     <div class="row graphs">
       <div class="graph-buttons">
         <button id="chord" class="btn btn-default" ng-click="goToChord();" data-ng-hide="$state.includes('home.migrations')">Migration Chord Diagram</button>
@@ -68,7 +54,7 @@
 </div>
 
   <div id="dev">   
-    <h1>Development</h1>
+    <h1 class="animated fadeIn">Development</h1>
     <div class="vid column-left">
       <video width="400" height="300" autoplay loop muted>
         <source src="images/12mid.mp4" type="video/mp4">
@@ -127,16 +113,14 @@
   <div class="skyline" >
     <h1 style="text-align:center">Our Economy</h1>
     <p>Already home to 18 Fortune 500 companies and 27 Fortune 1000 companies, Atlanta's diverse economy is the 44th largest in the world. With big-city amenities, a low cost of living, and the world’s busiest airport, Atlanta is emerging as a key player in the fast-growing industries of biotech, healthcare IT, marketing automation, e-security, and mobile technology.<br><br>But our successes don't end there.<br><br>Georgia's growing film industry, for example, generated more than $5 billion last year alone. As a result of our start-up friendly environment, forward-thinking initiatives like the Beltline, and a never-ending supply of bright students, Atlanta seems to be on everyone's mind.</p>
-  </div>
-  <div class="contact"> 
-    <div class="contact-bennett">
-      <a class="bennett-contact-github" href="https://github.com/bennettatoms" target="_blank"><img src="http://fritzo.org/github-icon.png" style="width:24px;height:24px;"></a>
-      <a class="bennett-contact-linkedin" href="https://www.linkedin.com/pub/bennett-adams/8/181/3b9" target="_blank"><img src="http://www.spotlightcreative.com/media/uploaded/l/0e2010073_linkedin-icon.gif" style="width:24px;height:24px;"></a>
+    <div class="contact-bennett" style="padding-left:550px;padding-top:400px;">
+      <a class="bennett-contact-github" href="https://github.com/bennettatoms" target="_blank"><img src="http://dev.bowdenweb.com/a/i/cons/simple-icons/github/github-4096.png" style="width:34px;height:34px;"></a>
+      <a class="bennett-contact-linkedin" href="https://www.linkedin.com/pub/bennett-adams/8/181/3b9" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Linkedin_Shiny_Icon.svg/1000px-Linkedin_Shiny_Icon.svg.png" style="width:24px;height:22px;"></a>
     </div>
     <span>       </span>
     <div class="contact-michael">
-      <a class="michael-contact-github" href="https://github.com/gurliaccio" target="_blank"><img src="http://fritzo.org/github-icon.png" style="width:24px;height:24px;"></a>
-      <a class="michael-contact-linkedin" href="https://www.linkedin.com/in/firebad" target="_blank"><img src="http://www.spotlightcreative.com/media/uploaded/l/0e2010073_linkedin-icon.gif" style="width:24px;height:24px;"></a>
+      <a class="michael-contact-github" href="https://github.com/gurliaccio" target="_blank"><img src="http://dev.bowdenweb.com/a/i/cons/simple-icons/github/github-4096.png" style="width:34px;height:34px;"></a>
+      <a class="michael-contact-linkedin" href="https://www.linkedin.com/in/firebad" target="_blank"><img src="http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Linkedin_Shiny_Icon.svg/1000px-Linkedin_Shiny_Icon.svg.png" style="width:24px;height:22px;"></a>
     </div>
   </div>
 
