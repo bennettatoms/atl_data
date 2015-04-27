@@ -131,7 +131,7 @@ highchart #container {
   background-color: #03c03c;
 }
 
-mig {
+.mig {
   /*background-image: url(images/Black-Gradient.jpg);*/
   text-align: center;
   padding-top: 50px;
@@ -362,8 +362,6 @@ mig {
   float:right;
   margin-right:-40%;
 }
-
-
 
 /* BEGIN CHORD DIAGRAM SECTION */
 
